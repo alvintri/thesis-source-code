@@ -512,9 +512,9 @@ No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Ongkir,Rate Code,Rate Type
 511,ID Express,78243,74361,62000,iDSTD,reguler
 512,SiCepat,78243,22742,63000,SIUNT,reguler
 513,ID Express,78243,29427,41000,iDSTD,reguler
-514,,78243,91211,
-515,,78243,94561,
-516,,78243,30111,
+514,ID Express,78243,91211,57400,iDSTD,reguler
+515,J&T Express,78243,94561,57000,EZ,reguler
+516,ID Express,78243,30111,23800,iDSTD,reguler
 517,JNE,78243,28711,58000,OKE19,reguler
 518,J&T Express,78243,21211,54000,EZ,reguler
 519,SiCepat,78243,70815,66000,SIUNT,reguler
