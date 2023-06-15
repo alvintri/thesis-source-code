@@ -1,0 +1,501 @@
+Id,provinceName,City Name,Latitude,Longitude,postalCode
+273,Sumatera Utara,Mandailing Natal,0.847732,99.250065,22911
+23,Gorontalo,Pohuwato,0.739309,121.991675,96266
+167,Sulawesi Selatan,Maros,-5.055282,119.630989,90511
+32,Jambi,Tanjung Jabung Barat,-1.25072,103.38945,36514
+168,Sulawesi Selatan,Palopo,-2.978439,120.091282,91911
+265,Sumatera Utara,Deli Serdang,3.480805,98.664792,20511
+21,Gorontalo,Gorontalo,0.54854,123.070209,96112
+146,Riau,Rokan Hilir,1.950618,100.825648,28911
+76,Kalimantan Tengah,Sukamara,-2.600499,111.220706,74172
+106,Lampung,Metro,-5.113594,105.305088,34111
+124,Aceh,Aceh Utara,4.981445,97.438202,24311
+290,Sumatera Utara,Tapanuli Tengah,1.815388,98.883182,22611
+99,Lampung,Bandar Lampung,-5.427139,105.257972,35111
+44,Kalimantan Barat,Sambas,1.403274,109.325107,79465
+156,Sulawesi Selatan,Bantaeng,-5.516169,119.931403,92412
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+21,Gorontalo,Gorontalo,0.54854,123.070209,96112
+13,Bengkulu,Kepahiang,-3.662338,102.524653,39112
+142,Riau,Kepulauan Meranti,0.936412,102.700215,28755
+130,Aceh,Lhokseumawe,5.186948,97.133471,24352
+138,Riau,Dumai,1.678102,101.449121,28811
+261,Sumatera Utara,Asahan,2.766106,99.047137,21211
+251,Sumatera Selatan,Ogan Ilir,-3.446469,104.618896,30611
+265,Sumatera Utara,Deli Serdang,3.480805,98.664792,20511
+77,Kalimantan Timur,Balikpapan,-1.267638,116.827905,76111
+186,Sulawesi Tengah,Parigi Moutong,0.53997,119.710356,94561
+45,Kalimantan Barat,Sanggau,0.13477,110.592349,78557
+252,Sumatera Selatan,Ogan Komering Ilir,-3.446607,104.488097,30655
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+154,Sulawesi Barat,Mamuju Tengah,-2.573133,119.363607,91512
+48,Kalimantan Barat,Sintang,0.06395,111.492913,78611
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+26,Jambi,Jambi,-1.610122,103.613122,36128
+290,Sumatera Utara,Tapanuli Tengah,1.815388,98.883182,22611
+75,Kalimantan Tengah,Seruyan,-2.552164,112.581647,74261
+193,Sulawesi Tenggara,Bau-Bau,-5.469289,122.604655,93711
+150,Sulawesi Barat,Mamasa,-2.989799,119.345682,91371
+144,Riau,Pekanbaru,0.534482,101.447679,28111
+85,Kalimantan Timur,Samarinda,-0.502106,117.153709,75111
+141,Riau,Kampar,0.291466,101.143107,28411
+34,Jambi,Tebo,-1.578579,102.349139,37571
+28,Jambi,Merangin,-2.34895,102.126105,37311
+268,Sumatera Utara,Karo,3.028802,98.277303,22111
+120,Aceh,Aceh Tamiang,4.065084,97.967821,24476
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+81,Kalimantan Timur,Kutai Kartanegara,-0.214494,116.959885,75511
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+255,Sumatera Selatan,Ogan Komering Ulu Timur,-3.60614,103.975773,32184
+25,Jambi,Bungo,-1.346301,101.842768,37211
+279,Sumatera Utara,Padang Lawas,1.454282,99.246087,22711
+235,Sumatera Barat,Pasaman Barat,-0.356482,99.872362,26566
+105,Lampung,Mesuji,-4.003371,105.39169,34684
+245,Sumatera Selatan,Empat Lawang,-3.730898,102.78492,31511
+109,Lampung,Pringsewu,-5.364748,104.972015,35376
+92,Kepulauan Riau,Batam,1.045626,104.030454,29427
+264,Sumatera Utara,Dairi,2.932329,98.132973,22211
+21,Gorontalo,Gorontalo,0.54854,123.070209,96112
+42,Kalimantan Barat,Pontianak,-0.099983,109.330533,78243
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+44,Kalimantan Barat,Sambas,1.403274,109.325107,79465
+167,Sulawesi Selatan,Maros,-5.055282,119.630989,90511
+159,Sulawesi Selatan,Bulukumba,-5.425673,120.203804,92511
+262,Sumatera Utara,Batu Bara,3.287994,99.507255,21255
+235,Sumatera Barat,Pasaman Barat,-0.356482,99.872362,26566
+116,Aceh,Aceh Besar,5.506105,95.36854,24382
+243,Sumatera Barat,Tanah Datar,-0.453214,100.531948,27211
+108,Lampung,Pesisir Barat,-2.651421,101.132202,34877
+99,Lampung,Bandar Lampung,-5.427139,105.257972,35111
+17,Bengkulu,Seluma,-4.078363,103.738369,38878
+14,Bengkulu,Lebong,-3.053336,102.489627,39265
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+255,Sumatera Selatan,Ogan Komering Ulu Timur,-3.60614,103.975773,32184
+285,Sumatera Utara,Serdang Bedagai,3.432974,99.112736,20995
+207,Sulawesi Tenggara,Muna Barat,-4.997515,122.60566,93671
+65,Kalimantan Tengah,Barito Utara,-0.889685,115.137965,73881
+58,Kalimantan Selatan,Kotabaru,-3.267211,116.225153,72163
+109,Lampung,Pringsewu,-5.364748,104.972015,35376
+144,Riau,Pekanbaru,0.534482,101.447679,28111
+102,Lampung,Lampung Tengah,-4.884785,105.198391,34157
+192,Sulawesi Tengah,Morowali Utara,0.900303,121.677543,94971
+116,Aceh,Aceh Besar,5.506105,95.36854,24382
+16,Bengkulu,Rejang Lebong,-3.385216,102.759482,39115
+160,Sulawesi Selatan,Enrekang,-3.573256,119.752596,91711
+165,Sulawesi Selatan,Luwu Utara,-2.382177,119.944564,92917
+152,Sulawesi Barat,Mamuju Utara,-1.498526,119.239087,91561
+268,Sumatera Utara,Karo,3.028802,98.277303,22111
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+268,Sumatera Utara,Karo,3.028802,98.277303,22111
+248,Sumatera Selatan,Muara Enim,-3.549068,103.85882,31311
+92,Kepulauan Riau,Batam,1.045626,104.030454,29427
+191,Sulawesi Tengah,Banggai Laut,-1.675078,123.044016,94892
+44,Kalimantan Barat,Sambas,1.403274,109.325107,79465
+105,Lampung,Mesuji,-4.003371,105.39169,34684
+66,Kalimantan Tengah,Gunung Mas,-2.464237,112.862867,74511
+128,Aceh,Gayo Lues,3.986971,97.317543,24653
+289,Sumatera Utara,Tapanuli Selatan,-1.7854,99.100706,22742
+239,Sumatera Barat,Sijunjung (Sawah Lunto Sijunjung),-0.679012,101.253522,27511
+177,Sulawesi Selatan,Tana Toraja,-3.086371,119.904811,91811
+266,Sumatera Utara,Gunungsitoli,1.277031,97.635925,22811
+137,Riau,Bengkalis,1.488894,102.264307,28711
+221,Sulawesi Utara,Minahasa Selatan,1.070894,124.813615,95953
+267,Sumatera Utara,Humbang Hasundutan,2.33024,98.663552,22411
+103,Lampung,Lampung Timur,-5.118196,105.708374,34194
+206,Sulawesi Tenggara,Kolaka Timur,-4.068587,121.826181,93572
+248,Sumatera Selatan,Muara Enim,-3.549068,103.85882,31311
+6,Bangka Belitung,Belitung Timur,-2.909958,108.160792,33511
+45,Kalimantan Barat,Sanggau,0.13477,110.592349,78557
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+159,Sulawesi Selatan,Bulukumba,-5.425673,120.203804,92511
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+265,Sumatera Utara,Deli Serdang,3.480805,98.664792,20511
+70,Kalimantan Tengah,Kotawaringin Timur,-2.04596,112.297125,74361
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+60,Kalimantan Selatan,Tanah Bumbu,-3.448552,115.61463,72211
+127,Aceh,Bireuen,5.16914,96.789803,24261
+51,Kalimantan Selatan,Banjar,-3.47219,114.8638,70611
+153,Sulawesi Barat,Polewali Mandar,-3.281948,119.336006,91311
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+241,Sumatera Barat,Solok,-0.789275,100.653445,27381
+250,Sumatera Selatan,Musi Rawas,-2.77162,103.008349,31661
+185,Sulawesi Tengah,Palu,-0.883391,119.481491,94111
+115,Aceh,Aceh Barat Daya,3.779372,97.609232,23764
+53,Kalimantan Selatan,Banjarmasin,-3.320299,114.591866,70117
+249,Sumatera Selatan,Musi Banyuasin,-2.689627,104.380374,30711
+87,Kalimantan Utara,Bulungan,2.890445,117.986957,77211
+82,Kalimantan Timur,Kutai Timur,-1.81616,117.614852,75683
+151,Sulawesi Barat,Mamuju,-2.548926,118.909548,91511
+285,Sumatera Utara,Serdang Bedagai,3.432974,99.112736,20995
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+110,Lampung,Tanggamus,-5.351673,104.751878,35611
+34,Jambi,Tebo,-1.578579,102.349139,37571
+281,Sumatera Utara,Padang Sidempuan,1.369063,99.273018,22727
+110,Lampung,Tanggamus,-5.351673,104.751878,35611
+59,Kalimantan Selatan,Tabalong,-1.747828,115.915417,71513
+29,Jambi,Muaro Jambi,-1.602238,103.610513,36364
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+163,Sulawesi Selatan,Luwu,-2.811711,120.124027,91992
+140,Riau,Indragiri Hulu,0.862682,102.731788,29319
+225,Sumatera Barat,Agam,-0.254882,100.233707,26164
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+127,Aceh,Bireuen,5.16914,96.789803,24261
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+146,Riau,Rokan Hilir,1.950618,100.825648,28911
+167,Sulawesi Selatan,Maros,-5.055282,119.630989,90511
+50,Kalimantan Selatan,Balangan,-2.330097,115.275682,71665
+101,Lampung,Lampung Selatan,-5.51985,104.939981,35592
+254,Sumatera Selatan,Ogan Komering Ulu Selatan,-4.235329,103.530487,32274
+291,Sumatera Utara,Tapanuli Utara,2.06944,99.858572,22411
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+105,Lampung,Mesuji,-4.003371,105.39169,34684
+102,Lampung,Lampung Tengah,-4.884785,105.198391,34157
+106,Lampung,Metro,-5.113594,105.305088,34111
+192,Sulawesi Tengah,Morowali Utara,0.900303,121.677543,94971
+110,Lampung,Tanggamus,-5.351673,104.751878,35611
+51,Kalimantan Selatan,Banjar,-3.47219,114.8638,70611
+16,Bengkulu,Rejang Lebong,-3.385216,102.759482,39115
+265,Sumatera Utara,Deli Serdang,3.480805,98.664792,20511
+118,Aceh,Aceh Selatan,3.311304,97.222096,23711
+143,Riau,Kuantan Singingi,-0.45251,101.45289,29511
+36,Kalimantan Barat,Kapuas Hulu,0.918956,112.926506,78716
+90,Kalimantan Utara,Tana Tidung,3.459778,117.59843,77152
+289,Sumatera Utara,Tapanuli Selatan,-1.7854,99.100706,22742
+181,Sulawesi Tengah,Banggai Kepulauan,0.800005,123.080234,94881
+26,Jambi,Jambi,-1.610122,103.613122,36128
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+269,Sumatera Utara,Labuhan Batu,2.256043,100.043743,21411
+141,Riau,Kampar,0.291466,101.143107,28411
+35,Kalimantan Barat,Bengkayang,1.013747,109.618018,79211
+255,Sumatera Selatan,Ogan Komering Ulu Timur,-3.60614,103.975773,32184
+168,Sulawesi Selatan,Palopo,-2.978439,120.091282,91911
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+212,Sulawesi Utara,Bolaang Mongondow Selatan,0.601825,124.4335,95751
+85,Kalimantan Timur,Samarinda,-0.502106,117.153709,75111
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+185,Sulawesi Tengah,Palu,-0.883391,119.481491,94111
+185,Sulawesi Tengah,Palu,-0.883391,119.481491,94111
+38,Kalimantan Barat,Ketapang,-1.88691,109.967179,78873
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+101,Lampung,Lampung Selatan,-5.51985,104.939981,35592
+186,Sulawesi Tengah,Parigi Moutong,0.53997,119.710356,94561
+244,Sumatera Selatan,Banyuasin,-2.434015,104.583599,30911
+145,Riau,Pelalawan,0.160037,102.258579,28383
+210,Sulawesi Utara,Bitung,1.452365,125.184611,95511
+235,Sumatera Barat,Pasaman Barat,-0.356482,99.872362,26566
+171,Sulawesi Selatan,Pinrang,-3.742875,119.520969,91211
+244,Sumatera Selatan,Banyuasin,-2.434015,104.583599,30911
+92,Kepulauan Riau,Batam,1.045626,104.030454,29427
+27,Jambi,Kerinci,-2.04188,101.986481,37162
+148,Riau,Siak,0.759398,101.923919,28763
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+193,Sulawesi Tenggara,Bau-Bau,-5.469289,122.604655,93711
+81,Kalimantan Timur,Kutai Kartanegara,-0.214494,116.959885,75511
+118,Aceh,Aceh Selatan,3.311304,97.222096,23711
+261,Sumatera Utara,Asahan,2.766106,99.047137,21211
+144,Riau,Pekanbaru,0.534482,101.447679,28111
+122,Aceh,Aceh Tenggara,3.263524,97.792933,24651
+279,Sumatera Utara,Padang Lawas,1.454282,99.246087,22711
+43,Kalimantan Barat,Pontianak,-0.036714,109.338004,78113
+107,Lampung,Pesawaran,-5.487725,105.119718,35367
+74,Kalimantan Tengah,Pulang Pisau,-2.998445,113.948774,74872
+73,Kalimantan Tengah,Palangka Raya,-2.204763,113.924411,73112
+204,Sulawesi Tenggara,Wakatobi,-5.348188,123.605246,93791
+186,Sulawesi Tengah,Parigi Moutong,0.53997,119.710356,94561
+285,Sumatera Utara,Serdang Bedagai,3.432974,99.112736,20995
+146,Riau,Rokan Hilir,1.950618,100.825648,28911
+162,Sulawesi Selatan,Jeneponto,-5.582748,119.641924,92311
+60,Kalimantan Selatan,Tanah Bumbu,-3.448552,115.61463,72211
+251,Sumatera Selatan,Ogan Ilir,-3.446469,104.618896,30611
+251,Sumatera Selatan,Ogan Ilir,-3.446469,104.618896,30611
+144,Riau,Pekanbaru,0.534482,101.447679,28111
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+161,Sulawesi Selatan,Gowa,-5.370028,119.689257,92111
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+246,Sumatera Selatan,Lahat,-3.798075,103.516954,31411
+58,Kalimantan Selatan,Kotabaru,-3.267211,116.225153,72163
+158,Sulawesi Selatan,Bone,-4.826803,120.052518,92711
+39,Kalimantan Barat,Kubu Raya,0.122803,109.609764,78384
+164,Sulawesi Selatan,Luwu Timur,-3.350617,120.347328,92981
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+5,Bangka Belitung,Belitung,-2.741736,107.625053,33411
+3,Bangka Belitung,Bangka Selatan,-3.084776,106.109833,33783
+22,Gorontalo,Gorontalo Utara,0.890577,122.831301,96254
+180,Sulawesi Tengah,Banggai,-1.71458,123.250741,94711
+147,Riau,Rokan Hulu,0.881609,100.655658,28557
+144,Riau,Pekanbaru,0.534482,101.447679,28111
+80,Kalimantan Timur,Kutai Barat,0.562174,115.689548,75765
+126,Aceh,Bener Meriah,4.732755,96.901736,24581
+163,Sulawesi Selatan,Luwu,-2.811711,120.124027,91992
+177,Sulawesi Selatan,Tana Toraja,-3.086371,119.904811,91811
+164,Sulawesi Selatan,Luwu Timur,-3.350617,120.347328,92981
+54,Kalimantan Selatan,Barito Kuala,-1.967769,114.810215,73712
+164,Sulawesi Selatan,Luwu Timur,-3.350617,120.347328,92981
+102,Lampung,Lampung Tengah,-4.884785,105.198391,34157
+240,Sumatera Barat,Solok,-0.792548,100.652947,27383
+158,Sulawesi Selatan,Bone,-4.826803,120.052518,92711
+252,Sumatera Selatan,Ogan Komering Ilir,-3.446607,104.488097,30655
+137,Riau,Bengkalis,1.488894,102.264307,28711
+32,Jambi,Tanjung Jabung Barat,-1.25072,103.38945,36514
+239,Sumatera Barat,Sijunjung (Sawah Lunto Sijunjung),-0.679012,101.253522,27511
+103,Lampung,Lampung Timur,-5.118196,105.708374,34194
+241,Sumatera Barat,Solok,-0.789275,100.653445,27381
+15,Bengkulu,Muko Muko,-2.574339,101.161049,38711
+174,Sulawesi Selatan,Sinjai,-5.161904,120.250178,92611
+216,Sulawesi Utara,Kepulauan Siau Tagulandang Biaro (Sitaro),2.546334,125.470039,95862
+148,Riau,Siak,0.759398,101.923919,28763
+153,Sulawesi Barat,Polewali Mandar,-3.281948,119.336006,91311
+256,Sumatera Selatan,Pagar Alam,-4.036926,103.267032,31512
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+148,Riau,Siak,0.759398,101.923919,28763
+270,Sumatera Utara,Labuhan Batu Selatan,1.978433,100.095751,21464
+140,Riau,Indragiri Hulu,0.862682,102.731788,29319
+28,Jambi,Merangin,-2.34895,102.126105,37311
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+165,Sulawesi Selatan,Luwu Utara,-2.382177,119.944564,92917
+128,Aceh,Gayo Lues,3.986971,97.317543,24653
+10,Bengkulu,Bengkulu Tengah,-3.792366,102.277413,38375
+94,Kepulauan Riau,Karimun,0.903537,103.401594,29662
+104,Lampung,Lampung Utara,-4.975167,105.25509,34511
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+244,Sumatera Selatan,Banyuasin,-2.434015,104.583599,30911
+280,Sumatera Utara,Padang Lawas Utara,1.6203,99.492513,22756
+208,Sulawesi Tenggara,Buton Selatan,-5.137606,122.956079,93753
+110,Lampung,Tanggamus,-5.351673,104.751878,35611
+244,Sumatera Selatan,Banyuasin,-2.434015,104.583599,30911
+92,Kepulauan Riau,Batam,1.045626,104.030454,29427
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+262,Sumatera Utara,Batu Bara,3.287994,99.507255,21255
+148,Riau,Siak,0.759398,101.923919,28763
+17,Bengkulu,Seluma,-4.078363,103.738369,38878
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+4,Bangka Belitung,Bangka Tengah,-2.741973,106.440579,33684
+169,Sulawesi Selatan,Pangkajene Kepulauan,-4.836786,119.551274,90611
+167,Sulawesi Selatan,Maros,-5.055282,119.630989,90511
+271,Sumatera Utara,Labuhan Batu Utara,2.358065,100.354073,21455
+93,Kepulauan Riau,Bintan,1.138098,104.429359,29111
+77,Kalimantan Timur,Balikpapan,-1.267638,116.827905,76111
+270,Sumatera Utara,Labuhan Batu Selatan,1.978433,100.095751,21464
+225,Sumatera Barat,Agam,-0.254882,100.233707,26164
+122,Aceh,Aceh Tenggara,3.263524,97.792933,24651
+102,Lampung,Lampung Tengah,-4.884785,105.198391,34157
+248,Sumatera Selatan,Muara Enim,-3.549068,103.85882,31311
+225,Sumatera Barat,Agam,-0.254882,100.233707,26164
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+167,Sulawesi Selatan,Maros,-5.055282,119.630989,90511
+185,Sulawesi Tengah,Palu,-0.883391,119.481491,94111
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+175,Sulawesi Selatan,Soppeng,-4.399586,119.9107,90811
+252,Sumatera Selatan,Ogan Komering Ilir,-3.446607,104.488097,30655
+102,Lampung,Lampung Tengah,-4.884785,105.198391,34157
+2,Bangka Belitung,Bangka Barat,-1.997875,105.222326,33312
+255,Sumatera Selatan,Ogan Komering Ulu Timur,-3.60614,103.975773,32184
+273,Sumatera Utara,Mandailing Natal,0.847732,99.250065,22911
+158,Sulawesi Selatan,Bone,-4.826803,120.052518,92711
+33,Jambi,Tanjung Jabung Timur,-1.292884,103.879452,36514
+225,Sumatera Barat,Agam,-0.254882,100.233707,26164
+229,Sumatera Barat,Lima Puluh Koto/Kota,-0.059909,100.634706,26257
+146,Riau,Rokan Hilir,1.950618,100.825648,28911
+40,Kalimantan Barat,Landak,0.319192,110.04717,79365
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+199,Sulawesi Tenggara,Kolaka Utara,-3.543106,122.293009,93562
+285,Sumatera Utara,Serdang Bedagai,3.432974,99.112736,20995
+69,Kalimantan Tengah,Kotawaringin Barat,-2.271321,111.258358,74161
+120,Aceh,Aceh Tamiang,4.065084,97.967821,24476
+273,Sumatera Utara,Mandailing Natal,0.847732,99.250065,22911
+58,Kalimantan Selatan,Kotabaru,-3.267211,116.225153,72163
+48,Kalimantan Barat,Sintang,0.06395,111.492913,78611
+219,Sulawesi Utara,Manado,1.493416,124.841685,95231
+131,Aceh,Nagan Raya,4.155772,96.504502,23671
+161,Sulawesi Selatan,Gowa,-5.370028,119.689257,92111
+270,Sumatera Utara,Labuhan Batu Selatan,1.978433,100.095751,21464
+5,Bangka Belitung,Belitung,-2.741736,107.625053,33411
+218,Sulawesi Utara,Kotamobagu,0.736161,124.3212,95711
+262,Sumatera Utara,Batu Bara,3.287994,99.507255,21255
+265,Sumatera Utara,Deli Serdang,3.480805,98.664792,20511
+108,Lampung,Pesisir Barat,-2.651421,101.132202,34877
+165,Sulawesi Selatan,Luwu Utara,-2.382177,119.944564,92917
+197,Sulawesi Tenggara,Kendari,-3.995386,122.515081,93111
+246,Sumatera Selatan,Lahat,-3.798075,103.516954,31411
+177,Sulawesi Selatan,Tana Toraja,-3.086371,119.904811,91811
+110,Lampung,Tanggamus,-5.351673,104.751878,35611
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+99,Lampung,Bandar Lampung,-5.427139,105.257972,35111
+51,Kalimantan Selatan,Banjar,-3.47219,114.8638,70611
+182,Sulawesi Tengah,Buol,1.251668,121.838729,94511
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+145,Riau,Pelalawan,0.160037,102.258579,28383
+283,Sumatera Utara,Pematang Siantar,2.963409,99.060574,21111
+145,Riau,Pelalawan,0.160037,102.258579,28383
+121,Aceh,Aceh Tengah,4.634051,96.916392,24511
+103,Lampung,Lampung Timur,-5.118196,105.708374,34194
+58,Kalimantan Selatan,Kotabaru,-3.267211,116.225153,72163
+87,Kalimantan Utara,Bulungan,2.890445,117.986957,77211
+206,Sulawesi Tenggara,Kolaka Timur,-4.068587,121.826181,93572
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+171,Sulawesi Selatan,Pinrang,-3.742875,119.520969,91211
+264,Sumatera Utara,Dairi,2.932329,98.132973,22211
+81,Kalimantan Timur,Kutai Kartanegara,-0.214494,116.959885,75511
+125,Aceh,Banda Aceh,5.54829,95.323755,23242
+277,Sumatera Utara,Nias Selatan,0.760118,97.702262,22874
+249,Sumatera Selatan,Musi Banyuasin,-2.689627,104.380374,30711
+279,Sumatera Utara,Padang Lawas,1.454282,99.246087,22711
+114,Aceh,Aceh Barat,4.393488,96.728292,23681
+287,Sumatera Utara,Simalungun,2.971524,99.000226,21161
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+265,Sumatera Utara,Deli Serdang,3.480805,98.664792,20511
+99,Lampung,Bandar Lampung,-5.427139,105.257972,35111
+91,Kalimantan Utara,Tarakan,3.300009,117.61851,77111
+24,Jambi,Batang Hari,-1.338478,103.649899,36611
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+196,Sulawesi Tenggara,Buton Utara,-4.855191,122.726028,93761
+61,Kalimantan Selatan,Tanah Laut,-3.850749,116.270774,70815
+101,Lampung,Lampung Selatan,-5.51985,104.939981,35592
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+101,Lampung,Lampung Selatan,-5.51985,104.939981,35592
+231,Sumatera Barat,Padang Panjang,-0.474482,100.407045,27111
+262,Sumatera Utara,Batu Bara,3.287994,99.507255,21255
+240,Sumatera Barat,Solok,-0.792548,100.652947,27383
+63,Kalimantan Tengah,Barito Selatan,-2.981434,114.570154,73761
+192,Sulawesi Tengah,Morowali Utara,0.900303,121.677543,94971
+51,Kalimantan Selatan,Banjar,-3.47219,114.8638,70611
+231,Sumatera Barat,Padang Panjang,-0.474482,100.407045,27111
+249,Sumatera Selatan,Musi Banyuasin,-2.689627,104.380374,30711
+219,Sulawesi Utara,Manado,1.493416,124.841685,95231
+199,Sulawesi Tenggara,Kolaka Utara,-3.543106,122.293009,93562
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+252,Sumatera Selatan,Ogan Komering Ilir,-3.446607,104.488097,30655
+125,Aceh,Banda Aceh,5.54829,95.323755,23242
+81,Kalimantan Timur,Kutai Kartanegara,-0.214494,116.959885,75511
+21,Gorontalo,Gorontalo,0.54854,123.070209,96112
+158,Sulawesi Selatan,Bone,-4.826803,120.052518,92711
+232,Sumatera Barat,Padang Pariaman,-0.57461,100.148899,25511
+229,Sumatera Barat,Lima Puluh Koto/Kota,-0.059909,100.634706,26257
+139,Riau,Indragiri Hilir,-0.170646,102.530555,29211
+251,Sumatera Selatan,Ogan Ilir,-3.446469,104.618896,30611
+210,Sulawesi Utara,Bitung,1.452365,125.184611,95511
+129,Aceh,Langsa,4.487456,97.960922,24416
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+44,Kalimantan Barat,Sambas,1.403274,109.325107,79465
+145,Riau,Pelalawan,0.160037,102.258579,28383
+146,Riau,Rokan Hilir,1.950618,100.825648,28911
+138,Riau,Dumai,1.678102,101.449121,28811
+280,Sumatera Utara,Padang Lawas Utara,1.6203,99.492513,22756
+48,Kalimantan Barat,Sintang,0.06395,111.492913,78611
+104,Lampung,Lampung Utara,-4.975167,105.25509,34511
+125,Aceh,Banda Aceh,5.54829,95.323755,23242
+140,Riau,Indragiri Hulu,0.862682,102.731788,29319
+291,Sumatera Utara,Tapanuli Utara,2.06944,99.858572,22411
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+162,Sulawesi Selatan,Jeneponto,-5.582748,119.641924,92311
+53,Kalimantan Selatan,Banjarmasin,-3.320299,114.591866,70117
+45,Kalimantan Barat,Sanggau,0.13477,110.592349,78557
+99,Lampung,Bandar Lampung,-5.427139,105.257972,35111
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+93,Kepulauan Riau,Bintan,1.138098,104.429359,29111
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+141,Riau,Kampar,0.291466,101.143107,28411
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+122,Aceh,Aceh Tenggara,3.263524,97.792933,24651
+92,Kepulauan Riau,Batam,1.045626,104.030454,29427
+40,Kalimantan Barat,Landak,0.319192,110.04717,79365
+287,Sumatera Utara,Simalungun,2.971524,99.000226,21161
+149,Sulawesi Barat,Majene,-3.146651,118.912008,91411
+94,Kepulauan Riau,Karimun,0.903537,103.401594,29662
+285,Sumatera Utara,Serdang Bedagai,3.432974,99.112736,20995
+92,Kepulauan Riau,Batam,1.045626,104.030454,29427
+174,Sulawesi Selatan,Sinjai,-5.161904,120.250178,92611
+92,Kepulauan Riau,Batam,1.045626,104.030454,29427
+187,Sulawesi Tengah,Poso,-1.39572,120.756019,94611
+213,Sulawesi Utara,Bolaang Mongondow Timur,0.94251,125.268593,95781
+137,Riau,Bengkalis,1.488894,102.264307,28711
+144,Riau,Pekanbaru,0.534482,101.447679,28111
+211,Sulawesi Utara,Bolaang Mongondow (Bolmong),0.73363,124.710273,95711
+28,Jambi,Merangin,-2.34895,102.126105,37311
+269,Sumatera Utara,Labuhan Batu,2.256043,100.043743,21411
+254,Sumatera Selatan,Ogan Komering Ulu Selatan,-4.235329,103.530487,32274
+145,Riau,Pelalawan,0.160037,102.258579,28383
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+77,Kalimantan Timur,Balikpapan,-1.267638,116.827905,76111
+206,Sulawesi Tenggara,Kolaka Timur,-4.068587,121.826181,93572
+170,Sulawesi Selatan,Parepare,-4.016054,119.620803,91121
+124,Aceh,Aceh Utara,4.981445,97.438202,24311
+279,Sumatera Utara,Padang Lawas,1.454282,99.246087,22711
+286,Sumatera Utara,Sibolga,1.736818,98.784193,22511
+197,Sulawesi Tenggara,Kendari,-3.995386,122.515081,93111
+91,Kalimantan Utara,Tarakan,3.300009,117.61851,77111
+139,Riau,Indragiri Hilir,-0.170646,102.530555,29211
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+245,Sumatera Selatan,Empat Lawang,-3.730898,102.78492,31511
+268,Sumatera Utara,Karo,3.028802,98.277303,22111
+233,Sumatera Barat,Pariaman,-0.618291,100.120634,25582
+244,Sumatera Selatan,Banyuasin,-2.434015,104.583599,30911
+247,Sumatera Selatan,Lubuk Linggau,-3.284603,102.855535,31611
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+52,Kalimantan Selatan,Banjarbaru,-3.438548,114.744257,70714
+66,Kalimantan Tengah,Gunung Mas,-2.464237,112.862867,74511
+176,Sulawesi Selatan,Takalar,-5.354139,119.534573,92211
+74,Kalimantan Tengah,Pulang Pisau,-2.998445,113.948774,74872
+265,Sumatera Utara,Deli Serdang,3.480805,98.664792,20511
+232,Sumatera Barat,Padang Pariaman,-0.57461,100.148899,25511
+178,Sulawesi Selatan,Toraja Utara,-2.958132,119.935797,91853
+141,Riau,Kampar,0.291466,101.143107,28411
+146,Riau,Rokan Hilir,1.950618,100.825648,28911
+56,Kalimantan Selatan,Hulu Sungai Tengah,-2.455097,115.224386,71315
+51,Kalimantan Selatan,Banjar,-3.47219,114.8638,70611
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811
+193,Sulawesi Tenggara,Bau-Bau,-5.469289,122.604655,93711
+233,Sumatera Barat,Pariaman,-0.618291,100.120634,25582
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+199,Sulawesi Tenggara,Kolaka Utara,-3.543106,122.293009,93562
+290,Sumatera Utara,Tapanuli Tengah,1.815388,98.883182,22611
+104,Lampung,Lampung Utara,-4.975167,105.25509,34511
+69,Kalimantan Tengah,Kotawaringin Barat,-2.271321,111.258358,74161
+256,Sumatera Selatan,Pagar Alam,-4.036926,103.267032,31512
+225,Sumatera Barat,Agam,-0.254882,100.233707,26164
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+155,Sulawesi Barat,Pasangkayu,-1.502777,119.655733,91361
+101,Lampung,Lampung Selatan,-5.51985,104.939981,35592
+161,Sulawesi Selatan,Gowa,-5.370028,119.689257,92111
+61,Kalimantan Selatan,Tanah Laut,-3.850749,116.270774,70815
+81,Kalimantan Timur,Kutai Kartanegara,-0.214494,116.959885,75511
+111,Lampung,Tulang Bawang,-4.522042,105.205173,34611
+79,Kalimantan Timur,Bontang,0.12296,117.471188,75311
+250,Sumatera Selatan,Musi Rawas,-2.77162,103.008349,31661
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+215,Sulawesi Utara,Kepulauan Sangihe,3.645085,125.615066,95811
+195,Sulawesi Tenggara,Buton,-5.17652,122.302107,93711
+230,Sumatera Barat,Padang,-0.939989,100.35412,25111
+270,Sumatera Utara,Labuhan Batu Selatan,1.978433,100.095751,21464
+186,Sulawesi Tengah,Parigi Moutong,0.53997,119.710356,94561
+107,Lampung,Pesawaran,-5.487725,105.119718,35367
+203,Sulawesi Tenggara,Muna,-4.897745,122.600079,93611
+274,Sumatera Utara,Medan,3.595196,98.672222,20111
+176,Sulawesi Selatan,Takalar,-5.354139,119.534573,92211
+38,Kalimantan Barat,Ketapang,-1.88691,109.967179,78873
+154,Sulawesi Barat,Mamuju Tengah,-2.573133,119.363607,91512
+197,Sulawesi Tenggara,Kendari,-3.995386,122.515081,93111
+133,Aceh,Pidie Jaya,5.224226,96.156036,24184
+116,Aceh,Aceh Besar,5.506105,95.36854,24382
+211,Sulawesi Utara,Bolaang Mongondow (Bolmong),0.73363,124.710273,95711
+69,Kalimantan Tengah,Kotawaringin Barat,-2.271321,111.258358,74161
+36,Kalimantan Barat,Kapuas Hulu,0.918956,112.926506,78716
+28,Jambi,Merangin,-2.34895,102.126105,37311
+101,Lampung,Lampung Selatan,-5.51985,104.939981,35592
+121,Aceh,Aceh Tengah,4.634051,96.916392,24511
+283,Sumatera Utara,Pematang Siantar,2.963409,99.060574,21111
+166,Sulawesi Selatan,Makassar,-5.147665,119.432731,90111
+257,Sumatera Selatan,Palembang,-2.987319,104.736009,30111
+188,Sulawesi Tengah,Sigi,0.325773,119.645813,94362
+159,Sulawesi Selatan,Bulukumba,-5.425673,120.203804,92511
+118,Aceh,Aceh Selatan,3.311304,97.222096,23711
+272,Sumatera Utara,Langkat,3.792181,98.385996,20811

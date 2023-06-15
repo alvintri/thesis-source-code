@@ -1,0 +1,5 @@
+Id,provinceId,provinceName,typeLabel,cityName,Daerah,Latitude,Longitude,postalCode
+82,15,Kalimantan Timur,Kabupaten,Kutai Timur,Kabupaten Kutai Timur,-1.816160,117.614852,75611
+191,29,Sulawesi Tengah,Kabupaten,Banggai Laut,Kabupaten Banggai Laut,-1.675078,123.044016,94851
+244,33,Sumatera Selatan,Kabupaten,Banyuasin,Kabupaten Banyuasin,-2.434015,104.583599,30911
+290,34,Sumatera Utara,Kabupaten,Tapanuli Tengah,Kabupaten Tapanuli Tengah,1.815388,98.883182,22611
