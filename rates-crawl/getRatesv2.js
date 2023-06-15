@@ -16,7 +16,7 @@ const resultsCsvPath = `./results/rates-${courierType}/warehouse-${warehouseType
 
 //CONFIG
 const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4NzQzNzQ2MH0.odEDBDJsV4gFYSYBeJ8BLCSO4GeghmCC3_Bis4NCir8'
-const baseUrl = 'http://evm-3pl-client-gateway.pre.internal/';
+const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
 const requestBodyTemplate = {
