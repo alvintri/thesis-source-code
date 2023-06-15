@@ -1,3 +1,3 @@
-Id,provinceId,provinceName,typeLabel,cityName,Daerah,Latitude,Longitude,postalCode
-26,Riau,Kabupaten,Kuantan Singingi,Kabupaten Kuantan Singingi,-0.452510,101.452890,109.330533,78243
-27,Sulawesi Barat,Kabupaten,Mamuju Utara,Kabupaten Mamuju Utara,-1.498526,119.239087,91561,
+provinceId,provinceName,typeLabel,cityName,Daerah,Latitude,Longitude,postalCode
+26,Riau,Kabupaten,Kuantan Singingi,Kabupaten Kuantan Singingi,-0.452510,101.452890,29511
+27,Sulawesi Barat,Kabupaten,Mamuju Utara,Kabupaten Mamuju Utara,-1.498526,119.239087,91561
