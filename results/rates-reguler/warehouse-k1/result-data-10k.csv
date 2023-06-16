@@ -1078,6 +1078,7 @@ No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Ongkir,Rate Code,Rate Type
 1077,ID Express,78243,35111,33000,iDSTD,reguler
 1078,ID Express,78243,20111,45000,iDSTD,reguler
 1079,SiCepat,78243,26566,57000,SIUNT,reguler
+1080,J&T Express,78243,28811,53000,EZ,reguler
 1081,JNE,78243,36611,51000,OKE19,reguler
 1082,JNE,78243,37311,51000,OKE19,reguler
 1083,ID Express,78243,36128,34000,iDSTD,reguler
@@ -1087,6 +1088,7 @@ No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Ongkir,Rate Code,Rate Type
 1087,SiCepat,78243,29662,56500,SIUNT,reguler
 1088,ID Express,78243,28111,40000,iDSTD,reguler
 1089,J&T Express,78243,95761,95000,EZ,reguler
+1090,ID Express,78243,30111,34000,iDSTD,reguler
 1091,J&T Express,78243,31511,39000,EZ,reguler
 1092,J&T Express,78243,38878,46000,EZ,reguler
 1093,J&T Express,78243,92211,64000,EZ,reguler
@@ -4093,6 +4095,7 @@ No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Ongkir,Rate Code,Rate Type
 4094,J&T Express,78243,91411,64000,EZ,reguler
 4095,SiCepat,78243,28383,56000,SIUNT,reguler
 4096,J&T Express,78243,92711,64000,EZ,reguler
+4097,ID Express,78243,35592,46000,iDSTD,reguler
 4098,J&T Express,78243,91411,64000,EZ,reguler
 4099,ID Express,78243,74361,62000,iDSTD,reguler
 4100,J&T Express,78243,31661,53000,EZ,reguler
@@ -4268,6 +4271,7 @@ No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Ongkir,Rate Code,Rate Type
 4270,J&T Express,78243,31411,48000,EZ,reguler
 4271,ID Express,78243,26311,62500,iDSTD,reguler
 4272,ID Express,78243,93111,63000,iDSTD,reguler
+4273,ID Express,78243,35592,46000,iDSTD,reguler
 4274,J&T Express,78243,29511,52000,EZ,reguler
 4275,ID Express,78243,76111,46000,iDSTD,reguler
 4276,JNE,78243,30655,56000,OKE19,reguler
