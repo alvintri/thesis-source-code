@@ -15,8 +15,8 @@ const originDestinationFilePath = `./results/shortest-origin/warehouse-${warehou
 const resultsCsvPath = `./results/rates-${courierType}/warehouse-${warehouseType}/result-data-${numberOfData}.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtc2lzZG4iOiJjMEZzVkdWRVgxODVXVTEzVGpSTFpVNVRXamxpY1dNNWRWRjJUVDd1YnVTbU5oa0krZzh0UFFIREh5RT0iLCJuYW1lIjoiSW50ZXJuYWwgQWt1biBFeHRlcm5hbCBFdmVycHJvIFRlc3QiLCJ1c2VyX2NhdGVnb3J5X2lkIjoyMDAsImV4cCI6MTY4NjQ1MzU0MywiaWF0IjoxNjg2MzY3MTQzLCJpc3MiOiJQb3Bha2V0QXV0aCIsInN1YiI6ImY1YjQ3YWRjLWYxMWMtNDQxYy1hYTM0LTU5ZTFkNzVhMzFhYyJ9.A6jBUcV2xQmmrQFRF-02YmkVPI5-EHydh03i80QYoLo'
-const baseUrl = 'http://everpro-client-gateway.pre.internal';
+const token = 'eeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4NzA0MTMxN30.UrYT1doJW1BePjCgJZR6qGwsAu5w5f-_B3GGs-VdFUQ'
+const baseUrl = 'http://everpro-client-gateway.prod.internal';
 
 // Define the request body template
 const requestBodyTemplate = {
