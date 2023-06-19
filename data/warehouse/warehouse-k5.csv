@@ -1,0 +1,6 @@
+Id,provinceId,provinceName,typeLabel,cityName,Daerah,Latitude,Longitude,postalCode
+22,7,Gorontalo,Kabupaten,Gorontalo Utara,Kabupaten Gorontalo Utara,0.890577,122.831301,96254
+68,14,Kalimantan Tengah,Kabupaten,Katingan,Kabupaten Katingan,-1.774898,113.487469,74413
+179,28,Sulawesi Selatan,Kabupaten,Wajo,Kabupaten Wajo,-3.783826,120.104919,90911
+249,33,Sumatera Selatan,Kabupaten,Musi Banyuasin,Kabupaten Musi Banyuasin,-2.689627,104.380374,30711
+290,34,Sumatera Utara,Kabupaten,Tapanuli Tengah,Kabupaten Tapanuli Tengah,1.815388,98.883182,22611
