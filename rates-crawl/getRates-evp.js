@@ -15,7 +15,7 @@ const originDestinationFilePath = `./results/shortest-origin/warehouse-${warehou
 const resultsCsvPath = `./results/rates-${courierType}/warehouse-${warehouseType}/result-data-${numberOfData}.csv`;
 
 //CONFIG
-const token = 'eeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4NzA0MTMxN30.UrYT1doJW1BePjCgJZR6qGwsAu5w5f-_B3GGs-VdFUQ'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4NzEwMTI4N30.V8xOgu2ivC-8U1yaXuhYFx5lWhqbD7M_jK9iINfsEVE'
 const baseUrl = 'http://everpro-client-gateway.prod.internal';
 
 // Define the request body template

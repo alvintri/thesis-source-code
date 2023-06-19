@@ -1,0 +1,4 @@
+Id,provinceId,provinceName,typeLabel,cityName,Daerah,Latitude,Longitude,postalCode
+O1,1,DKI Jakarta,Kota,Jakarta Utara,Kota Jakarta Utara,-6.1341,106.8325,14440
+O2,2,Jawa Barat,Kota,Bandung,Kota Bandung,-6.9175,107.6191,40266
+O3,3,Jawa Timur,Kota,Surabaya,Kota Surabaya,-7.2575,112.7521,60191
