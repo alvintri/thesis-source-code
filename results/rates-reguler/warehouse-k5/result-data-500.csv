@@ -187,7 +187,7 @@ No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Ongkir,Rate Code,Rate Type
 186,JNE,30711,30911,20000,OKE19,reguler
 187,JNE,30711,28383,42000,OKE19,reguler
 188,J&T Express,96254,95511,38000,EZ,reguler
-189,,,
+189,SAP Express,22611,26566,30000,UDRREG,reguler
 190,JNE,90911,91211,20000,OKE19,reguler
 191,JNE,30711,30911,20000,OKE19,reguler
 192,ID Express,30711,29427,40000,iDSTD,reguler
@@ -454,7 +454,7 @@ No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Ongkir,Rate Code,Rate Type
 453,J&T Express,74413,70611,27000,EZ,reguler
 454,SiCepat,22611,20811,11500,SIUNT,reguler
 455,JNE,90911,93711,60000,OKE19,reguler
-456,,,
+456,SiCepat,22611,25582,26000,SIUNT,reguler
 457,SiCepat,22611,25111,23500,SIUNT,reguler
 458,JNE,90911,93562,60000,OKE19,reguler
 459,J&T Express,22611,22611,25000,EZ,reguler
