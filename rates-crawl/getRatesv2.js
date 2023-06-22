@@ -15,7 +15,7 @@ const originDestinationFilePath = `./results/shortest-origin/warehouse-${warehou
 const resultsCsvPath = `./results/rates-${courierType}/warehouse-${warehouseType}/result-data-${numberOfData}.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4NzI1MzY2MX0.9T3IAY5q4UWkdrZiG6yJufg6kM688XQ-eJQN5Zn8MWQ'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4NzUyMjYxNn0.KtzRB3hwnVk5pe9Oh5XAF6rcTZ9JVUOFtnPEY1bFAmU'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
