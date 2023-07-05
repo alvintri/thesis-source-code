@@ -1,0 +1,3 @@
+No,shipment_order_no,logistic_name,origin_postal_code,destination_postal_code,awb_number,min_duration,max_duration
+1,TRD2022072000951,JNE,45556,45575,2534902200094355,2,3
+2,TRD2022081201060,JNE,11450,13890,0136932200061274,1,2
