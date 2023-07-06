@@ -7,14 +7,14 @@ require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
 const courierType = process.env.COURIER_TYPE;
-const rateType = 'CTC23'
+const rateType = 'Recrawl'
 
 //PATH URL
 const originDestinationFilePath = `./data/evp-issue/originData_${rateType}.csv`;
 const resultsCsvPath = `./data/evp-issue/result_${rateType}.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4OTE1NDQ5N30.yRFOayAvQtkVOaWJxILbTpblOvwcZei7CUgtPoksMC4'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4OTIwMTY1NH0._CBiu9a5s2R0Ru15lJp_xKLzXZox5vT56cCjY8mof30'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
@@ -129,7 +129,7 @@ async function loopRequests() {
         rateCode              : respBody.rateCode,
       });
     } catch (err) {
-      console.error('Error:', err);
+      console.log(key+1)
     }
   }
 
