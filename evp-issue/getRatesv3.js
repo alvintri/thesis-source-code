@@ -7,9 +7,10 @@ require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
 const courierType = process.env.COURIER_TYPE;
-const rateType = 'SAP_2_1'
-const evn_logistic_code = "SAP"
-const env_rate_code = "UDRREG"
+const rateType = 'recrawl'
+const evn_logistic_code = "IDX"
+const env_rate_code = "iDSTD"
+const weight = 1000
 
 //PATH URL
 const originDestinationFilePath = `./data/evp-issue/originData_${rateType}.csv`;
@@ -37,7 +38,7 @@ const requestBodyTemplate = {
     "serviceType": [  
     ],
     "shipmentType": 2,
-    "weight": 1000,
+    "weight": weight,
     "width": 5,
     "height" : 2,
     "length": 2
