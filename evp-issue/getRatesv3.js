@@ -7,14 +7,14 @@ require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
 const courierType = process.env.COURIER_TYPE;
-const rateType = 'Recrawl'
+const rateType = 'v2_REG23'
 
 //PATH URL
 const originDestinationFilePath = `./data/evp-issue/originData_${rateType}.csv`;
 const resultsCsvPath = `./data/evp-issue/result_${rateType}.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4OTIwMTY1NH0._CBiu9a5s2R0Ru15lJp_xKLzXZox5vT56cCjY8mof30'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4OTY1NDUzNn0.9wLFit-CdoKyb3KWEQbpNr5c_UO_WMCU_MtRVrRGUUE'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
@@ -51,7 +51,7 @@ async function createRequestBody(data) {
 }
 
 // Define the JSON query to extract the minimum price from the response body
-const jsonQuery = `$.data.reguler[?(@.rateCode="REG23")]`;
+const jsonQuery = `$.data.reguler[?(@.rateCode="CTC23")]`;
 
 // Define the CSV writer for the final results
 const csvWriter = createObjectCsvWriter({
@@ -65,6 +65,8 @@ const csvWriter = createObjectCsvWriter({
     { id: 'awbNo', title: 'awb_number' },
     { id: 'minDuration', title: 'min_sla_api' },
     { id: 'maxDuration', title: 'max_sla_api' },
+    { id: 'requestPayload', title: 'requestPayload' },
+    { id: 'responsePayload', title: 'responsePayload' },
   ]
 });
 
@@ -100,6 +102,7 @@ function makeRequestAndExtractPrice(requestBody,data) {
               rateCode      : respDataReg[key].rateCode,
               minDuration   : respDataReg[key].minDuration,
               maxDuration   : respDataReg[key].maxDuration,
+              responseBody  : JSON.stringify(res.body.data)
             };
           }
         }
@@ -117,6 +120,7 @@ async function loopRequests() {
     try {
      const requestBody = await createRequestBody(reqData);
       const respBody = await makeRequestAndExtractPrice(requestBody,reqData);
+      console.log(key+1)
       result.push({
         id                    : key+1,
         awbNo                 : reqData.awb_number,
@@ -127,6 +131,8 @@ async function loopRequests() {
         minDuration           : respBody.minDuration,
         maxDuration           : respBody.maxDuration,
         rateCode              : respBody.rateCode,
+        requestPayload        : JSON.stringify(requestBody),
+        responsePayload       : respBody.responseBody,
       });
     } catch (err) {
       console.log(key+1)

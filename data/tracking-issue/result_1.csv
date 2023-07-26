@@ -1,0 +1,3 @@
+No,shipment_order_no,logistic_code,awb_no,dispatch_at,delivered_at,in_process_return,return_at
+1,TRD2023070301348,IDX,IDE702993638371,1688533561,1688591967,0,0
+2,TRD2023070301417,IDX,IDE703573756074,1688362028,1688510613,0,0

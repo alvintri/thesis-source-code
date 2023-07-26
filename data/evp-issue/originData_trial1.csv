@@ -1,0 +1,5 @@
+No,shipment_order_no,awb_number,weight,origin_subdistrict,origin_postal_code,destination_subdistrict,destination_postal_code,rate_code,min_sla,max_sla,min_sla_api,max_sla_api
+20001,TRD2022100101596,0733272200551272,1,Pekayon Jaya,17148,Margahayu Selatan,40226,REG23,1,,,
+20002,TRD2022100101612,0733272200551611,1,Pekayon Jaya,17148,Plumbungan,52181,REG23,3,,,
+20003,TRD2022100101628,0733272200551967,1,Pekayon Jaya,17148,Sei/Sungai Rahayu I,73814,REG23,5,,,
+20004,TRD2022100101630,0733272200551017,1,Pekayon Jaya,17148,Kebon Bawang,14320,REG23,1,,,

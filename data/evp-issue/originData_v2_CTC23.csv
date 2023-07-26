@@ -1,0 +1,7 @@
+shipment_order_no,origin_sub_district_id,destination_sub_district_id,origin_subdistrict_name,origin_postal_code,destination_subdistrict_name,destination_postal_code,min_duration,max_duration,rate_code,min_sla_api,max_sla_api
+TRD2022081801644,2046,81171,Bunigeulis,45556,Ciporang,45514,1,2,CTC23,,
+TRD2022120101178,87275,58546,Rintis,28155,Delima,28291,1,2,CTC23,,
+TRD2022122605264,87275,58546,Rintis,28155,Delima,28291,1,2,CTC23,,
+TRD2023030305914,3047,34115,Padangsambian Klod/Kelod,80117,Tuban,80361,1,2,CTC23,,
+TRD2023030305923,3047,34115,Padangsambian Klod/Kelod,80117,Tuban,80361,1,2,CTC23,,
+TRD2023030805496,3047,34115,Padangsambian Klod/Kelod,80117,Tuban,80361,1,2,CTC23,,
