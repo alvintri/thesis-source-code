@@ -38,7 +38,7 @@ const csvWriter = createObjectCsvWriter({
 function makeRequestAndExtractPrice(data) {
   return new Promise((resolve, reject) => {
     //let endpoint = `/v1/tracking/${data.awb_number}?logisticCode=${data.logistic_code.toLowerCase()}`
-    let endpoint = `/v1/tracking/${data.awb_number}?logisticCode=idx`
+    let endpoint = `/v1/tracking/${data.awb_number}?logisticCode=${data.logistic_code_lower}`
     request(baseUrl)
       .get(endpoint) // Replace '/endpoint' with the desired endpoint
       .set({

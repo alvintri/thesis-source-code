@@ -7,14 +7,16 @@ require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
 const courierType = process.env.COURIER_TYPE;
-const rateType = 'v2_REG23'
+const rateType = 'SIUNT_2_1'
+const evn_logistic_code = "SCP"
+const env_rate_code = "SIUNT"
 
 //PATH URL
 const originDestinationFilePath = `./data/evp-issue/originData_${rateType}.csv`;
 const resultsCsvPath = `./data/evp-issue/result_${rateType}.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4OTY1NDUzNn0.9wLFit-CdoKyb3KWEQbpNr5c_UO_WMCU_MtRVrRGUUE'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY5MDk0MTk2OX0.CxkhtvCioMA9OLTtZ52YaB-cOQCRSTfd8YwgevAU5Hg'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
@@ -25,7 +27,7 @@ const requestBodyTemplate = {
     "isUseInsurance": false,
     "itemPrice": 500145,
     "logisticCode": [
-      "JNE"
+      `${evn_logistic_code}`
     ],
     "originLatitude": 0,
     "originLongitude": 0,
@@ -34,7 +36,7 @@ const requestBodyTemplate = {
     "packageTypeId": 1,
     "serviceType": [  
     ],
-    "shipmentType": 1,
+    "shipmentType": 2,
     "weight": 1000,
     "width": 5,
     "height" : 2,
@@ -51,7 +53,7 @@ async function createRequestBody(data) {
 }
 
 // Define the JSON query to extract the minimum price from the response body
-const jsonQuery = `$.data.reguler[?(@.rateCode="CTC23")]`;
+const jsonQuery = `$.data.reguler[?(@.rateCode="${env_rate_code}")]`;
 
 // Define the CSV writer for the final results
 const csvWriter = createObjectCsvWriter({
