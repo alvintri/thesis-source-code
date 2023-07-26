@@ -1,0 +1,5 @@
+No,shipment_order_no,origin_subdistrict_name,origin_postal_code,destination_subdistrict_name,destination_postal_code,min_duration,max_duration,rate_code,logistic_id,logistic_code
+3668,TRD2023010704405,Curug Sangerang (Curug Sangereng),15810,Dukuh Setro,60138,2,4,UDRREG,3,SAP
+7757,TRD2023012802591,Jelambar Baru,11460,Kedewatan,80571,2,4,UDRREG,3,SAP
+11685,TRD2023021402586,Jelambar,11460,Tanjung Enim Selatan,31711,2,4,UDRREG,3,SAP
+12046,TRD2023021604027,Curug Sangerang (Curug Sangereng),15810,Baturaden,41354,2,5,UDRREG,3,SAP

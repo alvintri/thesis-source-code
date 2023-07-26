@@ -7,9 +7,9 @@ require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
 const courierType = process.env.COURIER_TYPE;
-const rateType = 'SIUNT_2_1'
-const evn_logistic_code = "SCP"
-const env_rate_code = "SIUNT"
+const rateType = 'SAP_2_1'
+const evn_logistic_code = "SAP"
+const env_rate_code = "UDRREG"
 
 //PATH URL
 const originDestinationFilePath = `./data/evp-issue/originData_${rateType}.csv`;
