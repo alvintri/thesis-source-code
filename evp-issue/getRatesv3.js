@@ -7,9 +7,9 @@ require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
 const courierType = process.env.COURIER_TYPE;
-const rateType = 'recrawl'
-const evn_logistic_code = "IDX"
-const env_rate_code = "iDSTD"
+const rateType = 'REG23_2'
+const evn_logistic_code = "JNE"
+const env_rate_code = "REG23"
 const weight = 1000
 
 //PATH URL

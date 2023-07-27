@@ -1,3 +1,4 @@
-shipment_order_no,origin_subdistrict_name,origin_postal_code,destination_subdistrict_name,destination_postal_code,min_duration,max_duration,rate_code,,
-TRD2022121205276,Pagedangan,15339,Cilandak Barat,12430,1,2,iDSTD,,
-TRD2022122200333,Pagedangan,15339,Lubuk Ramo,29564,2,9,iDSTD,,
+No,shipment_order_no,origin_subdistrict_name,origin_postal_code,destination_subdistrict_name,destination_postal_code,min_duration,max_duration,rate_code,
+3296,TRD2022072200603,Kelapa Dua,15810,DR. Soetomo,60264,1,2,REG23,
+3300,TRD2022072200647,Kelapa Dua,15810,Dusun Bangko,37313,2,3,REG23,
+7240,TRD2022080103347,Binong,15811,Binong,40275,1,2,REG23,
