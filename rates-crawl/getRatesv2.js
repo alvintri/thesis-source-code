@@ -15,7 +15,7 @@ const originDestinationFilePath = `./results/shortest-origin/warehouse-${warehou
 const resultsCsvPath = `./results/rates-${courierType}/warehouse-${warehouseType}/result-data-${numberOfData}.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4ODc4MjM4MH0.24HUxY5obihPrZMGx-FHGYt2_HEgo4dck3lHco5AdVE'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcxNTQxNjI1OH0.azx_yvZa97NAsqw5s0631URlTnZftxJK-ucnsFqWouw'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
@@ -26,6 +26,7 @@ const requestBodyTemplate = {
     "isUseInsurance": false,
     "itemPrice": 500145,
     "logisticCode": [
+      "JNE"
     ],
     "originLatitude": 0,
     "originLongitude": 0,

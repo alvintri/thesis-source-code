@@ -7,14 +7,16 @@ require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
 const courierType = process.env.COURIER_TYPE;
-const FileName = 'IDX_3'
+//const FileName = '1'
+const FileName = '2_caa74744'
+
 
 //PATH URL
 const trackingFilePath = `./data/tracking-issue/TrackingData_${FileName}.csv`;
 const resultsCsvPath = `./data/tracking-issue/result_${FileName}.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTY4OTI5ODY4Nn0.PkexLuhOlPTKYAZhzCMqHxfY4tsREHHZKf_F3draDp0'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcxNjUxNjI3MH0.VHKDRBtlPGxPw48ztXjypJK8aw5t4qmxKcr2Nh447_U'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 
@@ -31,51 +33,62 @@ const csvWriter = createObjectCsvWriter({
     { id: 'delivered_at', title: 'delivered_at' },
     { id: 'in_process_return', title: 'in_process_return' },
     { id: 'return_at', title: 'return_at' },
+    { id: 'is_found', title: 'is_found' },
   ]
 });
 
-// Function to make the request and extract the minimum price
 function makeRequestAndExtractPrice(data) {
   return new Promise((resolve, reject) => {
-    //let endpoint = `/v1/tracking/${data.awb_number}?logisticCode=${data.logistic_code.toLowerCase()}`
-    let endpoint = `/v1/tracking/${data.awb_number}?logisticCode=${data.logistic_code_lower}`
+    let endpoint = `/v1/tracking/${data.awb_number}?logisticCode=${data.logistic_code_lower}`;
     request(baseUrl)
-      .get(endpoint) // Replace '/endpoint' with the desired endpoint
+      .get(endpoint)
       .set({
         Authorization: `Bearer ${token}`
       })
-      .expect(200) // Set the desired HTTP response status code
+      .expect(200)
       .end((err, res) => {
-        if (err) {
-          console.error('Error:', err);
-          reject(err);
-          return;
-        }
 
-        // Extract the minimum price from the response body
-        //const respData = jsonPath.query(res.body, jsonQuery);
-        //console.log(JSON.stringify(respData))
-        const respData = res.body.data;
-        console.log(respData.inProcessReturnAt)
-        console.log(respData.returnedAt)
 
-        let trackingResp = {
-            dispatch_at         : convertToUTCAndUnix(respData.dispatchAt),
-            delivered_at        : convertToUTCAndUnix(respData.deliveredAt),
-            in_process_return   : convertToUTCAndUnix(respData.inProcessReturnAt),
-            return_at           : convertToUTCAndUnix(respData.returnedAt),
-        };
+          let trackingResp; // Declare trackingResp here with a default value
 
-        resolve(trackingResp);
+          if (res.status === 200) {
+            if (res.body && res.body.data && typeof res.body.data === 'object') {
+              const respData = res.body.data;
+              trackingResp = {
+                dispatch_at: convertToUTCAndUnix(respData.dispatchAt),
+                delivered_at: convertToUTCAndUnix(respData.deliveredAt),
+                in_process_return: convertToUTCAndUnix(respData.inProcessReturnAt),
+                return_at: convertToUTCAndUnix(respData.returnedAt),
+                isFound: "TRUE"
+              };
+            } else {
+              // The 'data' property is missing or not an object, handle the error here
+              reject(new Error("Error: 'data' property missing or invalid in the response body."));
+              return;
+            }
+          } else {
+            trackingResp = {
+              dispatch_at: null,
+              delivered_at: null,
+              in_process_return: null,
+              return_at: null,
+              isFound: "FALSE"
+            };
+          }
+
+          resolve(trackingResp);
+  
       });
   });
 }
+
 
 // Loop through the requests
 async function loopRequests() {
   const result = [];
   const data = await readCSVFile(trackingFilePath);
   for (let key=0; key<=data.length; key++) {
+    
     var reqData = data[key]
     var length  = data.length+1
 
@@ -90,6 +103,7 @@ async function loopRequests() {
         delivered_at            : respBody.delivered_at,
         in_process_return       : respBody.in_process_return,
         return_at               : respBody.return_at,
+        is_found                : respBody.isFound
       });
       console.log(key+1 + " from " +  length)
     } catch (err) {

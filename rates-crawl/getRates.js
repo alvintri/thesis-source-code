@@ -20,7 +20,7 @@ const requestBodyTemplate = {
     "originLatitude": 0,
     "originLongitude": 0,
     "originPostalCode": "42415",
-  "destinationPostalCode": "40191",
+    "destinationPostalCode": "40191",
     "packageTypeId": 1,
     "serviceType": [  
     ],
