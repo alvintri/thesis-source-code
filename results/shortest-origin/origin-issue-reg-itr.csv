@@ -1,0 +1,5 @@
+id,orderReceiptCode,originCityName,originKelurahan,originPostalCode,destinationPostalCode,destinationKelurahan,destinationKecamatan,destinationCity
+100002450816,itr_6870-1719274823,Bogor,Padasuka,16610,17412,Jatibening Baru,Pondok Gede,Bekasi
+100002450960,itr_1696-1717290978,Bandung Barat,Cilame,40552,40286,Margasari,Buahbatu (Margacinta),Bandung
+100002451003,itr_6029-1719724549,Bandung Barat,Cilame,40552,40115,Citarum,Bandung Wetan,Bandung
+100002451178,itr_8969-1719759432,Bogor,Cikaret,16132,12630,Cipedak,Jagakarsa,Jakarta Selatan

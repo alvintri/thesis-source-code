@@ -1,0 +1,2145 @@
+No.,Nama Logistic,Kode Pos Asal,Nama Provinsi Tujuan,Nama Kota Tujuan,Nama Kecamatan Tujuan,Nama Kelurahan Tujuan,Kode Pos Tujuan,Ongkir Normal,Rate Code,Rate Type
+1,Ninja Xpress,40135,Banten,Cilegon,Cilegon,Bendungan,42417,12000,STD,reguler
+2,Ninja Xpress,40135,Banten,Cilegon,Citangkil,Samangraya,42443,12000,STD,reguler
+3,Ninja Xpress,40135,Banten,Cilegon,Ciwandan,Kubangsari,42445,12000,STD,reguler
+4,Ninja Xpress,40135,Banten,Cilegon,Gerogol,Rawa Arum,42436,12000,STD,reguler
+5,Ninja Xpress,40135,Banten,Cilegon,Pulomerak,Suralaya,42439,12000,STD,reguler
+6,Ninja Xpress,40135,Banten,Cilegon,Purwakarta,Ramanuju,42431,12000,STD,reguler
+7,Ninja Xpress,40135,Banten,Cilegon,Jombang,Gedong Dalem,42413,12000,STD,reguler
+8,Ninja Xpress,40135,Banten,Cilegon,Cibeber,Cikerai,42427,12000,STD,reguler
+9,Ninja Xpress,40135,Banten,Lebak,Bayah,Bayah Barat,42393,18000,STD,reguler
+10,Ninja Xpress,40135,Banten,Lebak,Bojongmanik,Bojongmanik,42363,18000,STD,reguler
+11,Ninja Xpress,40135,Banten,Lebak,Cigemblong,Cikadongdong,42395,18000,STD,reguler
+12,Ninja Xpress,40135,Banten,Lebak,Cihara,Barunai,42392,18000,STD,reguler
+13,Ninja Xpress,40135,Banten,Lebak,Cijaku,Ciapus,42395,18000,STD,reguler
+14,Ninja Xpress,40135,Banten,Lebak,Cikulur,Anggalan,42356,18000,STD,reguler
+15,Ninja Xpress,40135,Banten,Lebak,Cileles,Banjarsari,42353,18000,STD,reguler
+16,Ninja Xpress,40135,Banten,Lebak,Cilograng,Cibareno,42393,18000,STD,reguler
+17,Ninja Xpress,40135,Banten,Lebak,Cimarga,Cimarga,42361,18000,STD,reguler
+18,Ninja Xpress,40135,Banten,Lebak,Cirinten,Badur,42363,18000,STD,reguler
+19,Ninja Xpress,40135,Banten,Lebak,Curugbitung,Cilayang,42381,18000,STD,reguler
+20,Ninja Xpress,40135,Banten,Lebak,Gunung Kencana,Tanjungsari Indah,42354,18000,STD,reguler
+21,Ninja Xpress,40135,Banten,Lebak,Kalanganyar,Aweh,42312,18000,STD,reguler
+22,Ninja Xpress,40135,Banten,Lebak,Lebakgedong,Banjarsari,42355,18000,STD,reguler
+23,Ninja Xpress,40135,Banten,Lebak,Leuwidamar,Cibungur,42362,18000,STD,reguler
+24,Ninja Xpress,40135,Banten,Lebak,Malingping,Bolang,42391,18000,STD,reguler
+25,Ninja Xpress,40135,Banten,Lebak,Muncang,Cikarang,42364,18000,STD,reguler
+26,Ninja Xpress,40135,Banten,Lebak,Panggarangan,Cibarengkok,42392,18000,STD,reguler
+27,Ninja Xpress,40135,Banten,Lebak,Rangkasbitung,Cijoro Lebak,42317,18000,STD,reguler
+28,Ninja Xpress,40135,Banten,Lebak,Sajira,Calungbungur,42371,18000,STD,reguler
+29,Ninja Xpress,40135,Banten,Lebak,Wanasalam,Bejod,42396,18000,STD,reguler
+30,Ninja Xpress,40135,Banten,Lebak,Warunggunung,Banjarsari,42352,18000,STD,reguler
+31,Ninja Xpress,40135,Banten,Lebak,Cibeber,Cibeber,42394,18000,STD,reguler
+32,Ninja Xpress,40135,Banten,Lebak,Cipanas,Bintangresmi,42372,18000,STD,reguler
+33,Ninja Xpress,40135,Banten,Lebak,Maja,Binong,42381,18000,STD,reguler
+34,Ninja Xpress,40135,Banten,Lebak,Cibadak,Asem,42357,18000,STD,reguler
+35,Ninja Xpress,40135,Banten,Lebak,Banjarsari,Bendungan,42355,18000,STD,reguler
+36,Ninja Xpress,40135,Banten,Lebak,Sobang,Ciparasi,42318,18000,STD,reguler
+37,Ninja Xpress,40135,Banten,Pandeglang,Sobang,Bojen,42281,22000,STD,reguler
+38,Ninja Xpress,40135,Banten,Pandeglang,Cadasari,Cadasari,42251,22000,STD,reguler
+39,Ninja Xpress,40135,Banten,Pandeglang,Carita,Banjarmasin,42264,22000,STD,reguler
+40,Ninja Xpress,40135,Banten,Pandeglang,Cibaliung,Cibaliung,42285,22000,STD,reguler
+41,Ninja Xpress,40135,Banten,Pandeglang,Cigeulis,Banyuasih,42282,22000,STD,reguler
+42,Ninja Xpress,40135,Banten,Pandeglang,Cikeudal (Cikedal),Tegal,42271,22000,STD,reguler
+43,Ninja Xpress,40135,Banten,Pandeglang,Cikeusik,Cikadongdong,42286,22000,STD,reguler
+44,Ninja Xpress,40135,Banten,Pandeglang,Cimanuk,Batubantar,42271,22000,STD,reguler
+45,Ninja Xpress,40135,Banten,Pandeglang,Cipeucang,Baturanjang,42272,22000,STD,reguler
+46,Ninja Xpress,40135,Banten,Pandeglang,Cisata,Cisereh,42273,22000,STD,reguler
+47,Ninja Xpress,40135,Banten,Pandeglang,Jiput,Babadsari,42263,22000,STD,reguler
+48,Ninja Xpress,40135,Banten,Pandeglang,Kaduhejo,Banjarsari,42253,22000,STD,reguler
+49,Ninja Xpress,40135,Banten,Pandeglang,Karang Tanjung,Cigadung,42251,22000,STD,reguler
+50,Ninja Xpress,40135,Banten,Pandeglang,Koroncong,Awilega,42251,22000,STD,reguler
+51,Ninja Xpress,40135,Banten,Pandeglang,Majasari,Cilaja,42214,22000,STD,reguler
+52,Ninja Xpress,40135,Banten,Pandeglang,Mandalawangi,Cikoneng,42261,22000,STD,reguler
+53,Ninja Xpress,40135,Banten,Pandeglang,Mekarjaya,Kadubelang,42271,22000,STD,reguler
+54,Ninja Xpress,40135,Banten,Pandeglang,Menes,Alaswangi,42262,22000,STD,reguler
+55,Ninja Xpress,40135,Banten,Pandeglang,Munjul,Cibitung,42276,22000,STD,reguler
+56,Ninja Xpress,40135,Banten,Pandeglang,Pandeglang,Babakan Kalanganyar,42219,22000,STD,reguler
+57,Ninja Xpress,40135,Banten,Pandeglang,Panimbang,Mekarsari,42281,22000,STD,reguler
+58,Ninja Xpress,40135,Banten,Pandeglang,Patia,Babakankeusik,42265,22000,STD,reguler
+59,Ninja Xpress,40135,Banten,Pandeglang,Picung,Bungurcopong,42275,22000,STD,reguler
+60,Ninja Xpress,40135,Banten,Pandeglang,Saketi,Ciandur,42273,22000,STD,reguler
+61,Ninja Xpress,40135,Banten,Pandeglang,Sindangresmi,Bojongmanik,42276,22000,STD,reguler
+62,Ninja Xpress,40135,Banten,Pandeglang,Sumur,Cigorondong,42283,22000,STD,reguler
+63,Ninja Xpress,40135,Banten,Pandeglang,Sukaresmi,Cibungur,42265,22000,STD,reguler
+64,Ninja Xpress,40135,Banten,Pandeglang,Cimanggu,Batuhideung,42284,22000,STD,reguler
+65,Ninja Xpress,40135,Banten,Pandeglang,Pagelaran,Bama,42265,22000,STD,reguler
+66,Ninja Xpress,40135,Banten,Pandeglang,Labuan,Banyubiru,42264,22000,STD,reguler
+67,Ninja Xpress,40135,Banten,Pandeglang,Angsana,Angsana,42277,22000,STD,reguler
+68,Ninja Xpress,40135,Banten,Pandeglang,Banjar,Bandung,42252,22000,STD,reguler
+69,Ninja Xpress,40135,Banten,Pandeglang,Bojong,Banyumas,42274,22000,STD,reguler
+70,Ninja Xpress,40135,Banten,Pandeglang,Cibitung,Cikadu,42285,22000,STD,reguler
+71,Ninja Xpress,40135,Banten,Pandeglang,Pulosari,Banjarnegara,42273,22000,STD,reguler
+72,Ninja Xpress,40135,Banten,Serang,Cipocok Jaya,Banjarsari,42123,14000,STD,reguler
+73,Ninja Xpress,40135,Banten,Serang,Curug,Curugmanis,42171,14000,STD,reguler
+74,Ninja Xpress,40135,Banten,Serang,Kasemen,Kasunyatan,42191,14000,STD,reguler
+75,Ninja Xpress,40135,Banten,Serang,Serang,Lontarbaru,42115,14000,STD,reguler
+76,Ninja Xpress,40135,Banten,Serang,Taktakan,Taktakan,42162,14000,STD,reguler
+77,Ninja Xpress,40135,Banten,Serang,Walantaka,Pageragung,42183,14000,STD,reguler
+78,Ninja Xpress,40135,Banten,Tangerang,Batuceper,Poris Gaga,15122,10000,STD,reguler
+79,Ninja Xpress,40135,Banten,Tangerang,Benda,Benda,15125,10000,STD,reguler
+80,Ninja Xpress,40135,Banten,Tangerang,Cibodas,Cibodas Baru,15138,10000,STD,reguler
+81,Ninja Xpress,40135,Banten,Tangerang,Cipondoh,Petir,15147,10000,STD,reguler
+82,Ninja Xpress,40135,Banten,Tangerang,Jatiuwung,Alam Jaya,15133,10000,STD,reguler
+83,Ninja Xpress,40135,Banten,Tangerang,Karawaci,Bugel,15113,10000,STD,reguler
+84,Ninja Xpress,40135,Banten,Tangerang,Neglasari,Selapajang Jaya,15127,10000,STD,reguler
+85,Ninja Xpress,40135,Banten,Tangerang,Periuk,Periuk Jaya,15131,10000,STD,reguler
+86,Ninja Xpress,40135,Banten,Tangerang,Tangerang,Kelapa Indah,15117,10000,STD,reguler
+87,Ninja Xpress,40135,Banten,Tangerang,Ciledug,Tajur,15152,10000,STD,reguler
+88,Ninja Xpress,40135,Banten,Tangerang,Karang Tengah,Parung Jaya,15159,10000,STD,reguler
+89,Ninja Xpress,40135,Banten,Tangerang,Larangan,Larangan Selatan,15154,10000,STD,reguler
+90,Ninja Xpress,40135,Banten,Tangerang,Pinang,Pinang,15145,10000,STD,reguler
+91,Ninja Xpress,40135,Banten,Tangerang Selatan,Ciputat,Cipayung,15411,10000,STD,reguler
+92,Ninja Xpress,40135,Banten,Tangerang Selatan,Ciputat Timur,Cempaka Putih,15412,10000,STD,reguler
+93,Ninja Xpress,40135,Banten,Tangerang Selatan,Pamulang,Benda Baru,15418,10000,STD,reguler
+94,Ninja Xpress,40135,Banten,Tangerang Selatan,Pondok Aren,Pondok Jaya,15220,10000,STD,reguler
+95,Ninja Xpress,40135,Banten,Tangerang Selatan,Serpong,Ciater,15310,10000,STD,reguler
+96,Ninja Xpress,40135,Banten,Tangerang Selatan,Serpong Utara,Pondok Jagung,15326,10000,STD,reguler
+97,Ninja Xpress,40135,Banten,Tangerang Selatan,Setu,Kranggan,15312,10000,STD,reguler
+98,Ninja Xpress,40135,Banten,Serang Kabupaten,Anyar,Bandulu,42166,19000,STD,reguler
+99,Ninja Xpress,40135,Banten,Serang Kabupaten,Bojonegara,Lambangsari,42454,19000,STD,reguler
+100,Ninja Xpress,40135,Banten,Serang Kabupaten,Carenang (Cerenang),Teras,42195,19000,STD,reguler
+101,Ninja Xpress,40135,Banten,Serang Kabupaten,Cikande,Nambo Udik,42186,19000,STD,reguler
+102,Ninja Xpress,40135,Banten,Serang Kabupaten,Cikeusal,Bantar Panjang,42175,19000,STD,reguler
+103,Ninja Xpress,40135,Banten,Serang Kabupaten,Cinangka,Rancasanggal,42167,19000,STD,reguler
+104,Ninja Xpress,40135,Banten,Serang Kabupaten,Ciruas,Ciruas,42182,19000,STD,reguler
+105,Ninja Xpress,40135,Banten,Serang Kabupaten,Jawilan,Parakan,42177,19000,STD,reguler
+106,Ninja Xpress,40135,Banten,Serang Kabupaten,Kibin,Sukamaju,42185,19000,STD,reguler
+107,Ninja Xpress,40135,Banten,Serang Kabupaten,Kopo,Nanggung,42178,19000,STD,reguler
+108,Ninja Xpress,40135,Banten,Serang Kabupaten,Kragilan,Cisait,42184,19000,STD,reguler
+109,Ninja Xpress,40135,Banten,Serang Kabupaten,Kramatwatu,Pejaten,42161,19000,STD,reguler
+110,Ninja Xpress,40135,Banten,Serang Kabupaten,Lebak Wangi,Pegandikan (Pegantikan),42183,14000,STD,reguler
+111,Ninja Xpress,40135,Banten,Serang Kabupaten,Mancak,Waringin,42165,19000,STD,reguler
+112,Ninja Xpress,40135,Banten,Serang Kabupaten,Padarincang,Padarincang,42168,19000,STD,reguler
+113,Ninja Xpress,40135,Banten,Serang Kabupaten,Pamarayan,Kebon Cau,42176,19000,STD,reguler
+114,Ninja Xpress,40135,Banten,Serang Kabupaten,Petir,Sanding,42172,19000,STD,reguler
+115,Ninja Xpress,40135,Banten,Serang Kabupaten,Pontang,Kalapian,42192,19000,STD,reguler
+116,Ninja Xpress,40135,Banten,Serang Kabupaten,Pulo Ampel,Margasari,42455,19000,STD,reguler
+117,Ninja Xpress,40135,Banten,Serang Kabupaten,Tanara,Sukamanah,42194,19000,STD,reguler
+118,Ninja Xpress,40135,Banten,Serang Kabupaten,Tirtayasa,Wargasara,42193,19000,STD,reguler
+119,Ninja Xpress,40135,Banten,Serang Kabupaten,Tunjung Teja,Panunggulan,42174,19000,STD,reguler
+120,Ninja Xpress,40135,Banten,Serang Kabupaten,WARINGINKURUNG,Sukabares,42453,19000,STD,reguler
+121,Ninja Xpress,40135,Banten,Serang Kabupaten,Bandung,Panamping,42176,19000,STD,reguler
+122,Ninja Xpress,40135,Banten,Serang Kabupaten,Baros,Cisalam,42173,19000,STD,reguler
+123,Ninja Xpress,40135,Banten,Serang Kabupaten,Binuang,Sukamampir,42196,19000,STD,reguler
+124,Ninja Xpress,40135,Banten,Serang Kabupaten,GUNUNG SARI,Ciherang,42163,19000,STD,reguler
+125,Ninja Xpress,40135,Banten,Serang Kabupaten,Pabuaran,Kadubeureum,42163,19000,STD,reguler
+126,Ninja Xpress,40135,Banten,Serang Kabupaten,Ciomas,Pondok Kahuru,42164,19000,STD,reguler
+127,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Balaraja,Gembong,15610,10000,STD,reguler
+128,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Cikupa,Bojong,15710,10000,STD,reguler
+129,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Cisauk,Sampora,15345,10000,STD,reguler
+130,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Cisoka,Sukatani,15730,10000,STD,reguler
+131,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Gunung Kaler,Onyam,15620,10000,STD,reguler
+132,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Jambe,Taban,15720,10000,STD,reguler
+133,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Jayanti,Cikande,15610,10000,STD,reguler
+134,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Kelapa Dua,Curug Sangerang (Curug Sangereng),15811,10000,STD,reguler
+135,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Kosambi,Cengklong,15212,10000,STD,reguler
+136,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Kresek,Talok,15620,10000,STD,reguler
+137,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Kronjo,Pasir,15550,10000,STD,reguler
+138,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Legok,Ciangir,15820,10000,STD,reguler
+139,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Mauk,Kedung Dalem,15530,10000,STD,reguler
+140,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Mekar Baru,Kedaung,15550,10000,STD,reguler
+141,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Pagedangan,Cihuni,15332,10000,STD,reguler
+142,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Pakuhaji,Bunisari (Bonasari),15570,10000,STD,reguler
+143,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Panongan,Peusar,15710,10000,STD,reguler
+144,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Pasar Kemis,Sukaasih,15560,10000,STD,reguler
+145,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Rajeg,Pangarengan,15540,10000,STD,reguler
+146,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Sepatan,Pondok Jaya,15520,10000,STD,reguler
+147,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Sepatan Timur,Gempol Sari,15520,10000,STD,reguler
+148,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Sindang Jaya,Badak Anom,15540,10000,STD,reguler
+149,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Solear,Cikasungka,15730,10000,STD,reguler
+150,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Sukadiri,Kosambi,15530,10000,STD,reguler
+151,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Sukamulya,Bunar,15610,10000,STD,reguler
+152,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Teluknaga,Teluk Naga,15510,10000,STD,reguler
+153,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Tigaraksa,Kadu Agung,15720,10000,STD,reguler
+154,Ninja Xpress,40135,Banten,Tangerang Kabupaten,Kemiri,Legok Sula Maju,15530,10000,STD,reguler
+155,,40135,Banten,Tangerang Kabupaten,Curug,Kadu Jaya,15810,,,reguler
+156,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Cengkareng,Cengkareng Barat,11730,10000,STD,reguler
+157,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Grogol Petamburan,Grogol,11450,10000,STD,reguler
+158,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Kalideres,Kalideres,11840,10000,STD,reguler
+159,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Kebon Jeruk,Duri Kepa,11510,10000,STD,reguler
+160,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Kembangan,Joglo,11640,10000,STD,reguler
+161,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Palmerah,Palmerah,11480,10000,STD,reguler
+162,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Tambora,Angke,11330,10000,STD,reguler
+163,Ninja Xpress,40135,DKI Jakarta,Jakarta Barat,Taman Sari,Glodok,11120,10000,STD,reguler
+164,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,10520,10000,STD,reguler
+165,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Gambir,Duri Pulo,10140,10000,STD,reguler
+166,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Johar Baru,Johar Baru,10560,10000,STD,reguler
+167,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Kemayoran,Sumur Batu,10640,10000,STD,reguler
+168,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Menteng,Kebon Sirih,10340,10000,STD,reguler
+169,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Sawah Besar,Gunung Sahari Utara,10720,10000,STD,reguler
+170,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Senen,Kwitang,10420,10000,STD,reguler
+171,Ninja Xpress,40135,DKI Jakarta,Jakarta Pusat,Tanah Abang,Karet Tengsin,10220,10000,STD,reguler
+172,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Cilandak,Cilandak Barat,12430,10000,STD,reguler
+173,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Jagakarsa,Ciganjur,12630,10000,STD,reguler
+174,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Kebayoran Baru,Cipete Utara,12150,10000,STD,reguler
+175,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Kebayoran Lama,Cipulir,12230,10000,STD,reguler
+176,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Mampang Prapatan,Bangka,12730,10000,STD,reguler
+177,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Pancoran,Cikoko,12770,10000,STD,reguler
+178,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Pasar Minggu,Cilandak Timur,12560,10000,STD,reguler
+179,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Pesanggrahan,Bintaro,12330,10000,STD,reguler
+180,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Setia Budi,Kuningan Timur,12950,10000,STD,reguler
+181,Ninja Xpress,40135,DKI Jakarta,Jakarta Selatan,Tebet,Bukit Duri,12840,10000,STD,reguler
+182,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Cakung,Cakung Barat,13910,10000,STD,reguler
+183,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Ciracas,Cibubur,13720,10000,STD,reguler
+184,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Duren Sawit,Duren Sawit,13440,10000,STD,reguler
+185,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Kramat Jati,Dukuh,13550,10000,STD,reguler
+186,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Makasar,Cipinang Melayu,13620,10000,STD,reguler
+187,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Matraman,Kayu Manis,13130,10000,STD,reguler
+188,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Pasar Rebo,Baru,13780,10000,STD,reguler
+189,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Pulo Gadung,Pisangan Timur,13230,10000,STD,reguler
+190,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Jatinegara,Bali Mester,13310,10000,STD,reguler
+191,Ninja Xpress,40135,DKI Jakarta,Jakarta Timur,Cipayung,Bambu Apus,13890,10000,STD,reguler
+192,Ninja Xpress,40135,DKI Jakarta,Jakarta Utara,Cilincing,Cilincing,14120,10000,STD,reguler
+193,Ninja Xpress,40135,DKI Jakarta,Jakarta Utara,Kelapa Gading,Kelapa Gading Barat,14240,10000,STD,reguler
+194,Ninja Xpress,40135,DKI Jakarta,Jakarta Utara,Koja,Koja (Utara-Selatan),14210,10000,STD,reguler
+195,Ninja Xpress,40135,DKI Jakarta,Jakarta Utara,Pademangan,Ancol,14430,10000,STD,reguler
+196,Ninja Xpress,40135,DKI Jakarta,Jakarta Utara,Penjaringan,Kamal Muara,14470,10000,STD,reguler
+197,Ninja Xpress,40135,DKI Jakarta,Jakarta Utara,Tanjung Priok,Kebon Bawang,14320,10000,STD,reguler
+198,Ninja Xpress,40135,DKI Jakarta,Kepulauan Seribu,Kepulauan Seribu Selatan,Pulau Pari,14520,11000,STD,reguler
+199,Ninja Xpress,40135,DKI Jakarta,Kepulauan Seribu,Kepulauan Seribu Utara,Pulau Harapan,14540,11000,STD,reguler
+200,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Andir,Ciroyom,40182,7000,STD,reguler
+201,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Arcamanik,Cisaranten Endah,40293,7000,STD,reguler
+202,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Astana Anyar,Cibadak,40241,7000,STD,reguler
+203,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Babakan Ciparay,Margahayu Utara,40224,7000,STD,reguler
+204,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Bandung Kidul,Wates,40256,7000,STD,reguler
+205,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Bandung Kulon,Warung Muncang,40211,7000,STD,reguler
+206,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Bandung Wetan,Tamansari,40116,7000,STD,reguler
+207,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Batununggal,Kebonwaru,40272,7000,STD,reguler
+208,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Bojongloa Kaler,Suka Asih,40231,7000,STD,reguler
+209,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Bojongloa Kidul,Cibaduyut,40236,7000,STD,reguler
+210,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Buahbatu (Margacinta),Sekejati,40286,7000,STD,reguler
+211,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Cibeunying Kaler,Neglasari,40124,7000,STD,reguler
+212,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Cibeunying Kidul,Sukamaju,40121,7000,STD,reguler
+213,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Cibiru,Palasari,40615,7000,STD,reguler
+214,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Cicendo,Pajajaran,40173,7000,STD,reguler
+215,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Cinambo,Cisaranten Wetan,40294,7000,STD,reguler
+216,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Coblong,Sekeloa,40134,7000,STD,reguler
+217,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Gedebage,Cimenerang (Cimincrang),40294,7000,STD,reguler
+218,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Kiaracondong,Kebon Kangkung,40284,7000,STD,reguler
+219,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Mandalajati,Jatihandap,40195,7000,STD,reguler
+220,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Panyileukan,Cipadung Wetan,40614,7000,STD,reguler
+221,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Rancasari,Mekar Mulya (Mekarjaya),40292,7000,STD,reguler
+222,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Regol,Pasirluyu,40254,7000,STD,reguler
+223,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Sukajadi,Sukawarna,40164,7000,STD,reguler
+224,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Sumur Bandung,Merdeka,40113,7000,STD,reguler
+225,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Ujung Berung,Pasirjati,40616,7000,STD,reguler
+226,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Cidadap,Ciumbuleuit,40142,7000,STD,reguler
+227,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Sukasari,Sarijadi,40151,7000,STD,reguler
+228,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Antapani,Antapani Kulon,40291,7000,STD,reguler
+229,Ninja Xpress,40135,Jawa Barat,Bandung Kota,Lengkong,Cikawao,40261,7000,STD,reguler
+230,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Batujajar,Batujajar Barat,40561,7500,STD,reguler
+231,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Cihampelas,Situwangi,40562,7500,STD,reguler
+232,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Cikalong Wetan,Cikalong,40556,7500,STD,reguler
+233,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Cililin,Bongas,40562,7500,STD,reguler
+234,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Cipatat,Nyalindung,40554,7500,STD,reguler
+235,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Cipongkor,Cicangkang Hilir,40564,7500,STD,reguler
+236,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Gununghalu,Sukasari,40565,7500,STD,reguler
+237,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Ngamprah,Margajaya,40552,7500,STD,reguler
+238,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Padalarang,Cimerang,40553,7500,STD,reguler
+239,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Parongpong,Karyawangi,40559,7500,STD,reguler
+240,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Rongga,Bojong,40566,7500,STD,reguler
+241,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Saguling,Saguling,40561,7500,STD,reguler
+242,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Sindangkerta,Buninagara,40563,7500,STD,reguler
+243,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Lembang,Cikahuripan,40391,7500,STD,reguler
+244,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Cipeundeuy,Sirnaraja,40558,7500,STD,reguler
+245,Ninja Xpress,40135,Jawa Barat,Bandung Barat,Cisarua,Tugumukti,40551,7500,STD,reguler
+246,Ninja Xpress,40135,Jawa Barat,Banjar,Langensari,Rejasari,46344,13000,STD,reguler
+247,Ninja Xpress,40135,Jawa Barat,Banjar,Pataruman,Karyamukti,46327,13000,STD,reguler
+248,Ninja Xpress,40135,Jawa Barat,Banjar,Purwaharja,Raharja,46333,13000,STD,reguler
+249,Ninja Xpress,40135,Jawa Barat,Banjar,Banjar,Balokang,46312,13000,STD,reguler
+250,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,BANTARGEBANG,Cikiwul,17152,11000,STD,reguler
+251,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Bekasi Barat,Kranji,17135,11000,STD,reguler
+252,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Bekasi Selatan,Pekayon Jaya,17148,11000,STD,reguler
+253,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Bekasi Timur,Duren Jaya,17111,11000,STD,reguler
+254,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Bekasi Utara,Teluk Pucung,17121,11000,STD,reguler
+255,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Jatisampurna,Jatisampurna,17433,11000,STD,reguler
+256,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Jatiasih,Jatirasa,17424,11000,STD,reguler
+257,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Medan Satria,Medan Satria,17132,11000,STD,reguler
+258,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,MUSTIKAJAYA,Cimuning,17155,11000,STD,reguler
+259,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,PONDOKGEDE,Jatibening,17412,11000,STD,reguler
+260,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Pondok Melati,Jatimelati,17414,11000,STD,reguler
+261,Ninja Xpress,40135,Jawa Barat,Bekasi Kota,Rawalumbu,Bojong Rawalumbu,17116,11000,STD,reguler
+262,Ninja Xpress,40135,Jawa Barat,Bogor Kota,Bogor Barat - Kota,Semplak,16114,11000,STD,reguler
+263,Ninja Xpress,40135,Jawa Barat,Bogor Kota,Bogor Selatan - Kota,Rancamaya,16139,11000,STD,reguler
+264,Ninja Xpress,40135,Jawa Barat,Bogor Kota,Bogor Tengah - Kota,Babakan Pasar,16126,11000,STD,reguler
+265,Ninja Xpress,40135,Jawa Barat,Bogor Kota,Bogor Timur - Kota,Tajur,16141,11000,STD,reguler
+266,Ninja Xpress,40135,Jawa Barat,Bogor Kota,Bogor Utara - Kota,Ciluar,16156,11000,STD,reguler
+267,Ninja Xpress,40135,Jawa Barat,Bogor Kota,TANAH SAREAL,Kencana,16167,11000,STD,reguler
+268,Ninja Xpress,40135,Jawa Barat,Ciamis,Baregbeg,Baregbeg,46274,13000,STD,reguler
+269,Ninja Xpress,40135,Jawa Barat,Ciamis,Ciamis,Benteng,46217,13000,STD,reguler
+270,Ninja Xpress,40135,Jawa Barat,Ciamis,Cihaurbeuti,Cihaurbeuti,46262,13000,STD,reguler
+271,Ninja Xpress,40135,Jawa Barat,Ciamis,Cijeungjing,Bojongmengger,46271,13000,STD,reguler
+272,Ninja Xpress,40135,Jawa Barat,Ciamis,Cikoneng,Cikoneng,46261,13000,STD,reguler
+273,Ninja Xpress,40135,Jawa Barat,Ciamis,Cimaragas,Beber,46381,13000,STD,reguler
+274,Ninja Xpress,40135,Jawa Barat,Ciamis,Cipaku,Bangbayang,46252,13000,STD,reguler
+275,Ninja Xpress,40135,Jawa Barat,Ciamis,Cisaga,Bangunharja,46386,13000,STD,reguler
+276,Ninja Xpress,40135,Jawa Barat,Ciamis,Jatinagara,Bayasari,46273,13000,STD,reguler
+277,Ninja Xpress,40135,Jawa Barat,Ciamis,Kawali,Citeureup,46253,13000,STD,reguler
+278,Ninja Xpress,40135,Jawa Barat,Ciamis,Lakbok,Baregbeg,46385,13000,STD,reguler
+279,Ninja Xpress,40135,Jawa Barat,Ciamis,Lumbung,Awiluar,46258,13000,STD,reguler
+280,Ninja Xpress,40135,Jawa Barat,Ciamis,Pamarican,Bangunsari,46382,13000,STD,reguler
+281,Ninja Xpress,40135,Jawa Barat,Ciamis,Panawangan,Bangunjaya,46255,13000,STD,reguler
+282,Ninja Xpress,40135,Jawa Barat,Ciamis,Panjalu,Bahara,46264,13000,STD,reguler
+283,Ninja Xpress,40135,Jawa Barat,Ciamis,Panumbangan,Banjarangsana,46263,13000,STD,reguler
+284,Ninja Xpress,40135,Jawa Barat,Ciamis,Purwadadi,Bantardawa,46385,13000,STD,reguler
+285,Ninja Xpress,40135,Jawa Barat,Ciamis,Rajadesa,Andapraja,46254,13000,STD,reguler
+286,Ninja Xpress,40135,Jawa Barat,Ciamis,Rancah,Bojonggedang,46387,13000,STD,reguler
+287,Ninja Xpress,40135,Jawa Barat,Ciamis,Sadananya,Bendasari,46256,13000,STD,reguler
+288,Ninja Xpress,40135,Jawa Barat,Ciamis,Sindangkasih,Budiasih,46268,13000,STD,reguler
+289,Ninja Xpress,40135,Jawa Barat,Ciamis,Sukamantri,Cibeureum,46264,13000,STD,reguler
+290,,40135,Jawa Barat,Ciamis,Banjarsari,Banjarsari,46383,,,reguler
+291,Ninja Xpress,40135,Jawa Barat,Ciamis,Sukadana,Bunter,46272,13000,STD,reguler
+292,Ninja Xpress,40135,Jawa Barat,Ciamis,Cidolog,Cidolog,46352,13000,STD,reguler
+293,Ninja Xpress,40135,Jawa Barat,Ciamis,Tambaksari,Kadupandak,46388,13000,STD,reguler
+294,,40135,Jawa Barat,Ciamis,Banjaranyar,Banjaranyar,46383,,,reguler
+295,Ninja Xpress,40135,Jawa Barat,Cianjur,Agrabinta,Bojongkaso,43273,12000,STD,reguler
+296,Ninja Xpress,40135,Jawa Barat,Cianjur,Bojongpicung,Bojongpicung,43283,12000,STD,reguler
+297,Ninja Xpress,40135,Jawa Barat,Cianjur,Campaka,Campaka,43263,12000,STD,reguler
+298,Ninja Xpress,40135,Jawa Barat,Cianjur,Campaka Mulya,Sukabungah,43269,12000,STD,reguler
+299,Ninja Xpress,40135,Jawa Barat,Cianjur,Cianjur,Bojongherang,43216,12000,STD,reguler
+300,Ninja Xpress,40135,Jawa Barat,Cianjur,Cibinong,Batulawang,43271,12000,STD,reguler
+301,Ninja Xpress,40135,Jawa Barat,Cianjur,Cidaun,Cibuluh,43275,12000,STD,reguler
+302,Ninja Xpress,40135,Jawa Barat,Cianjur,Cijati,Bojonglarang,43284,12000,STD,reguler
+303,Ninja Xpress,40135,Jawa Barat,Cianjur,Cikadu,Cikadu,43284,12000,STD,reguler
+304,Ninja Xpress,40135,Jawa Barat,Cianjur,Cikalongkulon,Cigunungherang,43291,12000,STD,reguler
+305,Ninja Xpress,40135,Jawa Barat,Cianjur,Cilaku,Ciharashas,43285,12000,STD,reguler
+306,Ninja Xpress,40135,Jawa Barat,Cianjur,Ciranjang,Cibiuk,43282,12000,STD,reguler
+307,Ninja Xpress,40135,Jawa Barat,Cianjur,Cugenang,Benjot,43252,12000,STD,reguler
+308,Ninja Xpress,40135,Jawa Barat,Cianjur,Gekbrong,Bangbayang,43261,12000,STD,reguler
+309,Ninja Xpress,40135,Jawa Barat,Cianjur,Haurwangi,Cihea,43283,12000,STD,reguler
+310,Ninja Xpress,40135,Jawa Barat,Cianjur,Kadupandak,Bojongkasih,43268,12000,STD,reguler
+311,Ninja Xpress,40135,Jawa Barat,Cianjur,Mande,Bobojong,43292,12000,STD,reguler
+312,Ninja Xpress,40135,Jawa Barat,Cianjur,Naringgul,Balegede,43274,12000,STD,reguler
+313,Ninja Xpress,40135,Jawa Barat,Cianjur,Pasirkuda,Girijaya,43267,12000,STD,reguler
+314,Ninja Xpress,40135,Jawa Barat,Cianjur,Sindangbarang,Girimukti,43272,12000,STD,reguler
+315,Ninja Xpress,40135,Jawa Barat,Cianjur,Sukaluyu,Babakansari,43284,12000,STD,reguler
+316,Ninja Xpress,40135,Jawa Barat,Cianjur,Sukanagara,Ciguha,43264,12000,STD,reguler
+317,Ninja Xpress,40135,Jawa Barat,Cianjur,Takokak,Bungbangsari,43265,12000,STD,reguler
+318,Ninja Xpress,40135,Jawa Barat,Cianjur,Tanggeung,Bojongpetir,43267,12000,STD,reguler
+319,Ninja Xpress,40135,Jawa Barat,Cianjur,Warungkondang,Bunikasih,43261,12000,STD,reguler
+320,Ninja Xpress,40135,Jawa Barat,Cianjur,Leles,Karyamukti,43273,12000,STD,reguler
+321,Ninja Xpress,40135,Jawa Barat,Cianjur,Pacet,Cibodas,43253,12000,STD,reguler
+322,Ninja Xpress,40135,Jawa Barat,Cianjur,Cibeber,Cibadak,43262,12000,STD,reguler
+323,Ninja Xpress,40135,Jawa Barat,Cianjur,Cipanas,Batulawang,43253,12000,STD,reguler
+324,Ninja Xpress,40135,Jawa Barat,Cianjur,Karangtengah,Babakancaringin,43281,12000,STD,reguler
+325,Ninja Xpress,40135,Jawa Barat,Cianjur,Pagelaran,Bunijaya,43266,12000,STD,reguler
+326,Ninja Xpress,40135,Jawa Barat,Cianjur,Sukaresmi,Cibadak,43254,12000,STD,reguler
+327,Ninja Xpress,40135,Jawa Barat,Cimahi,Cimahi Selatan,Utama,40533,7500,STD,reguler
+328,Ninja Xpress,40135,Jawa Barat,Cimahi,Cimahi Tengah,Baros,40521,7500,STD,reguler
+329,Ninja Xpress,40135,Jawa Barat,Cimahi,Cimahi Utara,Cibabat,40513,7500,STD,reguler
+330,Ninja Xpress,40135,Jawa Barat,Cirebon Kota,Harjamukti,Kecapi,45142,12000,STD,reguler
+331,Ninja Xpress,40135,Jawa Barat,Cirebon Kota,Kejaksan,Sukapura,45122,12000,STD,reguler
+332,Ninja Xpress,40135,Jawa Barat,Cirebon Kota,Kesambi,Kesambi,45134,12000,STD,reguler
+333,Ninja Xpress,40135,Jawa Barat,Cirebon Kota,Lemahwungkuk,Pegambiran,45113,12000,STD,reguler
+334,Ninja Xpress,40135,Jawa Barat,Cirebon Kota,Pekalipan,Jagasatru,45115,12000,STD,reguler
+335,Ninja Xpress,40135,Jawa Barat,Depok,Cilodong,Sukamaju,16415,11500,STD,reguler
+336,Ninja Xpress,40135,Jawa Barat,Depok,Cimanggis,Curug,16453,11500,STD,reguler
+337,Ninja Xpress,40135,Jawa Barat,Depok,Cinere,Pangkalan Jati,16513,11500,STD,reguler
+338,Ninja Xpress,40135,Jawa Barat,Depok,Cipayung,Ratu Jaya,16439,11500,STD,reguler
+339,Ninja Xpress,40135,Jawa Barat,Depok,Limo,Krukut,16512,11500,STD,reguler
+340,Ninja Xpress,40135,Jawa Barat,Depok,Pancoran Mas,Depok Jaya,16432,11500,STD,reguler
+341,Ninja Xpress,40135,Jawa Barat,Depok,Sukmajaya,Baktijaya,16418,11500,STD,reguler
+342,Ninja Xpress,40135,Jawa Barat,Depok,Tapos,Cimpaeun,16459,11500,STD,reguler
+343,Ninja Xpress,40135,Jawa Barat,Depok,Beji,Kemiri Muka,16423,11500,STD,reguler
+344,Ninja Xpress,40135,Jawa Barat,Depok,Bojongsari,Bojong Sari (Lama),16516,11500,STD,reguler
+345,Ninja Xpress,40135,Jawa Barat,Depok,Sawangan,Sawangan (Lama),16511,11500,STD,reguler
+346,Ninja Xpress,40135,Jawa Barat,Garut,Banjarwangi,Banjarwangi,44172,10000,STD,reguler
+347,Ninja Xpress,40135,Jawa Barat,Garut,Banyuresmi,Bagendit,44191,10000,STD,reguler
+348,Ninja Xpress,40135,Jawa Barat,Garut,Bayongbong,Banjarsari,44162,10000,STD,reguler
+349,Ninja Xpress,40135,Jawa Barat,Garut,Blubur Limbangan,Limbangan Barat,44186,10000,STD,reguler
+350,Ninja Xpress,40135,Jawa Barat,Garut,Bungbulang,Bojong,44165,10000,STD,reguler
+351,Ninja Xpress,40135,Jawa Barat,Garut,Caringin,Caringin,44166,10000,STD,reguler
+352,Ninja Xpress,40135,Jawa Barat,Garut,Cibiuk,Cibiuk Kaler,44193,10000,STD,reguler
+353,Ninja Xpress,40135,Jawa Barat,Garut,Cigedug,Barusuda,44116,10000,STD,reguler
+354,Ninja Xpress,40135,Jawa Barat,Garut,Cihurip,Cihurip,44173,10000,STD,reguler
+355,Ninja Xpress,40135,Jawa Barat,Garut,Cikajang,Cibodas,44171,10000,STD,reguler
+356,Ninja Xpress,40135,Jawa Barat,Garut,Cikelet,Awassagara,44177,10000,STD,reguler
+357,Ninja Xpress,40135,Jawa Barat,Garut,Cilawu,Cilawu,44181,10000,STD,reguler
+358,Ninja Xpress,40135,Jawa Barat,Garut,Cisewu,Cikarang,44166,10000,STD,reguler
+359,Ninja Xpress,40135,Jawa Barat,Garut,Cisompet,Cihaurkuning,44174,10000,STD,reguler
+360,Ninja Xpress,40135,Jawa Barat,Garut,Cisurupan,Balewangi,44163,10000,STD,reguler
+361,Ninja Xpress,40135,Jawa Barat,Garut,Garut Kota,Cimuncang,44113,10000,STD,reguler
+362,Ninja Xpress,40135,Jawa Barat,Garut,Kadungora,Cikembulan,44153,10000,STD,reguler
+363,Ninja Xpress,40135,Jawa Barat,Garut,Karangpawitan,Cimurah,44182,10000,STD,reguler
+364,Ninja Xpress,40135,Jawa Barat,Garut,Kersamanah,Girijaya,44185,10000,STD,reguler
+365,Ninja Xpress,40135,Jawa Barat,Garut,Leuwigoong,Dungusiku,44192,10000,STD,reguler
+366,Ninja Xpress,40135,Jawa Barat,Garut,Malangbong,Bunisari,44188,10000,STD,reguler
+367,Ninja Xpress,40135,Jawa Barat,Garut,Mekarmukti,Cijayana,44165,10000,STD,reguler
+368,Ninja Xpress,40135,Jawa Barat,Garut,Pakenjeng,Depok,44164,10000,STD,reguler
+369,Ninja Xpress,40135,Jawa Barat,Garut,Pangatikan,Cihuni,44183,10000,STD,reguler
+370,Ninja Xpress,40135,Jawa Barat,Garut,Pasirwangi,Mekarwangi,44161,10000,STD,reguler
+371,Ninja Xpress,40135,Jawa Barat,Garut,Peundeuy,Pangrumasan,44178,10000,STD,reguler
+372,Ninja Xpress,40135,Jawa Barat,Garut,Samarang,Cintaasih,44161,10000,STD,reguler
+373,Ninja Xpress,40135,Jawa Barat,Garut,Selaawi,Cigawir,44187,10000,STD,reguler
+374,Ninja Xpress,40135,Jawa Barat,Garut,Singajaya,Cigintung,44173,10000,STD,reguler
+375,Ninja Xpress,40135,Jawa Barat,Garut,Sucinaraja,Cigadog,44115,10000,STD,reguler
+376,Ninja Xpress,40135,Jawa Barat,Garut,Sukawening,Maripari,44184,10000,STD,reguler
+377,Ninja Xpress,40135,Jawa Barat,Garut,Talegong,Mekarmukti,44167,10000,STD,reguler
+378,Ninja Xpress,40135,Jawa Barat,Garut,Tarogong Kaler,Cimanganten,44151,10000,STD,reguler
+379,Ninja Xpress,40135,Jawa Barat,Garut,Tarogong Kidul,Cibunar,44151,10000,STD,reguler
+380,Ninja Xpress,40135,Jawa Barat,Garut,Wanaraja,Cinunuk,44183,10000,STD,reguler
+381,Ninja Xpress,40135,Jawa Barat,Garut,Pamulihan,Garumukti,44168,10000,STD,reguler
+382,Ninja Xpress,40135,Jawa Barat,Garut,Cibalong,Cigaronggong,44176,10000,STD,reguler
+383,Ninja Xpress,40135,Jawa Barat,Garut,Cibatu,Cibatu,44185,10000,STD,reguler
+384,Ninja Xpress,40135,Jawa Barat,Garut,Karangtengah,Caringin,44184,10000,STD,reguler
+385,Ninja Xpress,40135,Jawa Barat,Garut,Leles,Cangkuang,44119,10000,STD,reguler
+386,Ninja Xpress,40135,Jawa Barat,Garut,Pameungpeuk,Bojong,44175,10000,STD,reguler
+387,Ninja Xpress,40135,Jawa Barat,Garut,Sukaresmi,Cintadamai,44163,10000,STD,reguler
+388,Ninja Xpress,40135,Jawa Barat,Indramayu,Anjatan,Anjatan,45256,13000,STD,reguler
+389,Ninja Xpress,40135,Jawa Barat,Indramayu,Arahan,Arahan Kidul,45365,13000,STD,reguler
+390,Ninja Xpress,40135,Jawa Barat,Indramayu,Balongan,Balongan,45217,13000,STD,reguler
+391,Ninja Xpress,40135,Jawa Barat,Indramayu,Bangodua,Bangodua,45272,13000,STD,reguler
+392,Ninja Xpress,40135,Jawa Barat,Indramayu,Bongas,Bongas,45255,13000,STD,reguler
+393,Ninja Xpress,40135,Jawa Barat,Indramayu,Cantigi,Cemara,45258,13000,STD,reguler
+394,Ninja Xpress,40135,Jawa Barat,Indramayu,Cikedung,Cikedung,45262,13000,STD,reguler
+395,Ninja Xpress,40135,Jawa Barat,Indramayu,Gabuswetan,Drunten Kulon,45263,13000,STD,reguler
+396,Ninja Xpress,40135,Jawa Barat,Indramayu,Gantar,Bantarwaru,45264,13000,STD,reguler
+397,Ninja Xpress,40135,Jawa Barat,Indramayu,Haurgeulis,Cipancuh,45264,13000,STD,reguler
+398,Ninja Xpress,40135,Jawa Barat,Indramayu,Indramayu,Bojongsari,45214,13000,STD,reguler
+399,Ninja Xpress,40135,Jawa Barat,Indramayu,Juntinyuat,Dadap,45282,13000,STD,reguler
+400,Ninja Xpress,40135,Jawa Barat,Indramayu,Kandanghaur,Bulak,45254,13000,STD,reguler
+401,Ninja Xpress,40135,Jawa Barat,Indramayu,Karangampel,Benda,45283,13000,STD,reguler
+402,Ninja Xpress,40135,Jawa Barat,Indramayu,Kedokan Bunder,Cangkingan,45283,13000,STD,reguler
+403,Ninja Xpress,40135,Jawa Barat,Indramayu,Kertasemaya,Jambe,45274,13000,STD,reguler
+404,Ninja Xpress,40135,Jawa Barat,Indramayu,Krangkeng,Dukuhjati,45284,13000,STD,reguler
+405,Ninja Xpress,40135,Jawa Barat,Indramayu,Lelea,Cempeh,45261,13000,STD,reguler
+406,Ninja Xpress,40135,Jawa Barat,Indramayu,Lohbener,Bojongslawi,45252,13000,STD,reguler
+407,Ninja Xpress,40135,Jawa Barat,Indramayu,Losarang,Cemara Kulon,45253,13000,STD,reguler
+408,Ninja Xpress,40135,Jawa Barat,Indramayu,Pasekan,Brondong,45219,13000,STD,reguler
+409,Ninja Xpress,40135,Jawa Barat,Indramayu,Patrol,Arjasari,45257,13000,STD,reguler
+410,Ninja Xpress,40135,Jawa Barat,Indramayu,Sliyeg,Gadingan,45281,13000,STD,reguler
+411,Ninja Xpress,40135,Jawa Barat,Indramayu,Sukagumiwang,Bondan,45274,13000,STD,reguler
+412,Ninja Xpress,40135,Jawa Barat,Indramayu,Sukra,Bogor,45257,13000,STD,reguler
+413,Ninja Xpress,40135,Jawa Barat,Indramayu,Trisi/terisi,Cikawung,45262,13000,STD,reguler
+414,Ninja Xpress,40135,Jawa Barat,Indramayu,Tukdana,Bodas,45272,13000,STD,reguler
+415,Ninja Xpress,40135,Jawa Barat,Indramayu,Widasari,Bangkaloa Ilir,45271,13000,STD,reguler
+416,Ninja Xpress,40135,Jawa Barat,Indramayu,Jatibarang,Bulak,45273,13000,STD,reguler
+417,Ninja Xpress,40135,Jawa Barat,Indramayu,Sindang,Babadan,45227,13000,STD,reguler
+418,Ninja Xpress,40135,Jawa Barat,Indramayu,Kroya,Jayamulya,45265,13000,STD,reguler
+419,Ninja Xpress,40135,Jawa Barat,Karawang,Lemahabang,Ciwaringin,41383,10000,STD,reguler
+420,Ninja Xpress,40135,Jawa Barat,Karawang,Banyusari,Banyuasih,41374,10000,STD,reguler
+421,Ninja Xpress,40135,Jawa Barat,Karawang,Batujaya,Batujaya,41354,10000,STD,reguler
+422,Ninja Xpress,40135,Jawa Barat,Karawang,Ciampel,Kutamekar,41363,10000,STD,reguler
+423,Ninja Xpress,40135,Jawa Barat,Karawang,Cibuaya,Cemarajaya,41356,10000,STD,reguler
+424,Ninja Xpress,40135,Jawa Barat,Karawang,Cikampek,Cikampek Barat,41373,10000,STD,reguler
+425,Ninja Xpress,40135,Jawa Barat,Karawang,Cilamaya Kulon,Bayur Kidul,41384,10000,STD,reguler
+426,Ninja Xpress,40135,Jawa Barat,Karawang,Cilamaya Wetan,Cikalong,41384,10000,STD,reguler
+427,Ninja Xpress,40135,Jawa Barat,Karawang,Cilebar,Cikande,41353,10000,STD,reguler
+428,Ninja Xpress,40135,Jawa Barat,Karawang,Jatisari,Balonggandu,41374,10000,STD,reguler
+429,Ninja Xpress,40135,Jawa Barat,Karawang,Jayakerta,Ciptamarga,41352,10000,STD,reguler
+430,Ninja Xpress,40135,Jawa Barat,Karawang,Karawang Barat,Adiarsa Barat,41311,10000,STD,reguler
+431,Ninja Xpress,40135,Jawa Barat,Karawang,Karawang Timur,Adiarsa Timur,41314,10000,STD,reguler
+432,Ninja Xpress,40135,Jawa Barat,Karawang,Klari,Anggadita,41371,10000,STD,reguler
+433,Ninja Xpress,40135,Jawa Barat,Karawang,Kutawaluya,Kutagandok,41358,10000,STD,reguler
+434,Ninja Xpress,40135,Jawa Barat,Karawang,Pakisjaya,Solokan,41355,10000,STD,reguler
+435,Ninja Xpress,40135,Jawa Barat,Karawang,Pangkalan,Cintaasih,41362,10000,STD,reguler
+436,Ninja Xpress,40135,Jawa Barat,Karawang,Pedes,Dongkal,41353,10000,STD,reguler
+437,Ninja Xpress,40135,Jawa Barat,Karawang,Purwasari,Cengkong,41373,10000,STD,reguler
+438,Ninja Xpress,40135,Jawa Barat,Karawang,Rawamerta,Balongsari,41382,10000,STD,reguler
+439,Ninja Xpress,40135,Jawa Barat,Karawang,Rengasdengklok,Amansari,41352,10000,STD,reguler
+440,Ninja Xpress,40135,Jawa Barat,Karawang,TELAGASARI,Cariumulya,41381,10000,STD,reguler
+441,Ninja Xpress,40135,Jawa Barat,Karawang,Tegalwaru,Cigunungsari,41362,10000,STD,reguler
+442,Ninja Xpress,40135,Jawa Barat,Karawang,Telukjambe Barat,Karangmulya,41361,10000,STD,reguler
+443,Ninja Xpress,40135,Jawa Barat,Karawang,Telukjambe Timur,Pinayungan,41361,10000,STD,reguler
+444,Ninja Xpress,40135,Jawa Barat,Karawang,Tirtajaya,Bolang,41357,10000,STD,reguler
+445,Ninja Xpress,40135,Jawa Barat,Karawang,Tirtamulya,Bojongsari,41372,10000,STD,reguler
+446,Ninja Xpress,40135,Jawa Barat,Karawang,Tempuran,Cikuntul,41385,10000,STD,reguler
+447,Ninja Xpress,40135,Jawa Barat,Karawang,Kotabaru,Jomin Barat,41374,10000,STD,reguler
+448,Ninja Xpress,40135,Jawa Barat,Karawang,Majalaya,Ciranggon,41371,10000,STD,reguler
+449,Ninja Xpress,40135,Jawa Barat,Kuningan,Ciawigebang,Ciawigebang,45591,15000,STD,reguler
+450,Ninja Xpress,40135,Jawa Barat,Kuningan,Cibingbin,Bantarpanjang,45587,15000,STD,reguler
+451,Ninja Xpress,40135,Jawa Barat,Kuningan,Cigandamekar,Babakanjati,45556,15000,STD,reguler
+452,Ninja Xpress,40135,Jawa Barat,Kuningan,Cilebak,Bungurberes,45585,15000,STD,reguler
+453,Ninja Xpress,40135,Jawa Barat,Kuningan,Cilimus,Bandorasa Kulon,45556,15000,STD,reguler
+454,Ninja Xpress,40135,Jawa Barat,Kuningan,Cimahi,Cikeusal,45582,15000,STD,reguler
+455,Ninja Xpress,40135,Jawa Barat,Kuningan,Ciniru,Ciniru,45565,15000,STD,reguler
+456,Ninja Xpress,40135,Jawa Barat,Kuningan,Cipicung,Cimaranten,45592,15000,STD,reguler
+457,Ninja Xpress,40135,Jawa Barat,Kuningan,Ciwaru,Andamui,45583,15000,STD,reguler
+458,Ninja Xpress,40135,Jawa Barat,Kuningan,Darma,Bakom,45562,15000,STD,reguler
+459,Ninja Xpress,40135,Jawa Barat,Kuningan,Garawangi,Cikananga,45571,15000,STD,reguler
+460,Ninja Xpress,40135,Jawa Barat,Kuningan,Hantara,Bunigeulis,45564,15000,STD,reguler
+461,Ninja Xpress,40135,Jawa Barat,Kuningan,Jalaksana,Babakanmulya,45554,15000,STD,reguler
+462,Ninja Xpress,40135,Jawa Barat,Kuningan,Japara,Cengal,45555,15000,STD,reguler
+463,Ninja Xpress,40135,Jawa Barat,Kuningan,Kadugede,Babatan,45561,15000,STD,reguler
+464,Ninja Xpress,40135,Jawa Barat,Kuningan,Kalimanggis,Partawangunan,45594,15000,STD,reguler
+465,Ninja Xpress,40135,Jawa Barat,Kuningan,Karangkancana,Margacina,45584,15000,STD,reguler
+466,Ninja Xpress,40135,Jawa Barat,Kuningan,KRAMATMULYA,Bojong,45553,15000,STD,reguler
+467,Ninja Xpress,40135,Jawa Barat,Kuningan,Kuningan,Ancaran,45514,15000,STD,reguler
+468,,40135,Jawa Barat,Kuningan,Lebakwangi,Bendungan,45574,,,reguler
+469,Ninja Xpress,40135,Jawa Barat,Kuningan,Luragung,Benda,45582,15000,STD,reguler
+470,Ninja Xpress,40135,Jawa Barat,Kuningan,Maleber,Buniasih,45575,15000,STD,reguler
+471,Ninja Xpress,40135,Jawa Barat,Kuningan,Mandirancan,Cirea,45558,15000,STD,reguler
+472,Ninja Xpress,40135,Jawa Barat,Kuningan,Nusaherang,Ciasih,45563,15000,STD,reguler
+473,Ninja Xpress,40135,Jawa Barat,Kuningan,Pancalang,Danalampah,45557,15000,STD,reguler
+474,Ninja Xpress,40135,Jawa Barat,Kuningan,Pasawahan,Cibuntu,45559,15000,STD,reguler
+475,Ninja Xpress,40135,Jawa Barat,Kuningan,Selajambe,Bagawat,45566,15000,STD,reguler
+476,Ninja Xpress,40135,Jawa Barat,Kuningan,Sindangagung,Kaduagung,45573,15000,STD,reguler
+477,Ninja Xpress,40135,Jawa Barat,Kuningan,Cibeureum,Cibeureum,45588,15000,STD,reguler
+478,Ninja Xpress,40135,Jawa Barat,Kuningan,Cidahu,Bunder,45595,15000,STD,reguler
+479,Ninja Xpress,40135,Jawa Barat,Kuningan,Cigugur,Babakanmulya,45552,15000,STD,reguler
+480,Ninja Xpress,40135,Jawa Barat,Kuningan,Subang,Bangunjaya,45586,15000,STD,reguler
+481,Ninja Xpress,40135,Jawa Barat,Majalengka,Argapura,Argalingga,45462,15000,STD,reguler
+482,Ninja Xpress,40135,Jawa Barat,Majalengka,Bantarujeg,Babakansari,45464,15000,STD,reguler
+483,Ninja Xpress,40135,Jawa Barat,Majalengka,Cigasong,Baribis,45476,15000,STD,reguler
+484,Ninja Xpress,40135,Jawa Barat,Majalengka,Cikijing,Bagjasari,45466,15000,STD,reguler
+485,Ninja Xpress,40135,Jawa Barat,Majalengka,Cingambul,Cidadap,45467,15000,STD,reguler
+486,Ninja Xpress,40135,Jawa Barat,Majalengka,Jatitujuh,Babajurang,45458,15000,STD,reguler
+487,Ninja Xpress,40135,Jawa Barat,Majalengka,Jatiwangi,Andir,45454,15000,STD,reguler
+488,Ninja Xpress,40135,Jawa Barat,Majalengka,Kasokandel,Gandasari,45453,15000,STD,reguler
+489,Ninja Xpress,40135,Jawa Barat,Majalengka,Kertajati,Babakan,45457,15000,STD,reguler
+490,Ninja Xpress,40135,Jawa Barat,Majalengka,Lemahsugih,Bangbayang,45465,15000,STD,reguler
+491,Ninja Xpress,40135,Jawa Barat,Majalengka,Leuwimunding,Ciparay,45473,15000,STD,reguler
+492,Ninja Xpress,40135,Jawa Barat,Majalengka,Ligung,Ampel,45456,15000,STD,reguler
+493,Ninja Xpress,40135,Jawa Barat,Majalengka,Majalengka,Babakan Jawa,45419,15000,STD,reguler
+494,Ninja Xpress,40135,Jawa Barat,Majalengka,Malausma,Banyusari,45464,15000,STD,reguler
+495,Ninja Xpress,40135,Jawa Barat,Majalengka,Palasah,Buniwangi,45475,15000,STD,reguler
+496,Ninja Xpress,40135,Jawa Barat,Majalengka,Panyingkiran,Bantrangsana,45459,15000,STD,reguler
+497,Ninja Xpress,40135,Jawa Barat,Majalengka,Rajagaluh,Babakankareo,45472,15000,STD,reguler
+498,Ninja Xpress,40135,Jawa Barat,Majalengka,Sindang,Bayureja,45471,15000,STD,reguler
+499,Ninja Xpress,40135,Jawa Barat,Majalengka,Sindangwangi,Balagedog,45474,15000,STD,reguler
+500,Ninja Xpress,40135,Jawa Barat,Majalengka,Sukahaji,Candrajaya,45471,15000,STD,reguler
+501,Ninja Xpress,40135,Jawa Barat,Majalengka,Sumberjaya,Banjaran,45468,15000,STD,reguler
+502,Ninja Xpress,40135,Jawa Barat,Majalengka,Talaga,Argasari,45463,15000,STD,reguler
+503,Ninja Xpress,40135,Jawa Barat,Majalengka,Kadipaten,Cipaku,45452,15000,STD,reguler
+504,Ninja Xpress,40135,Jawa Barat,Majalengka,Banjaran,Banjaran,45468,15000,STD,reguler
+505,Ninja Xpress,40135,Jawa Barat,Majalengka,Dawuan,Balida,45453,15000,STD,reguler
+506,Ninja Xpress,40135,Jawa Barat,Majalengka,Maja,Anggrawati,45461,15000,STD,reguler
+507,Ninja Xpress,40135,Jawa Barat,Pangandaran,Cigugur,Bunisari,46392,13000,STD,reguler
+508,Ninja Xpress,40135,Jawa Barat,Pangandaran,Cijulang,Batukaras,46394,13000,STD,reguler
+509,Ninja Xpress,40135,Jawa Barat,Pangandaran,Cimerak,Batumalang,46395,13000,STD,reguler
+510,Ninja Xpress,40135,Jawa Barat,Pangandaran,Kalipucang,Banjarharja,46397,13000,STD,reguler
+511,Ninja Xpress,40135,Jawa Barat,Pangandaran,Langkaplancar,Bangunjaya,46391,13000,STD,reguler
+512,Ninja Xpress,40135,Jawa Barat,Pangandaran,Mangunjaya,Jangraga,46371,13000,STD,reguler
+513,Ninja Xpress,40135,Jawa Barat,Pangandaran,Padaherang,Bojongsari,46384,13000,STD,reguler
+514,Ninja Xpress,40135,Jawa Barat,Pangandaran,Pangandaran,Babakan,46396,13000,STD,reguler
+515,Ninja Xpress,40135,Jawa Barat,Pangandaran,Sidamulih,Cikalong,46365,13000,STD,reguler
+516,Ninja Xpress,40135,Jawa Barat,Pangandaran,Parigi,Bojong,46393,13000,STD,reguler
+517,Ninja Xpress,40135,Jawa Barat,Purwakarta,Plered,Linggarsari,41162,10000,STD,reguler
+518,Ninja Xpress,40135,Jawa Barat,Purwakarta,Cibatu,Cibatu,41181,10000,STD,reguler
+519,Ninja Xpress,40135,Jawa Barat,Purwakarta,Babakancikao,Babakancikao,41151,10000,STD,reguler
+520,Ninja Xpress,40135,Jawa Barat,Purwakarta,Darangdan,Linggasari,41163,10000,STD,reguler
+521,Ninja Xpress,40135,Jawa Barat,Purwakarta,Jatiluhur,Bunder,41161,10000,STD,reguler
+522,Ninja Xpress,40135,Jawa Barat,Purwakarta,Kiarapedes,Cibeber,41175,10000,STD,reguler
+523,Ninja Xpress,40135,Jawa Barat,Purwakarta,Maniis,Cijati,41166,10000,STD,reguler
+524,Ninja Xpress,40135,Jawa Barat,Purwakarta,Pondoksalam,Bungurjaya,41115,10000,STD,reguler
+525,Ninja Xpress,40135,Jawa Barat,Purwakarta,Sukatani,Cianting,41167,10000,STD,reguler
+526,Ninja Xpress,40135,Jawa Barat,Purwakarta,Tegal Waru,Cadassari,41165,10000,STD,reguler
+527,Ninja Xpress,40135,Jawa Barat,Purwakarta,Wanayasa,Babakan,41174,10000,STD,reguler
+528,Ninja Xpress,40135,Jawa Barat,Purwakarta,Bojong,Bojong Barat,41164,10000,STD,reguler
+529,Ninja Xpress,40135,Jawa Barat,Purwakarta,Bungursari,Bungursari,41181,10000,STD,reguler
+530,Ninja Xpress,40135,Jawa Barat,Purwakarta,Campaka,Benteng,41181,10000,STD,reguler
+531,Ninja Xpress,40135,Jawa Barat,Purwakarta,Pasawahan,Cidahu,41172,10000,STD,reguler
+532,Ninja Xpress,40135,Jawa Barat,Purwakarta,Purwakarta,Cipaisan,41113,10000,STD,reguler
+533,Ninja Xpress,40135,Jawa Barat,Purwakarta,Sukasari,Ciririp,41116,10000,STD,reguler
+534,Ninja Xpress,40135,Jawa Barat,Subang,Subang,Cigadung,41213,10000,STD,reguler
+535,Ninja Xpress,40135,Jawa Barat,Subang,Dawuan,Batusari,41271,10000,STD,reguler
+536,Ninja Xpress,40135,Jawa Barat,Subang,Binong,Binong,41253,10000,STD,reguler
+537,Ninja Xpress,40135,Jawa Barat,Subang,Blanakan,Blanakan,41259,10000,STD,reguler
+538,Ninja Xpress,40135,Jawa Barat,Subang,Ciasem,Ciasembaru,41256,10000,STD,reguler
+539,Ninja Xpress,40135,Jawa Barat,Subang,Ciater,Ciater,41281,10000,STD,reguler
+540,Ninja Xpress,40135,Jawa Barat,Subang,Cibogo,Cibalandong Jaya,41285,10000,STD,reguler
+541,Ninja Xpress,40135,Jawa Barat,Subang,Cijambe,Bantarsari,41286,10000,STD,reguler
+542,Ninja Xpress,40135,Jawa Barat,Subang,Cikaum,Cikaum Barat,41253,10000,STD,reguler
+543,Ninja Xpress,40135,Jawa Barat,Subang,Cipeundeuy,Cimayasari,41272,10000,STD,reguler
+544,Ninja Xpress,40135,Jawa Barat,Subang,Cipunagara,Jati,41257,10000,STD,reguler
+545,Ninja Xpress,40135,Jawa Barat,Subang,Cisalak,Cupunagara,41283,10000,STD,reguler
+546,Ninja Xpress,40135,Jawa Barat,Subang,Compreng,Compreng,41258,10000,STD,reguler
+547,Ninja Xpress,40135,Jawa Barat,Subang,Jalancagak,Bunihayu,41281,10000,STD,reguler
+548,Ninja Xpress,40135,Jawa Barat,Subang,Kalijati,Banggalamulya,41271,10000,STD,reguler
+549,Ninja Xpress,40135,Jawa Barat,Subang,Kasomalang,Bojongloa,41283,10000,STD,reguler
+550,Ninja Xpress,40135,Jawa Barat,Subang,Legonkulon,Bobos,41254,10000,STD,reguler
+551,Ninja Xpress,40135,Jawa Barat,Subang,Pagaden,Gambarsari,41252,10000,STD,reguler
+552,Ninja Xpress,40135,Jawa Barat,Subang,Pagaden Barat,Bendungan,41252,10000,STD,reguler
+553,Ninja Xpress,40135,Jawa Barat,Subang,Pamanukan,Bongas,41254,10000,STD,reguler
+554,Ninja Xpress,40135,Jawa Barat,Subang,Patokbeusi,Ciberes,41263,10000,STD,reguler
+555,Ninja Xpress,40135,Jawa Barat,Subang,Pusakajaya,Bojongjaya,41255,10000,STD,reguler
+556,Ninja Xpress,40135,Jawa Barat,Subang,Pusakanagara,Gempol,41255,10000,STD,reguler
+557,Ninja Xpress,40135,Jawa Barat,Subang,Sagalaherang,Cicadas,41282,10000,STD,reguler
+558,Ninja Xpress,40135,Jawa Barat,Subang,Serangpanjang,Cijengkol,41282,10000,STD,reguler
+559,Ninja Xpress,40135,Jawa Barat,Subang,Tambakdahan,Bojonegara,41253,10000,STD,reguler
+560,Ninja Xpress,40135,Jawa Barat,Subang,Tanjungsiang,Buniara,41284,10000,STD,reguler
+561,Ninja Xpress,40135,Jawa Barat,Subang,Pabuaran,Balebandung Jaya,41262,10000,STD,reguler
+562,Ninja Xpress,40135,Jawa Barat,Subang,Purwadadi,Belendung (Blendung),41261,10000,STD,reguler
+563,Ninja Xpress,40135,Jawa Barat,Subang,Sukasari,Anggasari,41254,10000,STD,reguler
+564,Ninja Xpress,40135,Jawa Barat,Sukabumi Kota,Baros,Jayaraksa,43166,12000,STD,reguler
+565,Ninja Xpress,40135,Jawa Barat,Sukabumi Kota,Cikole,Cikole,43113,12000,STD,reguler
+566,Ninja Xpress,40135,Jawa Barat,Sukabumi Kota,Citamiang,Tipar,43141,12000,STD,reguler
+567,Ninja Xpress,40135,Jawa Barat,Sukabumi Kota,Gunung Puyuh,Karamat,43122,12000,STD,reguler
+568,Ninja Xpress,40135,Jawa Barat,Sukabumi Kota,Lembursitu,Cipanengah,43134,7400,STD,reguler
+569,Ninja Xpress,40135,Jawa Barat,Sukabumi Kota,Warudoyong,Sukakarya,43135,12000,STD,reguler
+570,Ninja Xpress,40135,Jawa Barat,Sukabumi Kota,Cibeureum,Sindangpalay,43162,12000,STD,reguler
+571,Ninja Xpress,40135,Jawa Barat,Sumedang,Buahdua,Bojongloa,45392,12000,STD,reguler
+572,Ninja Xpress,40135,Jawa Barat,Sumedang,Cibugel,Cibugel,45375,12000,STD,reguler
+573,Ninja Xpress,40135,Jawa Barat,Sumedang,Cimalaka,Cibeureum Kulon,45353,12000,STD,reguler
+574,Ninja Xpress,40135,Jawa Barat,Sumedang,Cimanggung,Cihanjuang,45364,12000,STD,reguler
+575,Ninja Xpress,40135,Jawa Barat,Sumedang,Cisitu,Cigintung,45363,12000,STD,reguler
+576,Ninja Xpress,40135,Jawa Barat,Sumedang,Conggeang,Babakan Asem,45391,12000,STD,reguler
+577,Ninja Xpress,40135,Jawa Barat,Sumedang,Darmaraja,Cieunteung,45372,12000,STD,reguler
+578,Ninja Xpress,40135,Jawa Barat,Sumedang,Ganeas,Cikondang,45356,12000,STD,reguler
+579,Ninja Xpress,40135,Jawa Barat,Sumedang,Jatigede,Cijeungjing,45377,12000,STD,reguler
+580,Ninja Xpress,40135,Jawa Barat,Sumedang,Jatinangor,Cibeusi,45363,12000,STD,reguler
+581,Ninja Xpress,40135,Jawa Barat,Sumedang,Jatinunggal,Banjarsari,45376,12000,STD,reguler
+582,Ninja Xpress,40135,Jawa Barat,Sumedang,Paseh,Bongkok,45381,12000,STD,reguler
+583,Ninja Xpress,40135,Jawa Barat,Sumedang,Rancakalong,Cibunar,45361,12000,STD,reguler
+584,Ninja Xpress,40135,Jawa Barat,Sumedang,Situraja,Ambit,45371,12000,STD,reguler
+585,Ninja Xpress,40135,Jawa Barat,Sumedang,Sumedang Selatan,Baginda,45311,12000,STD,reguler
+586,Ninja Xpress,40135,Jawa Barat,Sumedang,Sumedang Utara,Girimukti,45321,12000,STD,reguler
+587,Ninja Xpress,40135,Jawa Barat,Sumedang,Surian,Pamekarsari,45393,12000,STD,reguler
+588,Ninja Xpress,40135,Jawa Barat,Sumedang,Tanjungkerta,Awilega,45354,12000,STD,reguler
+589,Ninja Xpress,40135,Jawa Barat,Sumedang,Tanjungmedar,Cikaramas,45354,12000,STD,reguler
+590,Ninja Xpress,40135,Jawa Barat,Sumedang,Tomo,Bugel,45382,12000,STD,reguler
+591,Ninja Xpress,40135,Jawa Barat,Sumedang,Ujungjaya,Cibuluh,45383,12000,STD,reguler
+592,Ninja Xpress,40135,Jawa Barat,Sumedang,Wado,Padajaya,45373,12000,STD,reguler
+593,Ninja Xpress,40135,Jawa Barat,Sumedang,Cisarua,Bantarmara,45355,12000,STD,reguler
+594,Ninja Xpress,40135,Jawa Barat,Sumedang,Pamulihan,Cigendel,45365,13000,STD,reguler
+595,Ninja Xpress,40135,Jawa Barat,Sumedang,Sukasari,Banyuresmi,45366,12000,STD,reguler
+596,Ninja Xpress,40135,Jawa Barat,Sumedang,Tanjungsari,Cijambu,45362,12000,STD,reguler
+597,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Bungursari,Sukamulya,46151,12000,STD,reguler
+598,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Cihideung,Yudanagara,46121,12000,STD,reguler
+599,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Cipedes,Sukamanah,46131,12000,STD,reguler
+600,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Indihiang,Panyingkiran,46411,12000,STD,reguler
+601,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Kawalu,Karsamenak,46182,12000,STD,reguler
+602,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Mangkubumi,Sambongjaya,46181,12000,STD,reguler
+603,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Purbaratu,Sukamenak,46196,12000,STD,reguler
+604,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Tamansari,Mugarsari,46196,12000,STD,reguler
+605,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Tawang,Empangsari,46113,12000,STD,reguler
+606,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kota,Cibeureum,Kersanagara,46196,12000,STD,reguler
+607,,40135,Jawa Barat,Bandung Kabupaten,Arjasari,Mangunjaya,40379,,,reguler
+608,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Baleendah,Manggahang,40375,7500,STD,reguler
+609,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Bojongsoang,Tegalluar,40287,7500,STD,reguler
+610,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Cangkuang,Jatisari,40238,7500,STD,reguler
+611,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Cicalengka,Cicalengka Wetan,40395,7500,STD,reguler
+612,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Cikancung,Mekarlaksana,40396,7500,STD,reguler
+613,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Cilengkrang,Cipanjalu,40618,7500,STD,reguler
+614,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Cileunyi,Cileunyi Kulon,40621,7500,STD,reguler
+615,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Cimaung,Cipinang,40374,7500,STD,reguler
+616,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,CIMENYAN,Cibeunying,40191,7500,STD,reguler
+617,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Ciparay,Mekarsari,40381,7500,STD,reguler
+618,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Ciwidey,Rawabogo,40973,7500,STD,reguler
+619,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Dayeuhkolot,Cangkuang Kulon,40239,7000,STD,reguler
+620,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Ibun,Ibun,40384,7500,STD,reguler
+621,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Katapang,Banyusari,40921,7500,STD,reguler
+622,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Kertasari,Neglawangi,40386,7500,STD,reguler
+623,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Kutawaringin,Padasuka,40911,7500,STD,reguler
+624,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Margaasih,Nanjung,40217,7500,STD,reguler
+625,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Margahayu,Margahayu Selatan,40226,7500,STD,reguler
+626,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Nagreg,Citaman,40215,7500,STD,reguler
+627,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Pangalengan,Margaluyu,40378,7500,STD,reguler
+628,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Pasirjambu,Cibodas,40972,7500,STD,reguler
+629,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,RANCABALI,Cipelah,40973,7500,STD,reguler
+630,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Rancaekek,Rancaekek Kencana,40394,7500,STD,reguler
+631,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Solokan Jeruk,Cibodas,40376,7500,STD,reguler
+632,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Pameungpeuk,Bojongmanggu,40376,7500,STD,reguler
+633,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Majalaya,Majalaya,40382,7500,STD,reguler
+634,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Banjaran,Margahurip,40377,7500,STD,reguler
+635,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Soreang,Cingcin,40914,7500,STD,reguler
+636,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Pacet,Sukarame,40385,7500,STD,reguler
+637,Ninja Xpress,40135,Jawa Barat,Bandung Kabupaten,Paseh,Mekarpawitan,40383,7500,STD,reguler
+638,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Babelan,Pantai Hurip,17610,11000,STD,reguler
+639,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Bojongmangu,Medalkrisna,17350,11000,STD,reguler
+640,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cabangbungin,Setialaksana,17720,11000,STD,reguler
+641,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cibarusah,Ridogalih,17340,11000,STD,reguler
+642,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cikarang Barat,Gandasari,17530,11000,STD,reguler
+643,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cikarang Pusat,Hegarmukti,17530,11000,STD,reguler
+644,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cikarang Selatan,Pasirsari,17530,11000,STD,reguler
+645,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cikarang Timur,Jatibaru,17530,11000,STD,reguler
+646,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cikarang Utara,Wangunharja,17530,11000,STD,reguler
+647,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Karangbahagia,Karangmukti,17530,11000,STD,reguler
+648,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Kedung Waringin,Mekar Jaya,17540,11000,STD,reguler
+649,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Muara Gembong,Jayasakti,17730,11000,STD,reguler
+650,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Pebayuran,Kertajaya,17710,11000,STD,reguler
+651,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Serang Baru,Nagasari,17330,11000,STD,reguler
+652,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Setu,Lubangbuaya,17320,11000,STD,reguler
+653,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Sukawangi,Sukamekar,17620,11000,STD,reguler
+654,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Tambelang,Sukamaju,17620,11000,STD,reguler
+655,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Tambun Selatan,Jatimulya,17510,11000,STD,reguler
+656,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Tambun Utara,Satriamekar,17510,11000,STD,reguler
+657,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Tarumajaya,Setia Asih,17215,11000,STD,reguler
+658,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Sukakarya,Sukaindah,17630,11000,STD,reguler
+659,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Cibitung,Wanajaya,17520,11000,STD,reguler
+660,Ninja Xpress,40135,Jawa Barat,Bekasi Kabupaten,Sukatani,Sukadarma,17630,11000,STD,reguler
+661,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Ciomas,Parakan,16610,11000,STD,reguler
+662,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Babakan Madang,Cipambuan,16810,11000,STD,reguler
+663,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Bojonggede,Kedung Waringin,16923,11000,STD,reguler
+664,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cariu,Cikutamahi,16840,11000,STD,reguler
+665,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Ciampea,Cihideung Ilir,16620,11000,STD,reguler
+666,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cibungbulang,Cijujung,16630,11000,STD,reguler
+667,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cigombong,Tugujaya,16110,11000,STD,reguler
+668,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cigudeg,Banyu Wangi,16660,11000,STD,reguler
+669,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cijeruk,Warung Menteng,16740,11000,STD,reguler
+670,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cileungsi,Cileungsi,16820,11000,STD,reguler
+671,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Ciseeng,Cibeuteung Udik,16120,11000,STD,reguler
+672,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Citeureup,Tangkil,16810,11000,STD,reguler
+673,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Dramaga,Ciherang,16680,11000,STD,reguler
+674,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Gunung Putri,Ciangsana,16968,11000,STD,reguler
+675,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Gunung Sindur,Curug,16340,11000,STD,reguler
+676,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Jasinga,Wirajaya,16670,11000,STD,reguler
+677,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Jonggol,Sirnagalih,16830,11000,STD,reguler
+678,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Kemang,Parakan Jaya,16310,11000,STD,reguler
+679,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Klapa Nunggal (Kelapa Nunggal),Nambo,16710,11000,STD,reguler
+680,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Leuwiliang,Leuwiliang,16640,11000,STD,reguler
+681,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Leuwisadeng,Wangun Jaya,16640,11000,STD,reguler
+682,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Megamendung,Megamendung,16770,11000,STD,reguler
+683,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Nanggung,Pangkal Jaya,16650,11000,STD,reguler
+684,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Pamijahan,Cibitung Wetan,16810,11000,STD,reguler
+685,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Parung,Iwul,16330,11000,STD,reguler
+686,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Parung Panjang,Cibunar,16360,11000,STD,reguler
+687,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Ranca Bungur,Mekarsari,16310,11000,STD,reguler
+688,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Rumpin,Leuwibatu,16350,11000,STD,reguler
+689,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Tajurhalang,Tajur Halang,16320,11000,STD,reguler
+690,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Tenjo,Babakan,16370,11000,STD,reguler
+691,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Tenjolaya,Cinangneng,16370,11000,STD,reguler
+692,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cisarua,Leuwimalang,16750,11000,STD,reguler
+693,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Ciawi,Bojong Murni,16720,11000,STD,reguler
+694,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Tanjungsari,Cibadak,16840,11000,STD,reguler
+695,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Suka Makmur,Sukaharja,16830,11000,STD,reguler
+696,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Caringin,Pasir Buncir,16730,11000,STD,reguler
+697,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Cibinong,Ciriung,16918,11000,STD,reguler
+698,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Sukajaya,Kiara Pandak,16660,11000,STD,reguler
+699,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Sukaraja,Pasirlaja,16710,11000,STD,reguler
+700,Ninja Xpress,40135,Jawa Barat,Bogor Kabupaten,Tamansari,Sirnagalih,16610,11000,STD,reguler
+701,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Arjawinangun,Arjawinangun,45162,13000,STD,reguler
+702,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Astanajapura,Astanajapura,45181,13000,STD,reguler
+703,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Babakan,Gembonganmekar,45191,13000,STD,reguler
+704,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Beber,Beber,45172,13000,STD,reguler
+705,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Ciwaringin,Babakan,45167,13000,STD,reguler
+706,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Dukupuntang,Mandala,45652,13000,STD,reguler
+707,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Gegesik,Sibubut,45164,13000,STD,reguler
+708,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Greged (Greget),Nanggela,45172,13000,STD,reguler
+709,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,GUNUNGJATI,Mayung,45151,13000,STD,reguler
+710,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Jamblang,Bojong Wetan,45156,13000,STD,reguler
+711,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Kaliwedi,Kaliwedi Lor,45165,13000,STD,reguler
+712,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Kapetakan,Bungko,45152,13000,STD,reguler
+713,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Karangwareng,Karanganyar,45186,13000,STD,reguler
+714,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Klangenan,Kreyo,45156,13000,STD,reguler
+715,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Mundu,Sinarrancang,45173,13000,STD,reguler
+716,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Pabedilan,Pasuruan,45193,13000,STD,reguler
+717,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Palimanan,Ciawi,45161,13000,STD,reguler
+718,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Pangenan,Japura Lor,45182,13000,STD,reguler
+719,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Panguragan,Lemahtamba,45163,13000,STD,reguler
+720,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Pasaleman,Pasaleman,45187,13000,STD,reguler
+721,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Plumbon,Cempaka,45155,13000,STD,reguler
+722,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Sedong,Sedong Kidul,45189,13000,STD,reguler
+723,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Suranenggala,Sambeng,45151,13000,STD,reguler
+724,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Susukan Lebak,Susukan Lebak,45185,13000,STD,reguler
+725,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,TALUN,Sarwadadi,45171,13000,STD,reguler
+726,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Tengah Tani,Gesik,45153,13000,STD,reguler
+727,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Waled,Cikulak Kidul,45187,13000,STD,reguler
+728,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Gempol,Winong,45161,13000,STD,reguler
+729,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Sumber,Pejambon,45611,13000,STD,reguler
+730,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Ciledug,Damarguna,45188,13000,STD,reguler
+731,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Depok,Cikeduk,45155,13000,STD,reguler
+732,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Gebang,Pelayangan (Playangan),45191,13000,STD,reguler
+733,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Karangsembung,Karangtengah,45186,13000,STD,reguler
+734,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Kedawung,Kedawung,45153,13000,STD,reguler
+735,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Lemahabang,Cipeujeuh Wetan,45183,13000,STD,reguler
+736,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Losari,Ambulu,45192,13000,STD,reguler
+737,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Pabuaran,Pabuaran Kidul,45188,13000,STD,reguler
+738,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Plered,Cangkring,45154,13000,STD,reguler
+739,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Susukan,Jatianom,45166,13000,STD,reguler
+740,Ninja Xpress,40135,Jawa Barat,Cirebon Kabupaten,Weru,Weru Lor,45154,13000,STD,reguler
+741,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cidolog,Cipamingkis,43184,7400,STD,reguler
+742,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Pabuaran,Sukajaya,43173,7400,STD,reguler
+743,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cidahu,Pasirdoton,43358,7400,STD,reguler
+744,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Bantargadung,Mangun Jaya,43363,7400,STD,reguler
+745,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Bojong Genteng,Berekah,43353,7400,STD,reguler
+746,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Ciambar,Ciambar,43356,7400,STD,reguler
+747,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cibitung,Banyumurni,43172,7400,STD,reguler
+748,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cicantayan,Cicantayan,43155,7400,STD,reguler
+749,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cicurug,Purwasari,43359,7400,STD,reguler
+750,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Ciemas,Girimukti,43177,7400,STD,reguler
+751,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cikakak,Ridogalih,43365,7400,STD,reguler
+752,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cikembar,Cikembar,43157,7400,STD,reguler
+753,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cikidang,Pangkalan,43367,7400,STD,reguler
+754,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Ciracap,Pasirpanjang,43176,7400,STD,reguler
+755,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cireunghas,Cireunghas,43193,7400,STD,reguler
+756,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cisaat,Babakan,43152,7400,STD,reguler
+757,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cisolok,Karangpapak,43366,7400,STD,reguler
+758,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Curugkembar,Curugkembar,43182,7400,STD,reguler
+759,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Geger Bitung,Cijurey,43197,7400,STD,reguler
+760,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Gunung Guruh,Sirnaresmi,43156,7400,STD,reguler
+761,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Jampang Kulon,Cikaranggeusan,43178,7400,STD,reguler
+762,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Jampang Tengah,Tanjungsari,43171,7400,STD,reguler
+763,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Kabandungan,Tugubandung,43368,7400,STD,reguler
+764,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Kadudampit,Cikahuripan,43153,7400,STD,reguler
+765,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Kalapa Nunggal,Pulosari,43354,7400,STD,reguler
+766,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Kali Bunder,Sekarsari,43185,7400,STD,reguler
+767,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Kebonpedes,Bojongsawah,43194,7400,STD,reguler
+768,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Nagrak,Cisarua,43356,7400,STD,reguler
+769,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Nyalindung,Mekarsari,43196,7400,STD,reguler
+770,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Parakan Salak,Lebaksari,43355,7400,STD,reguler
+771,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Parung Kuda,Babakanjaya,43357,7400,STD,reguler
+772,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Pelabuhan/palabuhan Ratu,Jayanti,43364,7400,STD,reguler
+773,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Purabaya,Neglasari,43187,7400,STD,reguler
+774,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Sagaranten,Cibitung,43181,7400,STD,reguler
+775,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Simpenan,Loji,43361,7400,STD,reguler
+776,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Sukalarang,Prianganjaya,43191,7400,STD,reguler
+777,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Surade,Swakarya,43179,7400,STD,reguler
+778,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Tegal Buleud,Tegalbuleud,43186,7400,STD,reguler
+779,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Waluran,Waluran,43175,7400,STD,reguler
+780,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Warung Kiara,Bantarkalong,43362,7400,STD,reguler
+781,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Sukaraja,Sukaraja,43192,7400,STD,reguler
+782,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Caringin,Pasir Datar Indah,43154,7400,STD,reguler
+783,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cibadak,Sukasirna,43351,7400,STD,reguler
+784,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cidadap,Tenjolaut,43183,7400,STD,reguler
+785,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Cimanggu,Cimanggu,43178,7400,STD,reguler
+786,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Lengkong,Lengkong,43174,7400,STD,reguler
+787,Ninja Xpress,40135,Jawa Barat,Sukabumi Kabupaten,Sukabumi,Sudajaya Girang,43151,7400,STD,reguler
+788,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Bantarkalong,Wakap,46168,13000,STD,reguler
+789,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Bojongasih,Sindangsari,46475,13000,STD,reguler
+790,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Bojonggambir,Campakasari,46475,13000,STD,reguler
+791,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Cigalontang,Lengkongjaya,46463,13000,STD,reguler
+792,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Cikalong,Tonjongsari,46195,13000,STD,reguler
+793,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Cikatomas,Tanjungbarang,46193,13000,STD,reguler
+794,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Cineam,Ciampanan,46198,13000,STD,reguler
+795,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Cipatujah,Ciandum,46189,13000,STD,reguler
+796,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Cisayong,Sukasukur,46153,13000,STD,reguler
+797,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Culamega,Bojongsari,46188,13000,STD,reguler
+798,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Gunung Tanjung,Bojongsari,46418,13000,STD,reguler
+799,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Jamanis,Tanjungmekar,46175,13000,STD,reguler
+800,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Jatiwaras,Kertarahayu,46185,13000,STD,reguler
+801,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Karang Jaya,Sirnajaya,46198,13000,STD,reguler
+802,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Karangnunggal,Kujang,46186,13000,STD,reguler
+803,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Leuwisari,Linggawangi,46464,13000,STD,reguler
+804,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Mangunreja,Margajaya,46462,13000,STD,reguler
+805,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Manonjaya,Batusumur,46197,13000,STD,reguler
+806,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Padakembang,Padakembang,46466,13000,STD,reguler
+807,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Pagerageung,Pagersari,46158,13000,STD,reguler
+808,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Pancatengah,Pangliaran,46194,13000,STD,reguler
+809,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Parungponteng,Burujuljaya,46185,13000,STD,reguler
+810,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Puspahiang,Puspasari,46471,13000,STD,reguler
+811,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Rajapolah,Sukanagalih,46155,13000,STD,reguler
+812,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Salawu,Neglasari,46471,13000,STD,reguler
+813,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Salopa,Karyamandala,46192,13000,STD,reguler
+814,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Sariwangi,Jayaputra,46465,13000,STD,reguler
+815,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Singaparna,Sukaherang,46413,13000,STD,reguler
+816,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Sodonghilir,Leuwidulang,46473,13000,STD,reguler
+817,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Sukahening,Kiarajangkung,46155,13000,STD,reguler
+818,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Sukaratu,Sukaratu,46415,13000,STD,reguler
+819,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Sukaresik,Tanjungsari,46418,13000,STD,reguler
+820,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Tanjungjaya,Tanjungjaya,46184,13000,STD,reguler
+821,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Taraju,Deudeul,46474,13000,STD,reguler
+822,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Ciawi,Pakemitankidul,46156,13000,STD,reguler
+823,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Kadipaten,Cibahayu,46156,13000,STD,reguler
+824,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Sukaraja,Mekarjaya,46183,13000,STD,reguler
+825,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Sukarame,Sukarapih,46461,13000,STD,reguler
+826,Ninja Xpress,40135,Jawa Barat,Tasikmalaya Kabupaten,Cibalong,Eureunpalay,46185,13000,STD,reguler
+827,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Banjarmangu,Banjarkulon,53452,16000,STD,reguler
+828,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Banjarnegara,Ampelsari,53418,16000,STD,reguler
+829,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Batur,Bakal,53456,16000,STD,reguler
+830,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Bawang,Bandingan,53471,16000,STD,reguler
+831,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Kalibening,Asinan,53458,16000,STD,reguler
+832,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Karangkobar,Ambal,53453,16000,STD,reguler
+833,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Madukara,Bantarwaru,53482,16000,STD,reguler
+834,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Mandiraja,Banjengan,53473,16000,STD,reguler
+835,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Pagedongan,Duren,53418,16000,STD,reguler
+836,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Pagentan,Aribaya,53455,16000,STD,reguler
+837,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Pandanarum,Beji,53458,16000,STD,reguler
+838,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Pejawaran,Beji,53454,16000,STD,reguler
+839,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Punggelan,Badakarya,53462,16000,STD,reguler
+840,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,PURWANEGARA,Danaraja,53472,16000,STD,reguler
+841,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Purworejo Klampok,Sirkandi,53474,16000,STD,reguler
+842,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Rakit,Adipasir,53463,16000,STD,reguler
+843,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Sigaluh,Bandingan,53481,16000,STD,reguler
+844,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Susukan,Berta,53475,16000,STD,reguler
+845,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Wanadadi (Wonodadi),Medayu,53461,16000,STD,reguler
+846,Ninja Xpress,40135,Jawa Tengah,Banjarnegara,Wanayasa,Balun,53457,16000,STD,reguler
+847,Ninja Xpress,40135,Jawa Tengah,Banyumas,Ajibarang,Banjarsari (Banjarsari Kidul),53163,20000,STD,reguler
+848,Ninja Xpress,40135,Jawa Tengah,Banyumas,Baturraden,Karangmangu,53151,20000,STD,reguler
+849,Ninja Xpress,40135,Jawa Tengah,Banyumas,Cilongok,Batuanten,53162,20000,STD,reguler
+850,Ninja Xpress,40135,Jawa Tengah,Banyumas,Gumelar,Cihonje,53165,20000,STD,reguler
+851,Ninja Xpress,40135,Jawa Tengah,Banyumas,Jatilawang,Adisara,53174,20000,STD,reguler
+852,Ninja Xpress,40135,Jawa Tengah,Banyumas,Kalibagor,Kalibagor,53191,20000,STD,reguler
+853,Ninja Xpress,40135,Jawa Tengah,Banyumas,Karanglewas,Babakan,53161,20000,STD,reguler
+854,Ninja Xpress,40135,Jawa Tengah,Banyumas,Kebasen,Adisana,53172,20000,STD,reguler
+855,Ninja Xpress,40135,Jawa Tengah,Banyumas,Kedung Banteng,Karangsalam Kidul,53152,20000,STD,reguler
+856,Ninja Xpress,40135,Jawa Tengah,Banyumas,Kembaran,Karangtengah,53182,20000,STD,reguler
+857,Ninja Xpress,40135,Jawa Tengah,Banyumas,Kemranjen,Alasmalang,53194,20000,STD,reguler
+858,Ninja Xpress,40135,Jawa Tengah,Banyumas,Lumbir,Besuki,53177,20000,STD,reguler
+859,Ninja Xpress,40135,Jawa Tengah,Banyumas,Patikraja,Sokawera Kidul,53171,20000,STD,reguler
+860,Ninja Xpress,40135,Jawa Tengah,Banyumas,Pekuncen,Banjaranyar,53164,20000,STD,reguler
+861,Ninja Xpress,40135,Jawa Tengah,Banyumas,Purwojati,Gerduren,53175,20000,STD,reguler
+862,Ninja Xpress,40135,Jawa Tengah,Banyumas,Purwokerto Barat,Bantarsoka,53133,20000,STD,reguler
+863,Ninja Xpress,40135,Jawa Tengah,Banyumas,Purwokerto Selatan,Berkoh,53146,20000,STD,reguler
+864,Ninja Xpress,40135,Jawa Tengah,Banyumas,Purwokerto Timur,Arcawinangun,53113,20000,STD,reguler
+865,Ninja Xpress,40135,Jawa Tengah,Banyumas,Purwokerto Utara,Bancarkembar,53121,20000,STD,reguler
+866,Ninja Xpress,40135,Jawa Tengah,Banyumas,Rawalo,Banjarparakan,53173,20000,STD,reguler
+867,Ninja Xpress,40135,Jawa Tengah,Banyumas,Sokaraja,Banjaranyar,53181,20000,STD,reguler
+868,Ninja Xpress,40135,Jawa Tengah,Banyumas,Somagede,Kanding,53193,20000,STD,reguler
+869,Ninja Xpress,40135,Jawa Tengah,Banyumas,Sumbang,Banjarsari Kulon,53183,20000,STD,reguler
+870,Ninja Xpress,40135,Jawa Tengah,Banyumas,Sumpiuh,Banjarpanepen,53195,20000,STD,reguler
+871,Ninja Xpress,40135,Jawa Tengah,Banyumas,Wangon,Banteran,53176,20000,STD,reguler
+872,Ninja Xpress,40135,Jawa Tengah,Banyumas,Banyumas,Binangun,53192,20000,STD,reguler
+873,Ninja Xpress,40135,Jawa Tengah,Banyumas,Tambak,Buniayu,53196,20000,STD,reguler
+874,Ninja Xpress,40135,Jawa Tengah,Batang,Blado,Bawang,51255,16000,STD,reguler
+875,Ninja Xpress,40135,Jawa Tengah,Batang,Gringsing,Gringsing,51281,16000,STD,reguler
+876,Ninja Xpress,40135,Jawa Tengah,Batang,Kandeman,Bakalan,51261,16000,STD,reguler
+877,Ninja Xpress,40135,Jawa Tengah,Batang,Limpung,Amongrogo,51271,16000,STD,reguler
+878,Ninja Xpress,40135,Jawa Tengah,Batang,Pecalungan,Bandung,51262,16000,STD,reguler
+879,Ninja Xpress,40135,Jawa Tengah,Batang,Reban,Adinuso,51273,16000,STD,reguler
+880,Ninja Xpress,40135,Jawa Tengah,Batang,Tersono,Banteng,51272,16000,STD,reguler
+881,Ninja Xpress,40135,Jawa Tengah,Batang,Tulis,Beji,51261,16000,STD,reguler
+882,Ninja Xpress,40135,Jawa Tengah,Batang,Warungasem,Banjiran,51252,16000,STD,reguler
+883,Ninja Xpress,40135,Jawa Tengah,Batang,Wonotunggal,Brayo,51253,16000,STD,reguler
+884,Ninja Xpress,40135,Jawa Tengah,Batang,Banyuputih,Banaran,51281,16000,STD,reguler
+885,Ninja Xpress,40135,Jawa Tengah,Batang,Batang,Cepokokuning,51216,16000,STD,reguler
+886,Ninja Xpress,40135,Jawa Tengah,Batang,Bandar,Bandar,51254,16000,STD,reguler
+887,Ninja Xpress,40135,Jawa Tengah,Batang,Bawang,Bawang,51274,16000,STD,reguler
+888,Ninja Xpress,40135,Jawa Tengah,Batang,Subah,Siberuk,51262,16000,STD,reguler
+889,Ninja Xpress,40135,Jawa Tengah,Blora,Banjarejo,Bacem,58253,16000,STD,reguler
+890,Ninja Xpress,40135,Jawa Tengah,Blora,BLORA,Andongrejo,58219,16000,STD,reguler
+891,Ninja Xpress,40135,Jawa Tengah,Blora,Bogorejo,Bogorejo,58262,16000,STD,reguler
+892,Ninja Xpress,40135,Jawa Tengah,Blora,Cepu,Balun,58311,16000,STD,reguler
+893,Ninja Xpress,40135,Jawa Tengah,Blora,Japah,Beganjing,58257,16000,STD,reguler
+894,Ninja Xpress,40135,Jawa Tengah,Blora,Jepon,Bacem,58261,16000,STD,reguler
+895,Ninja Xpress,40135,Jawa Tengah,Blora,Jiken,Bangowan,58372,16000,STD,reguler
+896,Ninja Xpress,40135,Jawa Tengah,Blora,Kedungtuban,Bajo,58381,16000,STD,reguler
+897,Ninja Xpress,40135,Jawa Tengah,Blora,Kradenan,Getas,58383,16000,STD,reguler
+898,Ninja Xpress,40135,Jawa Tengah,Blora,Kunduran,Bakah,58255,16000,STD,reguler
+899,Ninja Xpress,40135,Jawa Tengah,Blora,Ngawen,Bandungrojo,58254,16000,STD,reguler
+900,Ninja Xpress,40135,Jawa Tengah,Blora,Randublatung,Bekutuk,58382,16000,STD,reguler
+901,Ninja Xpress,40135,Jawa Tengah,Blora,Sambong,Biting,58371,16000,STD,reguler
+902,Ninja Xpress,40135,Jawa Tengah,Blora,Todanan,Bedingin,58256,16000,STD,reguler
+903,Ninja Xpress,40135,Jawa Tengah,Blora,Tunjungan,Adirejo,58252,16000,STD,reguler
+904,Ninja Xpress,40135,Jawa Tengah,Blora,Jati,Bangkleyan,58384,16000,STD,reguler
+905,Ninja Xpress,40135,Jawa Tengah,Boyolali,Ampel,Banyuanyar,57352,16000,STD,reguler
+906,Ninja Xpress,40135,Jawa Tengah,Boyolali,Andong,Andong,57384,16000,STD,reguler
+907,Ninja Xpress,40135,Jawa Tengah,Boyolali,Banyudono,Bangak,57373,16000,STD,reguler
+908,Ninja Xpress,40135,Jawa Tengah,Boyolali,Boyolali,Banaran,57313,16000,STD,reguler
+909,Ninja Xpress,40135,Jawa Tengah,Boyolali,Cepogo,Bakulan,57362,16000,STD,reguler
+910,Ninja Xpress,40135,Jawa Tengah,Boyolali,Juwangi,Cerme,57391,16000,STD,reguler
+911,Ninja Xpress,40135,Jawa Tengah,Boyolali,Karanggede,Bangkok,57381,16000,STD,reguler
+912,Ninja Xpress,40135,Jawa Tengah,Boyolali,Kemusu,Bawu,57383,16000,STD,reguler
+913,Ninja Xpress,40135,Jawa Tengah,Boyolali,Klego,Bade,57385,16000,STD,reguler
+914,Ninja Xpress,40135,Jawa Tengah,Boyolali,Mojosongo,Brajan,57322,16000,STD,reguler
+915,,40135,Jawa Tengah,Boyolali,Musuk,Cluntang,57331,,,reguler
+916,Ninja Xpress,40135,Jawa Tengah,Boyolali,Nogosari,Bendo,57378,16000,STD,reguler
+917,Ninja Xpress,40135,Jawa Tengah,Boyolali,Sambi,Babadan,57376,16000,STD,reguler
+918,Ninja Xpress,40135,Jawa Tengah,Boyolali,Sawit,Bendosari,57374,16000,STD,reguler
+919,Ninja Xpress,40135,Jawa Tengah,Boyolali,Selo,Jeruk,57363,16000,STD,reguler
+920,Ninja Xpress,40135,Jawa Tengah,Boyolali,Simo,Bendungan,57377,16000,STD,reguler
+921,Ninja Xpress,40135,Jawa Tengah,Boyolali,Teras,Jenengan,57372,16000,STD,reguler
+922,Ninja Xpress,40135,Jawa Tengah,Boyolali,Wonosegoro,Bandung,57382,16000,STD,reguler
+923,Ninja Xpress,40135,Jawa Tengah,Boyolali,Ngemplak,Dibal,57375,16000,STD,reguler
+924,,40135,Jawa Tengah,Boyolali,Tamansari,Dragan,57331,,,reguler
+925,Ninja Xpress,40135,Jawa Tengah,Brebes,Banjarharjo,Bandungsari,52265,21000,STD,reguler
+926,Ninja Xpress,40135,Jawa Tengah,Brebes,Bantarkawung,Bangbayang,52274,21000,STD,reguler
+927,Ninja Xpress,40135,Jawa Tengah,Brebes,Brebes,Banjaranyar,52216,21000,STD,reguler
+928,Ninja Xpress,40135,Jawa Tengah,Brebes,Bulakamba,Bangsri,52253,21000,STD,reguler
+929,Ninja Xpress,40135,Jawa Tengah,Brebes,Bumiayu,Adisana,52273,21000,STD,reguler
+930,Ninja Xpress,40135,Jawa Tengah,Brebes,Kersana,Ciampel,52264,21000,STD,reguler
+931,Ninja Xpress,40135,Jawa Tengah,Brebes,Ketanggungan,Baros,52263,21000,STD,reguler
+932,Ninja Xpress,40135,Jawa Tengah,Brebes,Losari,Babakan,52255,21000,STD,reguler
+933,Ninja Xpress,40135,Jawa Tengah,Brebes,Paguyangan,Cilibur,52276,21000,STD,reguler
+934,Ninja Xpress,40135,Jawa Tengah,Brebes,Salem,Banjaran,52275,21000,STD,reguler
+935,Ninja Xpress,40135,Jawa Tengah,Brebes,Sirampog,Batursari,52272,21000,STD,reguler
+936,Ninja Xpress,40135,Jawa Tengah,Brebes,Songgom,Cenang,52266,21000,STD,reguler
+937,Ninja Xpress,40135,Jawa Tengah,Brebes,Tonjong,Kalijurang,52271,21000,STD,reguler
+938,Ninja Xpress,40135,Jawa Tengah,Brebes,Wanasari,Dukuhwringin,52252,21000,STD,reguler
+939,Ninja Xpress,40135,Jawa Tengah,Brebes,Larangan,Kamal,52262,21000,STD,reguler
+940,Ninja Xpress,40135,Jawa Tengah,Brebes,Jatibarang,Bojong,52261,21000,STD,reguler
+941,Ninja Xpress,40135,Jawa Tengah,Brebes,Tanjung,Karangreja,52254,21000,STD,reguler
+942,Ninja Xpress,40135,Jawa Tengah,Cilacap,Adipala,Adipala,53271,13600,STD,reguler
+943,Ninja Xpress,40135,Jawa Tengah,Cilacap,Bantarsari,Bantarsari,53281,13600,STD,reguler
+944,Ninja Xpress,40135,Jawa Tengah,Cilacap,Cilacap Selatan,Cilacap,53211,13600,STD,reguler
+945,Ninja Xpress,40135,Jawa Tengah,Cilacap,Cilacap Tengah,Donan,53222,13600,STD,reguler
+946,Ninja Xpress,40135,Jawa Tengah,Cilacap,Cilacap Utara,Gumilir,53231,13600,STD,reguler
+947,Ninja Xpress,40135,Jawa Tengah,Cilacap,Cipari,Caruy,53262,13600,STD,reguler
+948,Ninja Xpress,40135,Jawa Tengah,Cilacap,Dayeuhluhur,Bingkeng,53266,13600,STD,reguler
+949,Ninja Xpress,40135,Jawa Tengah,Cilacap,Gandrungmangu,Bulusari,53254,13600,STD,reguler
+950,Ninja Xpress,40135,Jawa Tengah,Cilacap,Jeruklegi,Brebeg,53252,13600,STD,reguler
+951,Ninja Xpress,40135,Jawa Tengah,Cilacap,Kampung Laut,Klaces,53253,13600,STD,reguler
+952,Ninja Xpress,40135,Jawa Tengah,Cilacap,Karangpucung,Babakan,53255,13600,STD,reguler
+953,Ninja Xpress,40135,Jawa Tengah,Cilacap,Kawunganten,Babakan,53253,13600,STD,reguler
+954,Ninja Xpress,40135,Jawa Tengah,Cilacap,Kedungreja,Bangunreja,53263,13600,STD,reguler
+955,Ninja Xpress,40135,Jawa Tengah,Cilacap,Kesugihan,Bulupayung,53274,13600,STD,reguler
+956,Ninja Xpress,40135,Jawa Tengah,Cilacap,Kroya,Ayamalas,53282,13600,STD,reguler
+957,Ninja Xpress,40135,Jawa Tengah,Cilacap,Majenang,Bener,53257,13600,STD,reguler
+958,Ninja Xpress,40135,Jawa Tengah,Cilacap,Maos,Glempang,53272,13600,STD,reguler
+959,Ninja Xpress,40135,Jawa Tengah,Cilacap,Nusawungu,Purwadadi,53283,13600,STD,reguler
+960,Ninja Xpress,40135,Jawa Tengah,Cilacap,Patimuan,Purwodadi,53264,13600,STD,reguler
+961,Ninja Xpress,40135,Jawa Tengah,Cilacap,Sidareja,Gunungreja,53261,13600,STD,reguler
+962,Ninja Xpress,40135,Jawa Tengah,Cilacap,Wanareja,Adimulya,53265,13600,STD,reguler
+963,Ninja Xpress,40135,Jawa Tengah,Cilacap,Sampang,Brani,53273,13600,STD,reguler
+964,Ninja Xpress,40135,Jawa Tengah,Cilacap,Binangun,Alangamba,53281,13600,STD,reguler
+965,Ninja Xpress,40135,Jawa Tengah,Cilacap,Cimanggu,Bantarmangu,53256,13600,STD,reguler
+966,Ninja Xpress,40135,Jawa Tengah,Demak,Bonang,Betahwalang,59552,20000,STD,reguler
+967,Ninja Xpress,40135,Jawa Tengah,Demak,Demak,Donorejo,59517,20000,STD,reguler
+968,Ninja Xpress,40135,Jawa Tengah,Demak,Dempet,Balerejo,59573,20000,STD,reguler
+969,Ninja Xpress,40135,Jawa Tengah,Demak,Gajah,Banjarsari,59581,20000,STD,reguler
+970,Ninja Xpress,40135,Jawa Tengah,Demak,Guntur,Candisari,59565,20000,STD,reguler
+971,Ninja Xpress,40135,Jawa Tengah,Demak,Karang Tengah,Sampang,59561,20000,STD,reguler
+972,Ninja Xpress,40135,Jawa Tengah,Demak,Karangawen,Kauman,59566,20000,STD,reguler
+973,Ninja Xpress,40135,Jawa Tengah,Demak,Kebonagung,Babat,59583,20000,STD,reguler
+974,Ninja Xpress,40135,Jawa Tengah,Demak,Mijen,Bakung,59583,20000,STD,reguler
+975,Ninja Xpress,40135,Jawa Tengah,Demak,Mranggen,Kebun Atur,59567,20000,STD,reguler
+976,Ninja Xpress,40135,Jawa Tengah,Demak,Sayung,Perampelan,59563,20000,STD,reguler
+977,Ninja Xpress,40135,Jawa Tengah,Demak,Wedung,Babalan,59554,20000,STD,reguler
+978,Ninja Xpress,40135,Jawa Tengah,Demak,Wonosalam,Katonsari,59571,20000,STD,reguler
+979,Ninja Xpress,40135,Jawa Tengah,Demak,Karanganyar,Bandungrejo,59582,20000,STD,reguler
+980,Ninja Xpress,40135,Jawa Tengah,Grobogan,Brati,Jangkungharjo,58153,16000,STD,reguler
+981,Ninja Xpress,40135,Jawa Tengah,Grobogan,Geyer,Asemrudung,58172,16000,STD,reguler
+982,Ninja Xpress,40135,Jawa Tengah,Grobogan,Godong,Anggaswangi,58162,16000,STD,reguler
+983,Ninja Xpress,40135,Jawa Tengah,Grobogan,Grobogan,Getasrejo,58152,16000,STD,reguler
+984,Ninja Xpress,40135,Jawa Tengah,Grobogan,Gubug,Baturagung,58164,16000,STD,reguler
+985,Ninja Xpress,40135,Jawa Tengah,Grobogan,Karangrayung,Cekel,58163,16000,STD,reguler
+986,Ninja Xpress,40135,Jawa Tengah,Grobogan,Kedungjati,Deras,58167,16000,STD,reguler
+987,Ninja Xpress,40135,Jawa Tengah,Grobogan,Klambu,Jenengan,58154,16000,STD,reguler
+988,Ninja Xpress,40135,Jawa Tengah,Grobogan,Ngaringan,KEDUSAN,58193,16000,STD,reguler
+989,Ninja Xpress,40135,Jawa Tengah,Grobogan,Penawangan,Pulorejo,58161,16000,STD,reguler
+990,Ninja Xpress,40135,Jawa Tengah,Grobogan,Pulokulon,Jambon,58181,16000,STD,reguler
+991,Ninja Xpress,40135,Jawa Tengah,Grobogan,Tanggungharjo,Tlogorejo,58166,16000,STD,reguler
+992,Ninja Xpress,40135,Jawa Tengah,Grobogan,Tawangharjo,Godan,58191,16000,STD,reguler
+993,Ninja Xpress,40135,Jawa Tengah,Grobogan,Tegowanu,Cangkring,58165,16000,STD,reguler
+994,Ninja Xpress,40135,Jawa Tengah,Grobogan,Toroh,Bandungharjo,58171,16000,STD,reguler
+995,Ninja Xpress,40135,Jawa Tengah,Grobogan,Wirosari,Sawit,58192,16000,STD,reguler
+996,Ninja Xpress,40135,Jawa Tengah,Grobogan,Gabus,Temon,58183,16000,STD,reguler
+997,Ninja Xpress,40135,Jawa Tengah,Grobogan,Kradenan,Bago,58182,16000,STD,reguler
+998,Ninja Xpress,40135,Jawa Tengah,Grobogan,Purwodadi,Simpang Lima,58111,16000,STD,reguler
+999,Ninja Xpress,40135,Jawa Tengah,Jepara,Bangsri,Bangsri,59453,16700,STD,reguler
+1000,Ninja Xpress,40135,Jawa Tengah,Jepara,Batealit,Rajekwesi,59461,16700,STD,reguler
+1001,Ninja Xpress,40135,Jawa Tengah,Jepara,Jepara,Kecapi,59413,16700,STD,reguler
+1002,Ninja Xpress,40135,Jawa Tengah,Jepara,Kalinyamatan,Telukwetan,59462,16700,STD,reguler
+1003,Ninja Xpress,40135,Jawa Tengah,Jepara,Karimunjawa,Karimunjawa,59455,28200,STD,reguler
+1004,Ninja Xpress,40135,Jawa Tengah,Jepara,Kedung,Bugel,59463,16700,STD,reguler
+1005,Ninja Xpress,40135,Jawa Tengah,Jepara,Keling,Bumiharjo,59454,16700,STD,reguler
+1006,Ninja Xpress,40135,Jawa Tengah,Jepara,Kembang,Balong,59453,16700,STD,reguler
+1007,Ninja Xpress,40135,Jawa Tengah,Jepara,Mayong,Bandung,59465,16700,STD,reguler
+1008,Ninja Xpress,40135,Jawa Tengah,Jepara,Mlonggo,Jambu,59452,16700,STD,reguler
+1009,Ninja Xpress,40135,Jawa Tengah,Jepara,Nalumsari,Papringan,59466,16700,STD,reguler
+1010,Ninja Xpress,40135,Jawa Tengah,Jepara,Pakis Aji,Bulungan,59452,16700,STD,reguler
+1011,Ninja Xpress,40135,Jawa Tengah,Jepara,Pecangaan,Gemulung,59462,16700,STD,reguler
+1012,Ninja Xpress,40135,Jawa Tengah,Jepara,Tahunan,Potroyudan,59421,16700,STD,reguler
+1013,Ninja Xpress,40135,Jawa Tengah,Jepara,Welahan,Bugo,59464,16700,STD,reguler
+1014,Ninja Xpress,40135,Jawa Tengah,Jepara,Donorojo,Ngancar,59454,16700,STD,reguler
+1015,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Colomadu,Baturan,57171,16000,STD,reguler
+1016,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Gondangrejo,Bulurejo,57188,16000,STD,reguler
+1017,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Jaten,Brujul,57731,16000,STD,reguler
+1018,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Jatipuro,Jatiharjo,57784,16000,STD,reguler
+1019,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Jatiyoso,Beruk,57785,16000,STD,reguler
+1020,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Jenawi,Anggrasmanis,57794,16000,STD,reguler
+1021,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Jumantono,Blorong,57782,16000,STD,reguler
+1022,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Jumapolo,Bakalan,57783,16000,STD,reguler
+1023,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Karangpandan,Bangsri,57791,16000,STD,reguler
+1024,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Kebakkramat,Alastuwo,57762,16000,STD,reguler
+1025,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Kerjo,Botok,57753,16000,STD,reguler
+1026,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Matesih,Dawung,57781,16000,STD,reguler
+1027,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Mojogedang,Gebyok,57752,16000,STD,reguler
+1028,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Ngargoyoso,Palur,57731,16000,STD,reguler
+1029,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Tasikmadu,Brujul,57722,16000,STD,reguler
+1030,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Tawangmangu,Bandardawung,57792,16000,STD,reguler
+1031,Ninja Xpress,40135,Jawa Tengah,Karanganyar,Karanganyar,Gantiwarno,57716,16000,STD,reguler
+1032,Ninja Xpress,40135,Jawa Tengah,Kebumen,Adimulyo,Jatimulyo,54363,16000,STD,reguler
+1033,Ninja Xpress,40135,Jawa Tengah,Kebumen,Alian/aliyan,Bojongsari,54352,16000,STD,reguler
+1034,Ninja Xpress,40135,Jawa Tengah,Kebumen,Ambal,Kuwarisan,54392,16000,STD,reguler
+1035,Ninja Xpress,40135,Jawa Tengah,Kebumen,Ayah,Argopeni,54473,16000,STD,reguler
+1036,Ninja Xpress,40135,Jawa Tengah,Kebumen,Bonorowo,Ngabean,54395,16000,STD,reguler
+1037,Ninja Xpress,40135,Jawa Tengah,Kebumen,Buayan,Adiwarno,54474,16000,STD,reguler
+1038,Ninja Xpress,40135,Jawa Tengah,Kebumen,Buluspesantren,Klapasawit,54391,16000,STD,reguler
+1039,Ninja Xpress,40135,Jawa Tengah,Kebumen,Gombong,Banjarsari,54416,16000,STD,reguler
+1040,Ninja Xpress,40135,Jawa Tengah,Kebumen,Karanggayam,Binangun,54365,16000,STD,reguler
+1041,Ninja Xpress,40135,Jawa Tengah,Kebumen,Karangsambung,Banioro,54353,16000,STD,reguler
+1042,Ninja Xpress,40135,Jawa Tengah,Kebumen,Kebumen,Jabres,54311,16000,STD,reguler
+1043,Ninja Xpress,40135,Jawa Tengah,Kebumen,Klirong,Bendogarap,54381,16000,STD,reguler
+1044,Ninja Xpress,40135,Jawa Tengah,Kebumen,Kutowinangun,Babadsari,54393,16000,STD,reguler
+1045,Ninja Xpress,40135,Jawa Tengah,Kebumen,Kuwarasan,Banjareja,54366,16000,STD,reguler
+1046,Ninja Xpress,40135,Jawa Tengah,Kebumen,Mirit,Karanggede,54395,16000,STD,reguler
+1047,Ninja Xpress,40135,Jawa Tengah,Kebumen,Padureso,Sumbersari,54394,16000,STD,reguler
+1048,Ninja Xpress,40135,Jawa Tengah,Kebumen,Pejagoan,Bumiharjo,54361,16000,STD,reguler
+1049,Ninja Xpress,40135,Jawa Tengah,Kebumen,Petanahan,Ampelsari,54382,16000,STD,reguler
+1050,Ninja Xpress,40135,Jawa Tengah,Kebumen,Poncowarno,Blater,54393,16000,STD,reguler
+1051,Ninja Xpress,40135,Jawa Tengah,Kebumen,Prembun,Bagung,54394,16000,STD,reguler
+1052,Ninja Xpress,40135,Jawa Tengah,Kebumen,Puring,Pasuruhan (Pasuruan),54383,16000,STD,reguler
+1053,Ninja Xpress,40135,Jawa Tengah,Kebumen,Rowokele,Tugu,54472,16000,STD,reguler
+1054,Ninja Xpress,40135,Jawa Tengah,Kebumen,Sadang,Cangkring,54353,16000,STD,reguler
+1055,Ninja Xpress,40135,Jawa Tengah,Kebumen,Sempor,Purbowangi,54421,16000,STD,reguler
+1056,Ninja Xpress,40135,Jawa Tengah,Kebumen,Sruweng,Condongcampur,54362,16000,STD,reguler
+1057,Ninja Xpress,40135,Jawa Tengah,Kebumen,Karanganyar,Candi,54364,16000,STD,reguler
+1058,Ninja Xpress,40135,Jawa Tengah,Kendal,Boja,Banjarejo,51381,16000,STD,reguler
+1059,Ninja Xpress,40135,Jawa Tengah,Kendal,Brangsong,Sukomulyo,51371,16000,STD,reguler
+1060,Ninja Xpress,40135,Jawa Tengah,Kendal,Cepiring,Botomulyo,51352,16000,STD,reguler
+1061,Ninja Xpress,40135,Jawa Tengah,Kendal,Gemuh,Cepokomulyo,51356,16000,STD,reguler
+1062,Ninja Xpress,40135,Jawa Tengah,Kendal,Kaliwungu Selatan,Kedungsuren,51372,16000,STD,reguler
+1063,Ninja Xpress,40135,Jawa Tengah,Kendal,Kangkung,Jungsemi,51353,16000,STD,reguler
+1064,Ninja Xpress,40135,Jawa Tengah,Kendal,Limbangan,Ringin Kurung,51383,16000,STD,reguler
+1065,Ninja Xpress,40135,Jawa Tengah,Kendal,Ngampel,Banyuurip,51357,16000,STD,reguler
+1066,Ninja Xpress,40135,Jawa Tengah,Kendal,Pagerruyung,Gondoharum,51361,16000,STD,reguler
+1067,Ninja Xpress,40135,Jawa Tengah,Kendal,Patean,Curugsewu,51364,16000,STD,reguler
+1068,Ninja Xpress,40135,Jawa Tengah,Kendal,Patebon,Pidodo Kulon (Widodo Kulon),51351,16000,STD,reguler
+1069,Ninja Xpress,40135,Jawa Tengah,Kendal,Pegandon,Dawungsari,51357,16000,STD,reguler
+1070,Ninja Xpress,40135,Jawa Tengah,Kendal,Plantungan,Bendosari,51362,16000,STD,reguler
+1071,Ninja Xpress,40135,Jawa Tengah,Kendal,Ringinarum,Caruban,51356,16000,STD,reguler
+1072,Ninja Xpress,40135,Jawa Tengah,Kendal,Rowosari,Bulak,51354,16000,STD,reguler
+1073,Ninja Xpress,40135,Jawa Tengah,Kendal,Singorojo,Kedungsuren,51382,16000,STD,reguler
+1074,Ninja Xpress,40135,Jawa Tengah,Kendal,Weleri,Parakan,51355,16000,STD,reguler
+1075,Ninja Xpress,40135,Jawa Tengah,Kendal,Kaliwungu,Krajan Kulon,51372,16000,STD,reguler
+1076,Ninja Xpress,40135,Jawa Tengah,Kendal,Kendal,Balok,51312,16000,STD,reguler
+1077,Ninja Xpress,40135,Jawa Tengah,Kendal,Sukorejo,Krikil,51363,16000,STD,reguler
+1078,Ninja Xpress,40135,Jawa Tengah,Klaten,Bayat,Kalikebo,57462,16000,STD,reguler
+1079,Ninja Xpress,40135,Jawa Tengah,Klaten,Cawas,Pundungsari,57463,16000,STD,reguler
+1080,Ninja Xpress,40135,Jawa Tengah,Klaten,Ceper,Kedungan,57465,16000,STD,reguler
+1081,Ninja Xpress,40135,Jawa Tengah,Klaten,Delanggu,Sidoharjo,57471,16000,STD,reguler
+1082,Ninja Xpress,40135,Jawa Tengah,Klaten,Gantiwarno,Baturan,57455,16000,STD,reguler
+1083,Ninja Xpress,40135,Jawa Tengah,Klaten,Jatinom,Bandungan,57481,16000,STD,reguler
+1084,Ninja Xpress,40135,Jawa Tengah,Klaten,Jogonalan,Gumul,57452,16000,STD,reguler
+1085,Ninja Xpress,40135,Jawa Tengah,Klaten,Juwiring,Bolopleret,57472,16000,STD,reguler
+1086,Ninja Xpress,40135,Jawa Tengah,Klaten,Kalikotes,Dusun I,57451,16000,STD,reguler
+1087,Ninja Xpress,40135,Jawa Tengah,Klaten,Karanganom,Jeblok,57475,16000,STD,reguler
+1088,Ninja Xpress,40135,Jawa Tengah,Klaten,Karangdowo,Kalangan,57464,16000,STD,reguler
+1089,Ninja Xpress,40135,Jawa Tengah,Klaten,Karangnongko,Banyuaeng,57483,16000,STD,reguler
+1090,Ninja Xpress,40135,Jawa Tengah,Klaten,Kebonarum,Karanglo,57486,16000,STD,reguler
+1091,Ninja Xpress,40135,Jawa Tengah,Klaten,Kemalang,Balerante,57484,16000,STD,reguler
+1092,Ninja Xpress,40135,Jawa Tengah,Klaten,Klaten Selatan,Ngrundul,57422,16000,STD,reguler
+1093,Ninja Xpress,40135,Jawa Tengah,Klaten,Klaten Tengah,Kalikotes,57417,16000,STD,reguler
+1094,Ninja Xpress,40135,Jawa Tengah,Klaten,Klaten Utara,Gemblegan,57438,16000,STD,reguler
+1095,Ninja Xpress,40135,Jawa Tengah,Klaten,Manisrenggo,Barukan,57485,16000,STD,reguler
+1096,Ninja Xpress,40135,Jawa Tengah,Klaten,Pedan,Beji,57468,16000,STD,reguler
+1097,Ninja Xpress,40135,Jawa Tengah,Klaten,Polanharjo,Borongan,57474,16000,STD,reguler
+1098,Ninja Xpress,40135,Jawa Tengah,Klaten,Tulung,Butuh,57482,16000,STD,reguler
+1099,Ninja Xpress,40135,Jawa Tengah,Klaten,Wedi,Bogem,57461,16000,STD,reguler
+1100,Ninja Xpress,40135,Jawa Tengah,Klaten,Trucuk,Wonosari (Wonososa),57473,16000,STD,reguler
+1101,Ninja Xpress,40135,Jawa Tengah,Klaten,Wonosari,Carikan,57473,16000,STD,reguler
+1102,Ninja Xpress,40135,Jawa Tengah,Klaten,Ngawen,Sogaten,57466,16000,STD,reguler
+1103,Ninja Xpress,40135,Jawa Tengah,Klaten,Prambanan,Karanganom,57454,16000,STD,reguler
+1104,Ninja Xpress,40135,Jawa Tengah,Kudus,Bae,Krajan,59327,10500,STD,reguler
+1105,Ninja Xpress,40135,Jawa Tengah,Kudus,Dawe,Cendono,59353,10500,STD,reguler
+1106,Ninja Xpress,40135,Jawa Tengah,Kudus,Gebog,Besito,59333,10500,STD,reguler
+1107,Ninja Xpress,40135,Jawa Tengah,Kudus,Jati,Jati Kulon,59347,10500,STD,reguler
+1108,Ninja Xpress,40135,Jawa Tengah,Kudus,Jekulo,Bulung Kulon,59382,10500,STD,reguler
+1109,Ninja Xpress,40135,Jawa Tengah,Kudus,KOTA KUDUS,Jati Kulon,59316,10500,STD,reguler
+1110,Ninja Xpress,40135,Jawa Tengah,Kudus,Mejobo,Golantepus,59381,10500,STD,reguler
+1111,Ninja Xpress,40135,Jawa Tengah,Kudus,Undaan,Ketanjung,59372,10500,STD,reguler
+1112,Ninja Xpress,40135,Jawa Tengah,Kudus,Kaliwungu,Bakalankrapyak,59332,10500,STD,reguler
+1113,Ninja Xpress,40135,Jawa Tengah,Magelang Kota,Magelang Selatan,Rejowinangun Selatan,56124,15800,STD,reguler
+1114,Ninja Xpress,40135,Jawa Tengah,Magelang Kota,Magelang Tengah,Wates,56112,15800,STD,reguler
+1115,Ninja Xpress,40135,Jawa Tengah,Magelang Kota,Magelang Utara,Jambewangi,56115,15800,STD,reguler
+1116,Ninja Xpress,40135,Jawa Tengah,Pati,Batangan,Batursari,59186,16000,STD,reguler
+1117,Ninja Xpress,40135,Jawa Tengah,Pati,Cluwak,Bleber,59157,16000,STD,reguler
+1118,Ninja Xpress,40135,Jawa Tengah,Pati,Dukuhseti,Alasdowo,59158,16000,STD,reguler
+1119,Ninja Xpress,40135,Jawa Tengah,Pati,Gembong,Bageng,59162,16000,STD,reguler
+1120,Ninja Xpress,40135,Jawa Tengah,Pati,Gunungwungkal,Bancak,59156,16000,STD,reguler
+1121,Ninja Xpress,40135,Jawa Tengah,Pati,Jaken,Tegalarum,59184,16000,STD,reguler
+1122,Ninja Xpress,40135,Jawa Tengah,Pati,Jakenan,Bungasrejo,59182,16000,STD,reguler
+1123,Ninja Xpress,40135,Jawa Tengah,Pati,Juwana,Agungmulyo,59185,16000,STD,reguler
+1124,Ninja Xpress,40135,Jawa Tengah,Pati,Kayen,Beketel,59171,16000,STD,reguler
+1125,Ninja Xpress,40135,Jawa Tengah,Pati,Margorejo,Badegan,59163,16000,STD,reguler
+1126,Ninja Xpress,40135,Jawa Tengah,Pati,Margoyoso,Bulumanis Kidul,59154,16000,STD,reguler
+1127,Ninja Xpress,40135,Jawa Tengah,Pati,Pati,Sukoharjo,59113,16000,STD,reguler
+1128,Ninja Xpress,40135,Jawa Tengah,Pati,Pucakwangi,Bodeh,59183,16000,STD,reguler
+1129,Ninja Xpress,40135,Jawa Tengah,Pati,Tambakromo,Angkatan Kidul,59174,16000,STD,reguler
+1130,Ninja Xpress,40135,Jawa Tengah,Pati,Tayu,Ngablak,59155,16000,STD,reguler
+1131,Ninja Xpress,40135,Jawa Tengah,Pati,Tlogowungu,Cabak,59161,16000,STD,reguler
+1132,Ninja Xpress,40135,Jawa Tengah,Pati,Trangkil,Asempapan,59153,16000,STD,reguler
+1133,Ninja Xpress,40135,Jawa Tengah,Pati,Wedarijaksa,Bangsalrejo,59152,16000,STD,reguler
+1134,Ninja Xpress,40135,Jawa Tengah,Pati,Winong,Blingijati,59181,16000,STD,reguler
+1135,Ninja Xpress,40135,Jawa Tengah,Pati,Sukolilo,Jimbaran,59172,16000,STD,reguler
+1136,Ninja Xpress,40135,Jawa Tengah,Pati,Gabus,Koryokalangan,59173,16000,STD,reguler
+1137,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kota,Pekalongan Barat,Wonoyoso,51111,9500,STD,reguler
+1138,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kota,Pekalongan Selatan,Banyurip Alit,51139,9500,STD,reguler
+1139,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kota,Pekalongan Timur,Poncol,51122,9500,STD,reguler
+1140,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kota,Pekalongan Utara,Pabean,51141,9500,STD,reguler
+1141,Ninja Xpress,40135,Jawa Tengah,Pemalang,Bantarbolang,Karangasem,52352,16000,STD,reguler
+1142,Ninja Xpress,40135,Jawa Tengah,Pemalang,Belik,Badak,52356,16000,STD,reguler
+1143,Ninja Xpress,40135,Jawa Tengah,Pemalang,Bodeh,Babakan,52365,16000,STD,reguler
+1144,Ninja Xpress,40135,Jawa Tengah,Pemalang,Comal,Ambokulon,52363,16000,STD,reguler
+1145,Ninja Xpress,40135,Jawa Tengah,Pemalang,Moga,Banyumudal,52354,16000,STD,reguler
+1146,Ninja Xpress,40135,Jawa Tengah,Pemalang,Pemalang,Banjarmulya,52319,16000,STD,reguler
+1147,Ninja Xpress,40135,Jawa Tengah,Pemalang,Petarukan,Bulu,52362,16000,STD,reguler
+1148,Ninja Xpress,40135,Jawa Tengah,Pemalang,Pulosari,Batursari,52355,16000,STD,reguler
+1149,Ninja Xpress,40135,Jawa Tengah,Pemalang,Randudongkal,Bulakan,52353,16000,STD,reguler
+1150,Ninja Xpress,40135,Jawa Tengah,Pemalang,Ulujami,Ambowetan,52371,16000,STD,reguler
+1151,Ninja Xpress,40135,Jawa Tengah,Pemalang,Warungpring,Cibuyur,52354,16000,STD,reguler
+1152,Ninja Xpress,40135,Jawa Tengah,Pemalang,Watukumpul,Bodas,52357,16000,STD,reguler
+1153,Ninja Xpress,40135,Jawa Tengah,Pemalang,Ampelgading,Ampelgading,52364,16000,STD,reguler
+1154,Ninja Xpress,40135,Jawa Tengah,Pemalang,Taman,Asemdoyong,52361,16000,STD,reguler
+1155,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Bobotsari,Banjarsari,53353,16000,STD,reguler
+1156,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Bojongsari,Jagalan,53362,16000,STD,reguler
+1157,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Bukateja,Bajong,53382,16000,STD,reguler
+1158,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Kaligondang,Arenan,53391,16000,STD,reguler
+1159,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Kalimanah,Penaruban,53371,16000,STD,reguler
+1160,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Karangjambu,Danasari,53357,16000,STD,reguler
+1161,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Karangmoncol,Baleraksa,53355,16000,STD,reguler
+1162,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Karangreja,Gondang,53357,16000,STD,reguler
+1163,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Kejobong,Bandingan,53392,16000,STD,reguler
+1164,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Kemangkon,Bakulan,53381,16000,STD,reguler
+1165,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Kertanegara,Adiarsa,53354,16000,STD,reguler
+1166,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Kutasari,Candinata,53361,16000,STD,reguler
+1167,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Mrebet,Binangun,53352,16000,STD,reguler
+1168,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Padamara,Bojanegara,53372,16000,STD,reguler
+1169,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Pengadegan,Bedagas,53393,16000,STD,reguler
+1170,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Purbalingga,Bancar,53316,16000,STD,reguler
+1171,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Rembang,Bantarbarang,53356,16000,STD,reguler
+1172,Ninja Xpress,40135,Jawa Tengah,Purbalingga,Karanganyar,Banjarkerta,53354,16000,STD,reguler
+1173,Ninja Xpress,40135,Jawa Tengah,Purworejo,Grabag,Aglik,54265,16700,STD,reguler
+1174,Ninja Xpress,40135,Jawa Tengah,Purworejo,Bagelen,Bagelen,54174,16700,STD,reguler
+1175,Ninja Xpress,40135,Jawa Tengah,Purworejo,Banyuurip,Bajangrejo,54171,16700,STD,reguler
+1176,Ninja Xpress,40135,Jawa Tengah,Purworejo,Bener,Bener,54183,16700,STD,reguler
+1177,Ninja Xpress,40135,Jawa Tengah,Purworejo,Bruno,Blimbing,54261,16700,STD,reguler
+1178,Ninja Xpress,40135,Jawa Tengah,Purworejo,Butuh,Andong,54264,16700,STD,reguler
+1179,Ninja Xpress,40135,Jawa Tengah,Purworejo,Gebang,Sendangsari,54191,16700,STD,reguler
+1180,Ninja Xpress,40135,Jawa Tengah,Purworejo,Kaligesing,Donorejo,54175,16700,STD,reguler
+1181,Ninja Xpress,40135,Jawa Tengah,Purworejo,Kemiri,Karangduwur (Bedono,54262,16700,STD,reguler
+1182,Ninja Xpress,40135,Jawa Tengah,Purworejo,Kutoarjo,Kaliwatubumi,54212,16700,STD,reguler
+1183,Ninja Xpress,40135,Jawa Tengah,Purworejo,Loano,Banyuasin Kembaran,54181,16700,STD,reguler
+1184,Ninja Xpress,40135,Jawa Tengah,Purworejo,Ngombol,Bojong,54172,16700,STD,reguler
+1185,Ninja Xpress,40135,Jawa Tengah,Purworejo,Pituruh,Blekatuk,54263,16700,STD,reguler
+1186,Ninja Xpress,40135,Jawa Tengah,Purworejo,Bayan,Bandungrejo,54222,16700,STD,reguler
+1187,Ninja Xpress,40135,Jawa Tengah,Purworejo,Purwodadi,Sumberejo,54173,16700,STD,reguler
+1188,Ninja Xpress,40135,Jawa Tengah,Purworejo,Purworejo,Baledono,54118,16700,STD,reguler
+1189,Ninja Xpress,40135,Jawa Tengah,Rembang,Gunem,Banyuurip,59263,16000,STD,reguler
+1190,Ninja Xpress,40135,Jawa Tengah,Rembang,Kaliori,Babadan,59252,16000,STD,reguler
+1191,Ninja Xpress,40135,Jawa Tengah,Rembang,Kragan,Balongmulyo,59273,16000,STD,reguler
+1192,Ninja Xpress,40135,Jawa Tengah,Rembang,Lasem,Babagan,59271,16000,STD,reguler
+1193,Ninja Xpress,40135,Jawa Tengah,Rembang,Pamotan,Bamban,59261,16000,STD,reguler
+1194,Ninja Xpress,40135,Jawa Tengah,Rembang,Pancur,Banyuurip,59262,16000,STD,reguler
+1195,Ninja Xpress,40135,Jawa Tengah,Rembang,Sale,Bancang,59265,16000,STD,reguler
+1196,Ninja Xpress,40135,Jawa Tengah,Rembang,Sarang,Babaktulung,59274,16000,STD,reguler
+1197,Ninja Xpress,40135,Jawa Tengah,Rembang,Sedan,Bogorejo,59264,16000,STD,reguler
+1198,Ninja Xpress,40135,Jawa Tengah,Rembang,Sluke,Bendo,59272,16000,STD,reguler
+1199,Ninja Xpress,40135,Jawa Tengah,Rembang,Sulang,Bogorame,59254,16000,STD,reguler
+1200,Ninja Xpress,40135,Jawa Tengah,Rembang,Bulu,Bulu,59255,16000,STD,reguler
+1201,Ninja Xpress,40135,Jawa Tengah,Rembang,Rembang,Kemirirejo,59214,16000,STD,reguler
+1202,Ninja Xpress,40135,Jawa Tengah,Rembang,Sumber,Bogorejo,59253,16000,STD,reguler
+1203,Ninja Xpress,40135,Jawa Tengah,Salatiga,Argomulyo,Noborejo,50736,9500,STD,reguler
+1204,Ninja Xpress,40135,Jawa Tengah,Salatiga,Sidomukti,Kalicacing,50724,9500,STD,reguler
+1205,Ninja Xpress,40135,Jawa Tengah,Salatiga,Tingkir,Kutowinangun,50742,9500,STD,reguler
+1206,Ninja Xpress,40135,Jawa Tengah,Salatiga,Sidorejo,Blotongan,50715,9500,STD,reguler
+1207,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Banyumanik,Tembalang,50269,15500,STD,reguler
+1208,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Candisari,Lempongsari,50614,15500,STD,reguler
+1209,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Gajah Mungkur,Bendan Duwur,50235,15500,STD,reguler
+1210,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Gayamsari,Siwalan,50162,15500,STD,reguler
+1211,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Genuk,Karangrejo,50231,15500,STD,reguler
+1212,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Gunungpati,Lerep,50226,15500,STD,reguler
+1213,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Ngaliyan,Karanganyar,50185,15500,STD,reguler
+1214,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Pedurungan,Batursari,50192,15500,STD,reguler
+1215,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Semarang Barat,Sawo,50148,15500,STD,reguler
+1216,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Semarang Selatan,Gemah,50248,15500,STD,reguler
+1217,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Semarang Tengah,Pendrikan Kidul,50131,15500,STD,reguler
+1218,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Semarang Timur,Mlatibaru,50122,15500,STD,reguler
+1219,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Semarang Utara,Tlogosari Kulon,50173,15500,STD,reguler
+1220,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Tembalang,Pedalangan,50275,15500,STD,reguler
+1221,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Mijen,Kliris,50216,15500,STD,reguler
+1222,Ninja Xpress,40135,Jawa Tengah,Semarang Kota,Tugu,Jrakah,50151,15500,STD,reguler
+1223,Ninja Xpress,40135,Jawa Tengah,Sragen,Gemolong,Brangkal,57274,16000,STD,reguler
+1224,Ninja Xpress,40135,Jawa Tengah,Sragen,Gesi,Blangu,57262,16000,STD,reguler
+1225,Ninja Xpress,40135,Jawa Tengah,Sragen,Jenar,Banyurip,57256,16000,STD,reguler
+1226,Ninja Xpress,40135,Jawa Tengah,Sragen,Kalijambe,Samberembe,57275,16000,STD,reguler
+1227,Ninja Xpress,40135,Jawa Tengah,Sragen,Karangmalang,Guworejo,57222,16000,STD,reguler
+1228,Ninja Xpress,40135,Jawa Tengah,Sragen,Kedawung,Botok,57292,16000,STD,reguler
+1229,Ninja Xpress,40135,Jawa Tengah,Sragen,Masaran,Pulosari,57282,16000,STD,reguler
+1230,Ninja Xpress,40135,Jawa Tengah,Sragen,Miri,Bagor,57276,16000,STD,reguler
+1231,Ninja Xpress,40135,Jawa Tengah,Sragen,Mondokan,Gemantar,57271,16000,STD,reguler
+1232,Ninja Xpress,40135,Jawa Tengah,Sragen,Ngrampal,Plumbon,57252,16000,STD,reguler
+1233,Ninja Xpress,40135,Jawa Tengah,Sragen,Plupuh,Cangkol,57283,16000,STD,reguler
+1234,Ninja Xpress,40135,Jawa Tengah,Sragen,Sambirejo,Blimbing,57293,16000,STD,reguler
+1235,Ninja Xpress,40135,Jawa Tengah,Sragen,Sambung Macan,Karanganyar,57253,16000,STD,reguler
+1236,Ninja Xpress,40135,Jawa Tengah,Sragen,Sragen,Plumbungan,57214,16000,STD,reguler
+1237,Ninja Xpress,40135,Jawa Tengah,Sragen,Sumberlawang,Cepoko,57272,16000,STD,reguler
+1238,Ninja Xpress,40135,Jawa Tengah,Sragen,Tangen,Denanyar,57261,16000,STD,reguler
+1239,Ninja Xpress,40135,Jawa Tengah,Sragen,Tanon,Bonagung,57277,16000,STD,reguler
+1240,Ninja Xpress,40135,Jawa Tengah,Sragen,Sidoharjo,Bentak,57281,16000,STD,reguler
+1241,Ninja Xpress,40135,Jawa Tengah,Sragen,Gondang,Bumiaji,57254,16000,STD,reguler
+1242,Ninja Xpress,40135,Jawa Tengah,Sragen,Sukodono,Baleharjo,57263,16000,STD,reguler
+1243,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Baki,Krajan,57556,21000,STD,reguler
+1244,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Bendosari,Bendosari,57528,21000,STD,reguler
+1245,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Gatak,Gentan,57557,21000,STD,reguler
+1246,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Kartasura,Karangasem,57169,21000,STD,reguler
+1247,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Mojolaban,Jati,57554,21000,STD,reguler
+1248,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Nguter,Baran,57571,21000,STD,reguler
+1249,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Polokarto,Kajuapak,57555,21000,STD,reguler
+1250,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Tawangsari,Keteguhan,57561,21000,STD,reguler
+1251,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Weru,Alasombo,57562,21000,STD,reguler
+1252,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Grogol,Kartasura,57552,21000,STD,reguler
+1253,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Bulu,Bulu,57563,21000,STD,reguler
+1254,Ninja Xpress,40135,Jawa Tengah,Sukoharjo,Sukoharjo,Pajang,57511,21000,STD,reguler
+1255,Ninja Xpress,40135,Jawa Tengah,Surakarta (Solo),Jebres,Kampung Baru,57122,15500,STD,reguler
+1256,Ninja Xpress,40135,Jawa Tengah,Surakarta (Solo),Laweyan,Pabelan,57145,15500,STD,reguler
+1257,Ninja Xpress,40135,Jawa Tengah,Surakarta (Solo),Pasar Kliwon,Mojo,57117,15500,STD,reguler
+1258,Ninja Xpress,40135,Jawa Tengah,Surakarta (Solo),Serengan,Pasar Kliwon,57156,15500,STD,reguler
+1259,Ninja Xpress,40135,Jawa Tengah,Surakarta (Solo),Banjarsari,Mojosongo,57136,15500,STD,reguler
+1260,Ninja Xpress,40135,Jawa Tengah,Tegal Kota,Margadana,Pesurungan Kidul,52141,16000,STD,reguler
+1261,Ninja Xpress,40135,Jawa Tengah,Tegal Kota,Tegal Barat,Kraton,52112,16000,STD,reguler
+1262,Ninja Xpress,40135,Jawa Tengah,Tegal Kota,Tegal Selatan,Kemandungan,52133,16000,STD,reguler
+1263,Ninja Xpress,40135,Jawa Tengah,Tegal Kota,Tegal Timur,Randugunting,52125,16000,STD,reguler
+1264,Ninja Xpress,40135,Jawa Tengah,Temanggung,Bulu,Wanutengah,56253,21000,STD,reguler
+1265,Ninja Xpress,40135,Jawa Tengah,Temanggung,Bansari,Balesari,56265,21000,STD,reguler
+1266,Ninja Xpress,40135,Jawa Tengah,Temanggung,Bejen,Banjarsari,56258,21000,STD,reguler
+1267,Ninja Xpress,40135,Jawa Tengah,Temanggung,Candiroto,Tegalrejo,56257,21000,STD,reguler
+1268,Ninja Xpress,40135,Jawa Tengah,Temanggung,Gemawang,Banaran,56283,21000,STD,reguler
+1269,Ninja Xpress,40135,Jawa Tengah,Temanggung,Jumo,Bandunggede,56256,21000,STD,reguler
+1270,Ninja Xpress,40135,Jawa Tengah,Temanggung,Kaloran,Gandon,56282,21000,STD,reguler
+1271,Ninja Xpress,40135,Jawa Tengah,Temanggung,Kedu,Bandunggede,56252,21000,STD,reguler
+1272,Ninja Xpress,40135,Jawa Tengah,Temanggung,Kledung,Batursari,56264,21000,STD,reguler
+1273,Ninja Xpress,40135,Jawa Tengah,Temanggung,Kranggan,Badran,56271,21000,STD,reguler
+1274,Ninja Xpress,40135,Jawa Tengah,Temanggung,Ngadirejo,Sigethuk,56255,21000,STD,reguler
+1275,Ninja Xpress,40135,Jawa Tengah,Temanggung,Parakan,Bagusan,56254,21000,STD,reguler
+1276,Ninja Xpress,40135,Jawa Tengah,Temanggung,Pringsurat,Gowak,56272,21000,STD,reguler
+1277,Ninja Xpress,40135,Jawa Tengah,Temanggung,Selopampang,Bagusan,56262,21000,STD,reguler
+1278,Ninja Xpress,40135,Jawa Tengah,Temanggung,Temanggung,Tidar Selatan,56214,21000,STD,reguler
+1279,Ninja Xpress,40135,Jawa Tengah,Temanggung,Tembarak,Banaran,56261,21000,STD,reguler
+1280,Ninja Xpress,40135,Jawa Tengah,Temanggung,Tlogomulyo,Balerejo,56263,21000,STD,reguler
+1281,Ninja Xpress,40135,Jawa Tengah,Temanggung,Tretep,Bendungan,56259,21000,STD,reguler
+1282,Ninja Xpress,40135,Jawa Tengah,Temanggung,Wonoboyo,Cemoro,56266,21000,STD,reguler
+1283,Ninja Xpress,40135,Jawa Tengah,Temanggung,Kandangan,Baledu,56281,21000,STD,reguler
+1284,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Baturetno,Balepanjang,57673,16000,STD,reguler
+1285,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Batuwarno,Batuwarno,57674,16000,STD,reguler
+1286,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Bulukerto,Bulukerto,57697,16000,STD,reguler
+1287,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Eromoko,Baleharjo,57663,16000,STD,reguler
+1288,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Girimarto,Bubakan,57683,16000,STD,reguler
+1289,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Giritontro,Bayemharjo,57678,16000,STD,reguler
+1290,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Giriwoyo,Kamulan,57675,16000,STD,reguler
+1291,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Jatipurno,Balepanjang,57693,16000,STD,reguler
+1292,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Jatisrono,Jatinom,57691,16000,STD,reguler
+1293,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Karangtengah,Jeblogan,57677,16000,STD,reguler
+1294,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Kismantoro,Bugelan,57696,16000,STD,reguler
+1295,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Manyaran,Bero,57662,16000,STD,reguler
+1296,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Paranggupito,Gendayakan,57678,16000,STD,reguler
+1297,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Pracimantoro,Banaran,57664,16000,STD,reguler
+1298,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Puhpelem,Giriharjo,57698,16000,STD,reguler
+1299,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Purwantoro,Bakalan,57695,16000,STD,reguler
+1300,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Selogiri,Wonokarto,57652,16000,STD,reguler
+1301,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Slogohimo,Bulusari,57694,16000,STD,reguler
+1302,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Tirtomoyo,Gondang,57672,16000,STD,reguler
+1303,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Wonogiri,Bulusulur,57615,16000,STD,reguler
+1304,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Wuryantoro,Mojopura,57661,16000,STD,reguler
+1305,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Nguntoronadi,Beji,57671,16000,STD,reguler
+1306,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Jatiroto,Boto,57692,16000,STD,reguler
+1307,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Ngadirojo,Gedong,57681,16000,STD,reguler
+1308,Ninja Xpress,40135,Jawa Tengah,Wonogiri,Sidoharjo,Jatinom,57682,16000,STD,reguler
+1309,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Garung,Garung,56353,16000,STD,reguler
+1310,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Kalibawang,Sidodadi,56373,16000,STD,reguler
+1311,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Kalikajar,Bowongso,56372,16000,STD,reguler
+1312,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Kaliwiro,Bendungan,56364,16000,STD,reguler
+1313,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Kejajar,Buntu,56354,16000,STD,reguler
+1314,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Kepil,Bener,56374,16000,STD,reguler
+1315,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Kertek,Butuh,56371,16000,STD,reguler
+1316,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Leksono,Besani,56362,16000,STD,reguler
+1317,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Mojotengah,Bumireso,56351,16000,STD,reguler
+1318,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Sapuran,Banyumudal,56373,16000,STD,reguler
+1319,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Selomerto,Adiwarno,56361,16000,STD,reguler
+1320,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Wadaslintang,Besuki,56365,16000,STD,reguler
+1321,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Watumalang,Banyukembar,56352,16000,STD,reguler
+1322,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Wonosobo,Bomerto,56318,16000,STD,reguler
+1323,Ninja Xpress,40135,Jawa Tengah,Wonosobo,Sukoharjo,Garunglor,56362,16000,STD,reguler
+1324,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Bandongan,Kalegen,56151,13700,STD,reguler
+1325,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Borobudur,Pucungrejo,56413,13700,STD,reguler
+1326,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Candimulyo,Sidomulyo,56191,13700,STD,reguler
+1327,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Kajoran,Pandansari,56414,13700,STD,reguler
+1328,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Kaliangkrik,Sedayu,56411,13700,STD,reguler
+1329,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Mertoyudan,Mertoyudan,56172,13700,STD,reguler
+1330,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Mungkid,Sawitan,56511,13700,STD,reguler
+1331,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Muntilan,Congkrang,56415,13700,STD,reguler
+1332,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Ngablak,Seloprojo,56194,13700,STD,reguler
+1333,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Ngluwar,Blongkeng,56485,13700,STD,reguler
+1334,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Salam,Sucen,56484,13700,STD,reguler
+1335,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Salaman,Kaliabu,56162,13700,STD,reguler
+1336,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Sawangan,Gantang,56481,13700,STD,reguler
+1337,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Secang,Madiocondro,56195,13700,STD,reguler
+1338,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Srumbung,Genangan,56483,13700,STD,reguler
+1339,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Tegalrejo,Donorojo,56192,13700,STD,reguler
+1340,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Windusari,Pasangsari,56152,13700,STD,reguler
+1341,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Pakis,Daleman Kidul,56193,13700,STD,reguler
+1342,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Grabag,Karangpucung,56196,13700,STD,reguler
+1343,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Tempuran,Tanggulrejo,56161,13700,STD,reguler
+1344,Ninja Xpress,40135,Jawa Tengah,Magelang Kabupaten,Dukun,Mangunsoko,56482,13700,STD,reguler
+1345,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Buaran,Banyurip Alit,51171,20000,STD,reguler
+1346,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Doro,Pungangan,51191,20000,STD,reguler
+1347,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Kajen,Sokoyoso,51161,20000,STD,reguler
+1348,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Kandangserang,Trajumas,51163,20000,STD,reguler
+1349,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Karangdadap,Kertoharjo,51174,20000,STD,reguler
+1350,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Kedungwuni,Pegaden Tengah,51173,20000,STD,reguler
+1351,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Kesesi,Karangrejo,51162,20000,STD,reguler
+1352,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Lebakbarang,Tembelang Gunung,51183,20000,STD,reguler
+1353,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Paninggaran,Lomeneng,51164,20000,STD,reguler
+1354,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Petungkriono/petungkriyono,Curugmuncar,51193,20000,STD,reguler
+1355,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Siwalan,Kelurahan Yosorejo,51137,20000,STD,reguler
+1356,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Sragi,Krasakageng,51155,20000,STD,reguler
+1357,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Tirto,Pasirsari,51151,20000,STD,reguler
+1358,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Wiradesa,Wiradesa,51152,20000,STD,reguler
+1359,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Wonokerto,Tratebang,51153,20000,STD,reguler
+1360,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Wonopringgo,Surabayan,51181,20000,STD,reguler
+1361,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Talun,Batursari,51192,20000,STD,reguler
+1362,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Bojong,Karangsari,51156,20000,STD,reguler
+1363,Ninja Xpress,40135,Jawa Tengah,Pekalongan Kabupaten,Karanganyar,Legok Kalong,51182,20000,STD,reguler
+1364,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Ambarawa,Panjang,50614,15500,STD,reguler
+1365,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Bancak,Bambankerep,50182,16000,STD,reguler
+1366,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Bandungan,Mlilir,50614,15500,STD,reguler
+1367,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Banyubiru,Kebondowo,50664,16000,STD,reguler
+1368,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Bawen,Blater,50661,16000,STD,reguler
+1369,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Bergas,Bergas Lor,50552,16000,STD,reguler
+1370,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Getasan,Getasan,50774,16000,STD,reguler
+1371,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Jambu,Pasekan,50663,16000,STD,reguler
+1372,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Pabelan,Giling,50771,16000,STD,reguler
+1373,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Pringapus,Wonorejo,50212,16000,STD,reguler
+1374,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Sumowono,Samban,50662,16000,STD,reguler
+1375,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Tengaran,Noborejo,50775,16000,STD,reguler
+1376,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Tuntang,Tlompakan,50773,16000,STD,reguler
+1377,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Ungaran Barat,Jatibarang,50519,16000,STD,reguler
+1378,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Ungaran Timur,Susukan,50516,16000,STD,reguler
+1379,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Bringin,Jatisari,50218,16000,STD,reguler
+1380,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Kaliwungu,Rt4/Rw4,50229,15500,STD,reguler
+1381,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Susukan,Kenteng,50777,16000,STD,reguler
+1382,Ninja Xpress,40135,Jawa Tengah,Semarang Kabupaten,Suruh,Wonosari,50186,16000,STD,reguler
+1383,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Adiwerna,Kebasen,52194,20000,STD,reguler
+1384,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Balapulang,Wringin Jenggot,52464,20000,STD,reguler
+1385,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Bojong,Karangmulyo,52465,20000,STD,reguler
+1386,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Bumijawa,Gunung Agung,52466,20000,STD,reguler
+1387,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Dukuhturi,Debong Tengah,52192,20000,STD,reguler
+1388,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Dukuhwaru,Kalipinang,52451,20000,STD,reguler
+1389,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Kramat,Sidaharja,52181,20000,STD,reguler
+1390,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Lebaksiu,Dukuhwringin,52461,20000,STD,reguler
+1391,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Margasari,Karangbenda,52463,20000,STD,reguler
+1392,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Pagerbarang,Sido Mulyo,52462,20000,STD,reguler
+1393,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Pangkah,Purbayasa,52471,20000,STD,reguler
+1394,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Slawi,Dukuh Ringin (Dukuhwringin),52419,20000,STD,reguler
+1395,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,SURADADI,Sidoharjo,52182,20000,STD,reguler
+1396,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Talang,Gambarsari,52193,20000,STD,reguler
+1397,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Tarub,Brekat,52184,20000,STD,reguler
+1398,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,WARUREJA,Sidomulyo,52183,20000,STD,reguler
+1399,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Jatinegara,Lembahsari,52473,20000,STD,reguler
+1400,Ninja Xpress,40135,Jawa Tengah,Tegal Kabupaten,Kedung Banteng,Dukuhjati Kidul,52472,20000,STD,reguler
+1401,Ninja Xpress,40135,DI Yogyakarta,Bantul,Bambang Lipuro,Sidomulyo,55764,15000,STD,reguler
+1402,Ninja Xpress,40135,DI Yogyakarta,Bantul,Banguntapan,Banguntapan,55198,15000,STD,reguler
+1403,Ninja Xpress,40135,DI Yogyakarta,Bantul,Bantul,Ringin Harjo,55712,15000,STD,reguler
+1404,Ninja Xpress,40135,DI Yogyakarta,Bantul,Dlingo,Dlingo,55783,15000,STD,reguler
+1405,Ninja Xpress,40135,DI Yogyakarta,Bantul,Imogiri,Girirejo,55782,15000,STD,reguler
+1406,Ninja Xpress,40135,DI Yogyakarta,Bantul,Kasihan,Ngestiharjo,55182,15000,STD,reguler
+1407,Ninja Xpress,40135,DI Yogyakarta,Bantul,Kretek,Donotirto,55772,15000,STD,reguler
+1408,Ninja Xpress,40135,DI Yogyakarta,Bantul,Pajangan,Guwosari,55751,15000,STD,reguler
+1409,Ninja Xpress,40135,DI Yogyakarta,Bantul,Pandak,Gilangharjo,55761,15000,STD,reguler
+1410,Ninja Xpress,40135,DI Yogyakarta,Bantul,Piyungan,Sitimulyo,55792,15000,STD,reguler
+1411,Ninja Xpress,40135,DI Yogyakarta,Bantul,Pleret,Bawuran,55791,15000,STD,reguler
+1412,Ninja Xpress,40135,DI Yogyakarta,Bantul,Pundong,Panjangrejo,55771,15000,STD,reguler
+1413,Ninja Xpress,40135,DI Yogyakarta,Bantul,Sanden,Gadingharjo,55763,15000,STD,reguler
+1414,Ninja Xpress,40135,DI Yogyakarta,Bantul,Sedayu,Argodadi,55752,15000,STD,reguler
+1415,Ninja Xpress,40135,DI Yogyakarta,Bantul,Sewon,Bangunharjo,55188,15000,STD,reguler
+1416,Ninja Xpress,40135,DI Yogyakarta,Bantul,Srandakan,Poncosari,55762,15000,STD,reguler
+1417,Ninja Xpress,40135,DI Yogyakarta,Bantul,Jetis,Sumber Agung,55781,15000,STD,reguler
+1418,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,GEDANGSARI,Serut,55863,16400,STD,reguler
+1419,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Girisubo,Karangawen,55883,16400,STD,reguler
+1420,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Karangmojo,Bendungan,55891,16400,STD,reguler
+1421,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Nglipar,Nglipar,55852,16400,STD,reguler
+1422,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Paliyan,Mulusan,55871,16400,STD,reguler
+1423,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Panggang,Girisekar,55872,16400,STD,reguler
+1424,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Patuk,Putat,55862,16400,STD,reguler
+1425,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Playen,Bandung,55861,16400,STD,reguler
+1426,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Ponjong,Sawahan,55892,16400,STD,reguler
+1427,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Rongkop,Botodayakan (Botodayaan),55883,16400,STD,reguler
+1428,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,SAPTOSARI,Nglora,55871,16400,STD,reguler
+1429,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Semanu,Candirejo,55893,16400,STD,reguler
+1430,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Semin,Sumberrejo,55854,16400,STD,reguler
+1431,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Tepus,Tepus,55881,16400,STD,reguler
+1432,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Ngawen,Tancep,55853,16400,STD,reguler
+1433,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Purwosari,Giritirto,55872,16400,STD,reguler
+1434,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Tanjungsari,Kemiri,55881,16400,STD,reguler
+1435,Ninja Xpress,40135,DI Yogyakarta,Gunung Kidul,Wonosari,Karang Rejek,55851,16400,STD,reguler
+1436,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Galur,Banaran,55661,16800,STD,reguler
+1437,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Girimulyo,Giripurwo,55674,16800,STD,reguler
+1438,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Kokap,Hargomulyo,55653,16800,STD,reguler
+1439,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Lendah,Bumirejo,55663,16800,STD,reguler
+1440,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Nanggulan,Banyuroto,55671,16800,STD,reguler
+1441,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Panjatan,Bojong,55655,16800,STD,reguler
+1442,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Pengasih,Karangsari,55652,16800,STD,reguler
+1443,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Samigaluh,Banjarsari,55673,16800,STD,reguler
+1444,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Sentolo,Banguncipto,55664,16800,STD,reguler
+1445,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Temon,Demen,55654,16800,STD,reguler
+1446,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Kalibawang,Banjararum,55672,16800,STD,reguler
+1447,Ninja Xpress,40135,DI Yogyakarta,Kulon Progo,Wates,Bendungan,55651,16800,STD,reguler
+1448,Ninja Xpress,40135,DI Yogyakarta,Sleman,Ngemplak,Bimomartani,55584,15000,STD,reguler
+1449,Ninja Xpress,40135,DI Yogyakarta,Sleman,Prambanan,Bokoharjo,55572,15000,STD,reguler
+1450,Ninja Xpress,40135,DI Yogyakarta,Sleman,Berbah,Jogotirto,55573,15000,STD,reguler
+1451,Ninja Xpress,40135,DI Yogyakarta,Sleman,Cangkringan,Argomulyo,55583,15000,STD,reguler
+1452,Ninja Xpress,40135,DI Yogyakarta,Sleman,Depok,Caturtunggal,55281,15000,STD,reguler
+1453,Ninja Xpress,40135,DI Yogyakarta,Sleman,Gamping,Ambarketawang,55294,15000,STD,reguler
+1454,Ninja Xpress,40135,DI Yogyakarta,Sleman,Godean,Sidoagung,55264,15000,STD,reguler
+1455,Ninja Xpress,40135,DI Yogyakarta,Sleman,Kalasan,Purwomartani,55571,15000,STD,reguler
+1456,Ninja Xpress,40135,DI Yogyakarta,Sleman,Minggir,Sendangagung,55562,15000,STD,reguler
+1457,Ninja Xpress,40135,DI Yogyakarta,Sleman,Mlati,Sendangadi,55285,15000,STD,reguler
+1458,Ninja Xpress,40135,DI Yogyakarta,Sleman,Moyudan,Sumberagung,55563,15000,STD,reguler
+1459,Ninja Xpress,40135,DI Yogyakarta,Sleman,Ngaglik,Donoharjo,55581,15000,STD,reguler
+1460,Ninja Xpress,40135,DI Yogyakarta,Sleman,Seyegan,Margoagung,55561,15000,STD,reguler
+1461,Ninja Xpress,40135,DI Yogyakarta,Sleman,Sleman,Caturharjo,55515,15000,STD,reguler
+1462,Ninja Xpress,40135,DI Yogyakarta,Sleman,Tempel,Banyurejo,55552,15000,STD,reguler
+1463,Ninja Xpress,40135,DI Yogyakarta,Sleman,Pakem,Candibinangun,55582,15000,STD,reguler
+1464,Ninja Xpress,40135,DI Yogyakarta,Sleman,Turi,Donokerto,55551,15000,STD,reguler
+1465,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Danurejan,Bausasran,55211,15000,STD,reguler
+1466,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Gedong Tengen,Sosromenduran,55271,15000,STD,reguler
+1467,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Gondokusuman,Kotabaru,55224,15000,STD,reguler
+1468,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Gondomanan,Ngupasan,55122,15000,STD,reguler
+1469,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Kotagede,Rejowinangun,55171,15000,STD,reguler
+1470,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Mantrijeron,Mantrijeron,55143,15000,STD,reguler
+1471,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Mergangsan,Brontokusuman,55153,15000,STD,reguler
+1472,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Ngampilan,Ngampilan,55261,15000,STD,reguler
+1473,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Pakualaman,Purwo Kinanti,55112,15000,STD,reguler
+1474,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Umbulharjo,Semaki,55166,15000,STD,reguler
+1475,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Wirobrajan,Pakuncen,55253,15000,STD,reguler
+1476,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Kraton,Patehan,55133,15000,STD,reguler
+1477,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Jetis,Bumijo,55231,15000,STD,reguler
+1478,Ninja Xpress,40135,DI Yogyakarta,Yogyakarta,Tegalrejo,Bener,55243,15000,STD,reguler
+1479,Ninja Xpress,40135,Jawa Timur,Bangkalan,Arosbaya,Arosbaya,69151,27000,STD,reguler
+1480,Ninja Xpress,40135,Jawa Timur,Bangkalan,Bangkalan,Bancaran,69112,27000,STD,reguler
+1481,Ninja Xpress,40135,Jawa Timur,Bangkalan,Blega,Bates,69174,27000,STD,reguler
+1482,Ninja Xpress,40135,Jawa Timur,Bangkalan,Burneh,Tonjung (Tunjung),69121,27000,STD,reguler
+1483,Ninja Xpress,40135,Jawa Timur,Bangkalan,Geger,Dabung (Debung),69152,27000,STD,reguler
+1484,Ninja Xpress,40135,Jawa Timur,Bangkalan,Kamal,Tellang (Telang),69162,27000,STD,reguler
+1485,Ninja Xpress,40135,Jawa Timur,Bangkalan,Klampis,Muarah (Moarah),69153,27000,STD,reguler
+1486,Ninja Xpress,40135,Jawa Timur,Bangkalan,Kokop,Amparaan,69155,27000,STD,reguler
+1487,Ninja Xpress,40135,Jawa Timur,Bangkalan,Konang,Bandung,69175,27000,STD,reguler
+1488,Ninja Xpress,40135,Jawa Timur,Bangkalan,Kwanyar,Pasanggrahan (Pesanggrahan),69163,27000,STD,reguler
+1489,Ninja Xpress,40135,Jawa Timur,Bangkalan,Labang,Baengas,69163,27000,STD,reguler
+1490,Ninja Xpress,40135,Jawa Timur,Bangkalan,Modung,Brakas Dajah,69166,27000,STD,reguler
+1491,Ninja Xpress,40135,Jawa Timur,Bangkalan,Sepulu,Gangseyan (Gengseyan),69154,27000,STD,reguler
+1492,Ninja Xpress,40135,Jawa Timur,Bangkalan,Socah,Bilaporah,69161,27000,STD,reguler
+1493,Ninja Xpress,40135,Jawa Timur,Bangkalan,Tanjungbumi,Bungkeng,69156,27000,STD,reguler
+1494,Ninja Xpress,40135,Jawa Timur,Bangkalan,Tragah,Kemoneng (Kemoning),69165,27000,STD,reguler
+1495,Ninja Xpress,40135,Jawa Timur,Bangkalan,Galis,Telagah (Tlagah),69173,27000,STD,reguler
+1496,Ninja Xpress,40135,Jawa Timur,Bangkalan,Tanah Merah,Baipajung,69172,27000,STD,reguler
+1497,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Bangorejo,Bangorejo,68487,29000,STD,reguler
+1498,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Banyuwangi,Karangrejo,68411,29000,STD,reguler
+1499,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Cluring,Benculuk,68482,29000,STD,reguler
+1500,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Gambiran,Gambiran,68486,29000,STD,reguler
+1501,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Genteng,Kaligondo,68465,29000,STD,reguler
+1502,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Giri,Boyolangu,68424,29000,STD,reguler
+1503,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Glenmore,Bumiharjo,68466,29000,STD,reguler
+1504,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Kabat,Macanputih,68461,29000,STD,reguler
+1505,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Kalibaru,Banyuanyar,68467,29000,STD,reguler
+1506,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Kalipuro,Bulusan,68455,29000,STD,reguler
+1507,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Licin,Banjar,68454,29000,STD,reguler
+1508,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Muncar,Blambangan,68472,29000,STD,reguler
+1509,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Pesanggaran,Kandangan,68488,29000,STD,reguler
+1510,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Purwoharjo,Bulurejo,68483,29000,STD,reguler
+1511,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Rogojampi,Aliyan,68462,29000,STD,reguler
+1512,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Sempu,Gendoh,68468,29000,STD,reguler
+1513,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Siliragung,Barurejo,68488,29000,STD,reguler
+1514,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Singojuruh,Alasmalang,68464,29000,STD,reguler
+1515,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Songgon,Balak,68463,21000,STD,reguler
+1516,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Srono,Kepundungan,68471,29000,STD,reguler
+1517,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Tegaldlimo,Kalipait,68484,29000,STD,reguler
+1518,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Tegalsari,Dasri,68485,29000,STD,reguler
+1519,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Wongsorejo,Bajulmati,68453,29000,STD,reguler
+1520,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Blimbingsari,Badean,68461,29000,STD,reguler
+1521,Ninja Xpress,40135,Jawa Timur,Banyuwangi,Glagah,Bakungan,68431,29000,STD,reguler
+1522,Ninja Xpress,40135,Jawa Timur,Batu,Batu,Sumberejo (Sumber Rejo),65318,25000,STD,reguler
+1523,Ninja Xpress,40135,Jawa Timur,Batu,Bumiaji,Bumiaji,65331,25000,STD,reguler
+1524,Ninja Xpress,40135,Jawa Timur,Batu,Junrejo,Tlekung,65327,25000,STD,reguler
+1525,Ninja Xpress,40135,Jawa Timur,Blitar Kota,KEPANJENKIDUL,Kepanjen Lor,66117,25000,STD,reguler
+1526,Ninja Xpress,40135,Jawa Timur,Blitar Kota,SANANWETAN,Gedog,66137,25000,STD,reguler
+1527,Ninja Xpress,40135,Jawa Timur,Blitar Kota,Sukorejo,Pakunden,66122,25000,STD,reguler
+1528,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Balen,Balenrejo,62182,21000,STD,reguler
+1529,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Baureno,Banjaran,62192,21000,STD,reguler
+1530,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Bojonegoro,Banjarejo,62118,21000,STD,reguler
+1531,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Bubulan,Bubulan,62172,21000,STD,reguler
+1532,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Dander,Dander,62171,21000,STD,reguler
+1533,,40135,Jawa Timur,Bojonegoro,Kalitidu,Brenggolo,62152,,,reguler
+1534,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Kanor,Bakung,62193,21000,STD,reguler
+1535,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Kapas,Bakalan,62181,21000,STD,reguler
+1536,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Kasiman,Batokan,62164,21000,STD,reguler
+1537,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Kedewan,Beji,62164,21000,STD,reguler
+1538,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Kedungadem,Babad,62195,21000,STD,reguler
+1539,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Kepoh Baru,Sumberagung,62194,21000,STD,reguler
+1540,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Malo,Banaran,62153,21000,STD,reguler
+1541,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Margomulyo,Geneng,62168,21000,STD,reguler
+1542,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Ngambon,Bondol,62167,21000,STD,reguler
+1543,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Ngraho,Bancer,62165,21000,STD,reguler
+1544,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Padangan,Cendono,62162,21000,STD,reguler
+1545,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Sekar,Bareng,62167,21000,STD,reguler
+1546,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Sugihwaras,Alasgung,62183,21000,STD,reguler
+1547,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Sukosewu,Duyungan,62183,21000,STD,reguler
+1548,Ninja Xpress,40135,Jawa Timur,Bojonegoro,SUMBEREJO,Banjarjo,62191,21000,STD,reguler
+1549,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Tambakrejo,Bakalan,62166,21000,STD,reguler
+1550,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Temayang,Bakulan,62184,21000,STD,reguler
+1551,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Purwosari,Donan,62161,21000,STD,reguler
+1552,,40135,Jawa Timur,Bojonegoro,Gayam,Begadon,62154,,,reguler
+1553,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Gondang,Gondang,62172,21000,STD,reguler
+1554,,40135,Jawa Timur,Bojonegoro,Ngasem,Bandungrejo,62154,,,reguler
+1555,Ninja Xpress,40135,Jawa Timur,Bojonegoro,Trucuk,Sumberrejo,62191,21000,STD,reguler
+1556,Ninja Xpress,40135,Jawa Timur,Bondowoso,Binakal,Baratan,68251,25000,STD,reguler
+1557,Ninja Xpress,40135,Jawa Timur,Bondowoso,Bondowoso,Badean,68214,25000,STD,reguler
+1558,Ninja Xpress,40135,Jawa Timur,Bondowoso,Botolinggo,Botolinggo,68284,25000,STD,reguler
+1559,Ninja Xpress,40135,Jawa Timur,Bondowoso,Cermee,Bajuran,68286,25000,STD,reguler
+1560,Ninja Xpress,40135,Jawa Timur,Bondowoso,Curahdami,Curahdami,68251,25000,STD,reguler
+1561,Ninja Xpress,40135,Jawa Timur,Bondowoso,Grujugan,Dadapan,68261,25000,STD,reguler
+1562,Ninja Xpress,40135,Jawa Timur,Bondowoso,JAMBESARI DARUS SHOLAH,Grujugan Lor,68261,25000,STD,reguler
+1563,Ninja Xpress,40135,Jawa Timur,Bondowoso,Klabang,Sumbersuko,68284,25000,STD,reguler
+1564,Ninja Xpress,40135,Jawa Timur,Bondowoso,Maesan,Gambangan,68262,25000,STD,reguler
+1565,Ninja Xpress,40135,Jawa Timur,Bondowoso,Prajekan,Bandilan,68285,25000,STD,reguler
+1566,Ninja Xpress,40135,Jawa Timur,Bondowoso,Pujer,Kejayan,68271,25000,STD,reguler
+1567,Ninja Xpress,40135,Jawa Timur,Bondowoso,Sempol,Jampit,68288,25000,STD,reguler
+1568,Ninja Xpress,40135,Jawa Timur,Bondowoso,Sukosari,Kerang,68287,25000,STD,reguler
+1569,Ninja Xpress,40135,Jawa Timur,Bondowoso,Sumber Wringin,Rejoagung,68287,25000,STD,reguler
+1570,Ninja Xpress,40135,Jawa Timur,Bondowoso,Taman Krocok,Gentong,68291,25000,STD,reguler
+1571,Ninja Xpress,40135,Jawa Timur,Bondowoso,Tamanan,Kalianyar,68263,25000,STD,reguler
+1572,Ninja Xpress,40135,Jawa Timur,Bondowoso,Tapen,Cindogo,68283,25000,STD,reguler
+1573,Ninja Xpress,40135,Jawa Timur,Bondowoso,Tegalampel,Karanganyar,68291,25000,STD,reguler
+1574,Ninja Xpress,40135,Jawa Timur,Bondowoso,Tenggarang,Bataan,68281,25000,STD,reguler
+1575,Ninja Xpress,40135,Jawa Timur,Bondowoso,Tlogosari,Gunosari,68272,25000,STD,reguler
+1576,Ninja Xpress,40135,Jawa Timur,Bondowoso,Wringin,Ambulu,68252,25000,STD,reguler
+1577,Ninja Xpress,40135,Jawa Timur,Bondowoso,Pakem,Andungsari,68253,25000,STD,reguler
+1578,Ninja Xpress,40135,Jawa Timur,Bondowoso,Wonosari,Bendoarum,68282,25000,STD,reguler
+1579,Ninja Xpress,40135,Jawa Timur,Gresik,BALONGPANGGANG,Tanah Landean,61173,19800,STD,reguler
+1580,Ninja Xpress,40135,Jawa Timur,Gresik,Benjeng,Balongmojo,61172,19800,STD,reguler
+1581,Ninja Xpress,40135,Jawa Timur,Gresik,Bungah,Bedanten,61152,19800,STD,reguler
+1582,Ninja Xpress,40135,Jawa Timur,Gresik,Cerme,Banjarsari,61171,19800,STD,reguler
+1583,Ninja Xpress,40135,Jawa Timur,Gresik,Driyorejo,Wedoroanom,61177,19800,STD,reguler
+1584,Ninja Xpress,40135,Jawa Timur,Gresik,DUDUKSAMPEYAN,Kramat Kulon,61162,19800,STD,reguler
+1585,Ninja Xpress,40135,Jawa Timur,Gresik,Dukun,Babakbawo,61155,19800,STD,reguler
+1586,Ninja Xpress,40135,Jawa Timur,Gresik,Gresik,Patereman,61111,19800,STD,reguler
+1587,Ninja Xpress,40135,Jawa Timur,Gresik,Kebomas,Dahanrejo,61124,19800,STD,reguler
+1588,Ninja Xpress,40135,Jawa Timur,Gresik,Kedamean,Cermenlerek,61175,19800,STD,reguler
+1589,Ninja Xpress,40135,Jawa Timur,Gresik,Manyar,Manyar Sido Mukti,61151,19800,STD,reguler
+1590,Ninja Xpress,40135,Jawa Timur,Gresik,Menganti,Beton,61174,19800,STD,reguler
+1591,Ninja Xpress,40135,Jawa Timur,Gresik,Panceng,Sukowati,61156,19800,STD,reguler
+1592,Ninja Xpress,40135,Jawa Timur,Gresik,Sangkapura,Kota Kusuma,61181,17800,STD,reguler
+1593,Ninja Xpress,40135,Jawa Timur,Gresik,Sidayu,Asempapak,61153,19800,STD,reguler
+1594,Ninja Xpress,40135,Jawa Timur,Gresik,Tambak,Diponggo,61182,17800,STD,reguler
+1595,Ninja Xpress,40135,Jawa Timur,Gresik,UJUNGPANGKAH,Tambak,61154,19800,STD,reguler
+1596,Ninja Xpress,40135,Jawa Timur,Gresik,WRINGINANOM,Guranganyar,61176,19800,STD,reguler
+1597,Ninja Xpress,40135,Jawa Timur,Jember,Ajung,Ajung,68175,21000,STD,reguler
+1598,Ninja Xpress,40135,Jawa Timur,Jember,Ambulu,Ambulu,68172,21000,STD,reguler
+1599,Ninja Xpress,40135,Jawa Timur,Jember,Balung,Curahlele,68161,21000,STD,reguler
+1600,Ninja Xpress,40135,Jawa Timur,Jember,Bangsalsari,Badean,68154,21000,STD,reguler
+1601,Ninja Xpress,40135,Jawa Timur,Jember,Gumuk Mas,Mayangan,68165,21000,STD,reguler
+1602,Ninja Xpress,40135,Jawa Timur,Jember,Jelbuk,Jelbuk,68192,21000,STD,reguler
+1603,Ninja Xpress,40135,Jawa Timur,Jember,Jenggawah,Cangkring,68171,21000,STD,reguler
+1604,Ninja Xpress,40135,Jawa Timur,Jember,Kalisat,Ajung,68193,21000,STD,reguler
+1605,Ninja Xpress,40135,Jawa Timur,Jember,Kaliwates,Kaliwates,68133,21000,STD,reguler
+1606,Ninja Xpress,40135,Jawa Timur,Jember,Kencong,Cakru,68167,21000,STD,reguler
+1607,Ninja Xpress,40135,Jawa Timur,Jember,Ledokombo,Ledokombo,68196,21000,STD,reguler
+1608,Ninja Xpress,40135,Jawa Timur,Jember,Mayang,Tegal Waru,68182,21000,STD,reguler
+1609,Ninja Xpress,40135,Jawa Timur,Jember,Mumbulsari,Karang Kedawung,68174,21000,STD,reguler
+1610,Ninja Xpress,40135,Jawa Timur,Jember,Pakusari,Bedadung,68181,21000,STD,reguler
+1611,Ninja Xpress,40135,Jawa Timur,Jember,Patrang,Jember Lor,68118,21000,STD,reguler
+1612,Ninja Xpress,40135,Jawa Timur,Jember,Puger,Bagon,68164,21000,STD,reguler
+1613,Ninja Xpress,40135,Jawa Timur,Jember,Rambipuji,Curahmalang,68152,21000,STD,reguler
+1614,Ninja Xpress,40135,Jawa Timur,Jember,Semboro,Semboro,68157,21000,STD,reguler
+1615,Ninja Xpress,40135,Jawa Timur,Jember,Silo,Garahan,68184,21000,STD,reguler
+1616,Ninja Xpress,40135,Jawa Timur,Jember,Sukorambi,Jubung,68151,21000,STD,reguler
+1617,Ninja Xpress,40135,Jawa Timur,Jember,Sukowono,Arjasa,68194,21000,STD,reguler
+1618,Ninja Xpress,40135,Jawa Timur,Jember,Sumber Baru,Yosorati,68156,21000,STD,reguler
+1619,Ninja Xpress,40135,Jawa Timur,Jember,SUMBERJAMBE,Cumedak,68195,21000,STD,reguler
+1620,Ninja Xpress,40135,Jawa Timur,Jember,SUMBERSARI,Antirogo,68125,21000,STD,reguler
+1621,Ninja Xpress,40135,Jawa Timur,Jember,Tanggul,Darungan,68155,21000,STD,reguler
+1622,Ninja Xpress,40135,Jawa Timur,Jember,Tempurejo,Andongrejo,68173,21000,STD,reguler
+1623,Ninja Xpress,40135,Jawa Timur,Jember,Umbulsari,Tegal Wangi,68166,21000,STD,reguler
+1624,Ninja Xpress,40135,Jawa Timur,Jember,Wuluhan,Ampel,68162,21000,STD,reguler
+1625,Ninja Xpress,40135,Jawa Timur,Jember,Arjasa,Arjasa,68191,21000,STD,reguler
+1626,Ninja Xpress,40135,Jawa Timur,Jember,Jombang,Jombang,68168,21000,STD,reguler
+1627,Ninja Xpress,40135,Jawa Timur,Jember,Panti,Glagahwero,68153,21000,STD,reguler
+1628,Ninja Xpress,40135,Jawa Timur,Jombang,Kesamben,Blimbing,61484,29000,STD,reguler
+1629,Ninja Xpress,40135,Jawa Timur,Jombang,Bandar Kedung Mulyo,Mojokambang,61462,29000,STD,reguler
+1630,Ninja Xpress,40135,Jawa Timur,Jombang,Bareng,Banjaragung,61474,29000,STD,reguler
+1631,Ninja Xpress,40135,Jawa Timur,Jombang,Diwek,Bandung,61471,29000,STD,reguler
+1632,Ninja Xpress,40135,Jawa Timur,Jombang,Gudo,Blimbing,61463,29000,STD,reguler
+1633,Ninja Xpress,40135,Jawa Timur,Jombang,Jogoroto,Janti,61485,29000,STD,reguler
+1634,Ninja Xpress,40135,Jawa Timur,Jombang,Kabuh,Banjar Dowo,61455,29000,STD,reguler
+1635,Ninja Xpress,40135,Jawa Timur,Jombang,Kudu,Perhutani,61454,29000,STD,reguler
+1636,Ninja Xpress,40135,Jawa Timur,Jombang,Megaluh,Balonggemek,61457,29000,STD,reguler
+1637,Ninja Xpress,40135,Jawa Timur,Jombang,Mojoagung,Betek,61482,29000,STD,reguler
+1638,Ninja Xpress,40135,Jawa Timur,Jombang,Mojowarno,Gedangan,61475,29000,STD,reguler
+1639,Ninja Xpress,40135,Jawa Timur,Jombang,Ngoro,Badang,61473,29000,STD,reguler
+1640,Ninja Xpress,40135,Jawa Timur,Jombang,Ngusikan,Cupak,61454,29000,STD,reguler
+1641,Ninja Xpress,40135,Jawa Timur,Jombang,Perak,Cangkringrandu,61461,29000,STD,reguler
+1642,Ninja Xpress,40135,Jawa Timur,Jombang,Peterongan,Bongkot,61481,29000,STD,reguler
+1643,Ninja Xpress,40135,Jawa Timur,Jombang,Plandaan,Bangsri,61456,29000,STD,reguler
+1644,Ninja Xpress,40135,Jawa Timur,Jombang,Ploso,Bawangan,61453,29000,STD,reguler
+1645,Ninja Xpress,40135,Jawa Timur,Jombang,Sumobito,Badas,61483,29000,STD,reguler
+1646,Ninja Xpress,40135,Jawa Timur,Jombang,Tembelang,Gabusbanaran,61452,29000,STD,reguler
+1647,Ninja Xpress,40135,Jawa Timur,Jombang,Jombang,Denanyar,61416,29000,STD,reguler
+1648,Ninja Xpress,40135,Jawa Timur,Jombang,Wonosalam,Carangwulung,61476,29000,STD,reguler
+1649,Ninja Xpress,40135,Jawa Timur,Kediri Kota,Mojoroto,Banjar Melati (Banjarmlati),64119,20000,STD,reguler
+1650,Ninja Xpress,40135,Jawa Timur,Kediri Kota,Pesantren,Tempurejo,64138,20000,STD,reguler
+1651,,40135,Jawa Timur,Kediri Kota,Kediri,Manisrenggo,64128,,,reguler
+1652,Ninja Xpress,40135,Jawa Timur,Lamongan,Glagah,Bangkok,62292,18000,STD,reguler
+1653,Ninja Xpress,40135,Jawa Timur,Lamongan,Babat,Sumur Genuk,62271,18000,STD,reguler
+1654,Ninja Xpress,40135,Jawa Timur,Lamongan,Bluluk,Banjargondang,62274,18000,STD,reguler
+1655,Ninja Xpress,40135,Jawa Timur,Lamongan,Brondong,Brengkok,62263,18000,STD,reguler
+1656,Ninja Xpress,40135,Jawa Timur,Lamongan,Deket,Babatagung,62291,19800,STD,reguler
+1657,Ninja Xpress,40135,Jawa Timur,Lamongan,Kalitengah,Blajo,62255,18000,STD,reguler
+1658,Ninja Xpress,40135,Jawa Timur,Lamongan,Karang Geneng,Bantengputih,62254,18000,STD,reguler
+1659,Ninja Xpress,40135,Jawa Timur,Lamongan,Karangbinangun,Banjarejo,62293,18000,STD,reguler
+1660,Ninja Xpress,40135,Jawa Timur,Lamongan,Kedungpring,Blawirejo,62272,18000,STD,reguler
+1661,Ninja Xpress,40135,Jawa Timur,Lamongan,Kembangbahu,Doyomulyo,62282,18000,STD,reguler
+1662,Ninja Xpress,40135,Jawa Timur,Lamongan,Lamongan,Banjarmendalan,62212,18000,STD,reguler
+1663,Ninja Xpress,40135,Jawa Timur,Lamongan,Laren,Brangsi,62262,18000,STD,reguler
+1664,Ninja Xpress,40135,Jawa Timur,Lamongan,Maduran,Blumbang,62261,18000,STD,reguler
+1665,Ninja Xpress,40135,Jawa Timur,Lamongan,Mantup,Kedukbembem,62283,18000,STD,reguler
+1666,Ninja Xpress,40135,Jawa Timur,Lamongan,Modo,Jatipayak,62275,18000,STD,reguler
+1667,Ninja Xpress,40135,Jawa Timur,Lamongan,Ngimbang,Cerme,62273,18000,STD,reguler
+1668,Ninja Xpress,40135,Jawa Timur,Lamongan,Paciran,Banjarwati,62264,18000,STD,reguler
+1669,Ninja Xpress,40135,Jawa Timur,Lamongan,Pucuk,Babatkumpul,62257,18000,STD,reguler
+1670,Ninja Xpress,40135,Jawa Timur,Lamongan,Sambeng,Ardirejo,62284,18000,STD,reguler
+1671,Ninja Xpress,40135,Jawa Timur,Lamongan,Sarirejo,Dermo Lemahbang,62281,18000,STD,reguler
+1672,Ninja Xpress,40135,Jawa Timur,Lamongan,Sekaran,Besur,62261,18000,STD,reguler
+1673,Ninja Xpress,40135,Jawa Timur,Lamongan,Solokuro,Banyubang,62265,18000,STD,reguler
+1674,Ninja Xpress,40135,Jawa Timur,Lamongan,Sugio,Karang Sambigalih,62256,18000,STD,reguler
+1675,Ninja Xpress,40135,Jawa Timur,Lamongan,Sukodadi,Bandungsari,62253,18000,STD,reguler
+1676,Ninja Xpress,40135,Jawa Timur,Lamongan,Sukorame,Banggle,62276,18000,STD,reguler
+1677,Ninja Xpress,40135,Jawa Timur,Lamongan,Tikung,Bakalanpule,62281,18000,STD,reguler
+1678,Ninja Xpress,40135,Jawa Timur,Lamongan,Turi,Badurame,62252,18000,STD,reguler
+1679,Ninja Xpress,40135,Jawa Timur,Lumajang,Candipuro,Candipuro,67373,29000,STD,reguler
+1680,Ninja Xpress,40135,Jawa Timur,Lumajang,Gucialit,Dadapan,67353,29000,STD,reguler
+1681,Ninja Xpress,40135,Jawa Timur,Lumajang,Jatiroto,Banyuputih Kidul,67355,29000,STD,reguler
+1682,Ninja Xpress,40135,Jawa Timur,Lumajang,Kedungjajang,Bandaran,67358,29000,STD,reguler
+1683,Ninja Xpress,40135,Jawa Timur,Lumajang,Klakah,Duren,67356,29000,STD,reguler
+1684,Ninja Xpress,40135,Jawa Timur,Lumajang,Kunir,Dorogowok,67383,29000,STD,reguler
+1685,Ninja Xpress,40135,Jawa Timur,Lumajang,Lumajang,Banjarwaru,67316,29000,STD,reguler
+1686,Ninja Xpress,40135,Jawa Timur,Lumajang,Padang,Babakan,67352,29000,STD,reguler
+1687,Ninja Xpress,40135,Jawa Timur,Lumajang,Pasirian,Bades,67372,29000,STD,reguler
+1688,Ninja Xpress,40135,Jawa Timur,Lumajang,Pasrujambe/pasujambe,Karanganom,67361,29000,STD,reguler
+1689,Ninja Xpress,40135,Jawa Timur,Lumajang,Pronojiwo,Pronojiwo,67374,29000,STD,reguler
+1690,Ninja Xpress,40135,Jawa Timur,Lumajang,Randuagung,Banyuputih Lor,67354,29000,STD,reguler
+1691,Ninja Xpress,40135,Jawa Timur,Lumajang,Ranuyoso,Jenggrong,67357,29000,STD,reguler
+1692,Ninja Xpress,40135,Jawa Timur,Lumajang,Rowokangkung,Dawuan Wetan,67359,29000,STD,reguler
+1693,Ninja Xpress,40135,Jawa Timur,Lumajang,Senduro,Argosari,67361,29000,STD,reguler
+1694,Ninja Xpress,40135,Jawa Timur,Lumajang,Sukodono,Bondoyudo,67352,29000,STD,reguler
+1695,Ninja Xpress,40135,Jawa Timur,Lumajang,Sumbersuko,Grati,67316,29000,STD,reguler
+1696,Ninja Xpress,40135,Jawa Timur,Lumajang,Tekung,Karangbendo,67381,29000,STD,reguler
+1697,Ninja Xpress,40135,Jawa Timur,Lumajang,Tempeh,Besuk,67371,29000,STD,reguler
+1698,Ninja Xpress,40135,Jawa Timur,Lumajang,Tempursari,Bulurejo,67375,29000,STD,reguler
+1699,Ninja Xpress,40135,Jawa Timur,Lumajang,Yosowilangun,Darungan,67382,29000,STD,reguler
+1700,Ninja Xpress,40135,Jawa Timur,Madiun Kota,Kartoharjo,Tawangrejo,63113,20000,STD,reguler
+1701,Ninja Xpress,40135,Jawa Timur,Madiun Kota,Manguharjo,Nambangan Kidul,63128,20000,STD,reguler
+1702,Ninja Xpress,40135,Jawa Timur,Madiun Kota,Taman,Pandean,63133,20000,STD,reguler
+1703,Ninja Xpress,40135,Jawa Timur,Magetan,Barat,Bangunasri,63395,21000,STD,reguler
+1704,Ninja Xpress,40135,Jawa Timur,Magetan,Bendo,Belotan,63384,21000,STD,reguler
+1705,Ninja Xpress,40135,Jawa Timur,Magetan,Karangrejo,Baluk,63395,21000,STD,reguler
+1706,Ninja Xpress,40135,Jawa Timur,Magetan,Kartoharjo (Kertoharjo),Pencol,63395,21000,STD,reguler
+1707,Ninja Xpress,40135,Jawa Timur,Magetan,Kawedanan,Balerejo,63382,21000,STD,reguler
+1708,Ninja Xpress,40135,Jawa Timur,Magetan,Lembeyan,Dukuh,63372,21000,STD,reguler
+1709,Ninja Xpress,40135,Jawa Timur,Magetan,Magetan,Baron,63319,21000,STD,reguler
+1710,Ninja Xpress,40135,Jawa Timur,Magetan,Maospati,Gulun,63392,21000,STD,reguler
+1711,Ninja Xpress,40135,Jawa Timur,Magetan,Ngariboyo,Baleasri,63351,21000,STD,reguler
+1712,Ninja Xpress,40135,Jawa Timur,Magetan,Panekan,Banjarejo,63352,21000,STD,reguler
+1713,Ninja Xpress,40135,Jawa Timur,Magetan,Parang,Bungkuk,63371,21000,STD,reguler
+1714,Ninja Xpress,40135,Jawa Timur,Magetan,Plaosan,Bogoarum,63361,21000,STD,reguler
+1715,Ninja Xpress,40135,Jawa Timur,Magetan,Poncol,Alastuwo,63362,21000,STD,reguler
+1716,Ninja Xpress,40135,Jawa Timur,Magetan,Takeran,Duyung,63383,21000,STD,reguler
+1717,Ninja Xpress,40135,Jawa Timur,Magetan,Karas,Botok,63395,21000,STD,reguler
+1718,Ninja Xpress,40135,Jawa Timur,Magetan,Nguntoronadi,Driyorejo,63383,21000,STD,reguler
+1719,Ninja Xpress,40135,Jawa Timur,Magetan,Sidorejo,Campursari,63319,21000,STD,reguler
+1720,Ninja Xpress,40135,Jawa Timur,Magetan,Sukomoro,Bandar,63391,21000,STD,reguler
+1721,Ninja Xpress,40135,Jawa Timur,Malang Kota,Blimbing,Polowijen,65126,20000,STD,reguler
+1722,Ninja Xpress,40135,Jawa Timur,Malang Kota,Kedungkandang,Cemorokandang,65138,20000,STD,reguler
+1723,Ninja Xpress,40135,Jawa Timur,Malang Kota,Klojen,Kasin,65117,20000,STD,reguler
+1724,Ninja Xpress,40135,Jawa Timur,Malang Kota,Lowokwaru,Jatimulyo,65141,20000,STD,reguler
+1725,Ninja Xpress,40135,Jawa Timur,Malang Kota,Sukun,Bandulan,65146,20000,STD,reguler
+1726,Ninja Xpress,40135,Jawa Timur,Mojokerto Kota,Magersari,Balongsari,61314,20000,STD,reguler
+1727,Ninja Xpress,40135,Jawa Timur,Mojokerto Kota,Prajurit Kulon,Surodinawan,61328,20000,STD,reguler
+1728,,40135,Jawa Timur,Mojokerto Kota,Kranggan,Purwotengah,61311,,,reguler
+1729,Ninja Xpress,40135,Jawa Timur,Nganjuk,Bagor,Sugih Waras,64461,29000,STD,reguler
+1730,Ninja Xpress,40135,Jawa Timur,Nganjuk,Baron,Baron,64394,29000,STD,reguler
+1731,Ninja Xpress,40135,Jawa Timur,Nganjuk,Berbek,Balongrejo,64473,29000,STD,reguler
+1732,Ninja Xpress,40135,Jawa Timur,Nganjuk,Jatikalen,Dluru,64392,29000,STD,reguler
+1733,Ninja Xpress,40135,Jawa Timur,Nganjuk,Kertosono,Banaran,64311,29000,STD,reguler
+1734,Ninja Xpress,40135,Jawa Timur,Nganjuk,Lengkong,Jatipunggur,64393,29000,STD,reguler
+1735,Ninja Xpress,40135,Jawa Timur,Nganjuk,Loceret,Bajulan,64471,29000,STD,reguler
+1736,Ninja Xpress,40135,Jawa Timur,Nganjuk,Nganjuk,Begadung,64413,29000,STD,reguler
+1737,Ninja Xpress,40135,Jawa Timur,Nganjuk,Ngetos,Blongko,64474,29000,STD,reguler
+1738,Ninja Xpress,40135,Jawa Timur,Nganjuk,Ngluyu,Bajang,64452,29000,STD,reguler
+1739,Ninja Xpress,40135,Jawa Timur,Nganjuk,Ngronggot,Banjarsari,64395,29000,STD,reguler
+1740,Ninja Xpress,40135,Jawa Timur,Nganjuk,Pace,Babadan,64472,29000,STD,reguler
+1741,Ninja Xpress,40135,Jawa Timur,Nganjuk,Patianrowo,Babadan,64391,29000,STD,reguler
+1742,Ninja Xpress,40135,Jawa Timur,Nganjuk,Sawahan,Bareng,64475,29000,STD,reguler
+1743,Ninja Xpress,40135,Jawa Timur,Nganjuk,Sukomoro,Bagor Wetan,64481,29000,STD,reguler
+1744,Ninja Xpress,40135,Jawa Timur,Nganjuk,Tanjunganom,Banjaranyar,64482,29000,STD,reguler
+1745,Ninja Xpress,40135,Jawa Timur,Nganjuk,Wilangan,Mancon,64462,29000,STD,reguler
+1746,Ninja Xpress,40135,Jawa Timur,Nganjuk,Rejoso,Banjarejo,64453,29000,STD,reguler
+1747,Ninja Xpress,40135,Jawa Timur,Nganjuk,Gondang,Balonggebang,64451,29000,STD,reguler
+1748,Ninja Xpress,40135,Jawa Timur,Nganjuk,Prambon,Baleturi,64484,29000,STD,reguler
+1749,Ninja Xpress,40135,Jawa Timur,Ngawi,Bringin,Bringin,63285,25000,STD,reguler
+1750,Ninja Xpress,40135,Jawa Timur,Ngawi,Geneng,Baderan,63271,25000,STD,reguler
+1751,Ninja Xpress,40135,Jawa Timur,Ngawi,Gerih,Gerih,63271,25000,STD,reguler
+1752,Ninja Xpress,40135,Jawa Timur,Ngawi,Jogorogo,Brubuh,63262,25000,STD,reguler
+1753,Ninja Xpress,40135,Jawa Timur,Ngawi,Karanganyar,Bangunrejo,63257,25000,STD,reguler
+1754,Ninja Xpress,40135,Jawa Timur,Ngawi,Karangjati,Brangol,63284,25000,STD,reguler
+1755,Ninja Xpress,40135,Jawa Timur,Ngawi,Kasreman,Cangakan,63281,25000,STD,reguler
+1756,Ninja Xpress,40135,Jawa Timur,Ngawi,Kedunggalar,Bangunrejo Kidul,63254,25000,STD,reguler
+1757,Ninja Xpress,40135,Jawa Timur,Ngawi,Kendal,Dadapan,63261,25000,STD,reguler
+1758,Ninja Xpress,40135,Jawa Timur,Ngawi,Kwadungan,Banget,63283,25000,STD,reguler
+1759,Ninja Xpress,40135,Jawa Timur,Ngawi,Mantingan,Jatimulyo,63261,25000,STD,reguler
+1760,Ninja Xpress,40135,Jawa Timur,Ngawi,Ngawi,Beran,63216,25000,STD,reguler
+1761,Ninja Xpress,40135,Jawa Timur,Ngawi,Ngrambe,Babadan,63263,25000,STD,reguler
+1762,Ninja Xpress,40135,Jawa Timur,Ngawi,Padas,Bendo,63281,25000,STD,reguler
+1763,Ninja Xpress,40135,Jawa Timur,Ngawi,Pangkur,Babadan,63282,25000,STD,reguler
+1764,Ninja Xpress,40135,Jawa Timur,Ngawi,Paron,Babadan,63253,25000,STD,reguler
+1765,Ninja Xpress,40135,Jawa Timur,Ngawi,Pitu,Bangunrejo Lor,63252,25000,STD,reguler
+1766,Ninja Xpress,40135,Jawa Timur,Ngawi,Sine,Gendol,63264,25000,STD,reguler
+1767,Ninja Xpress,40135,Jawa Timur,Ngawi,Widodaren,Gendingan,63256,25000,STD,reguler
+1768,Ninja Xpress,40135,Jawa Timur,Pacitan,Arjosari,Arjosari,63581,29000,STD,reguler
+1769,Ninja Xpress,40135,Jawa Timur,Pacitan,Bandar,Bandar,63583,29000,STD,reguler
+1770,Ninja Xpress,40135,Jawa Timur,Pacitan,KEBONAGUNG,Banjarjo,63561,29000,STD,reguler
+1771,Ninja Xpress,40135,Jawa Timur,Pacitan,Nawangan,Gondang,63584,29000,STD,reguler
+1772,Ninja Xpress,40135,Jawa Timur,Pacitan,Ngadirojo,Wonodadi Kidul,63572,29000,STD,reguler
+1773,Ninja Xpress,40135,Jawa Timur,Pacitan,Pacitan,Arjowinangun,63516,29000,STD,reguler
+1774,Ninja Xpress,40135,Jawa Timur,Pacitan,Pringkuku,Candi,63552,29000,STD,reguler
+1775,Ninja Xpress,40135,Jawa Timur,Pacitan,Punung,Bomo,63553,29000,STD,reguler
+1776,Ninja Xpress,40135,Jawa Timur,Pacitan,Sudimoro,Ketanggung,63573,29000,STD,reguler
+1777,Ninja Xpress,40135,Jawa Timur,Pacitan,Tegalombo,Ngreco (Ngereco),63582,29000,STD,reguler
+1778,Ninja Xpress,40135,Jawa Timur,Pacitan,Tulakan,Bubakan,63571,29000,STD,reguler
+1779,Ninja Xpress,40135,Jawa Timur,Pacitan,Donorojo,Sekar,63554,29000,STD,reguler
+1780,Ninja Xpress,40135,Jawa Timur,Pamekasan,Batumarmar,Batu Bintang,69354,18000,STD,reguler
+1781,Ninja Xpress,40135,Jawa Timur,Pamekasan,Galis,Artodung,69382,18000,STD,reguler
+1782,Ninja Xpress,40135,Jawa Timur,Pamekasan,Kadur,Bangkes,69355,18000,STD,reguler
+1783,Ninja Xpress,40135,Jawa Timur,Pamekasan,Pademawu,Baddurih,69323,18000,STD,reguler
+1784,Ninja Xpress,40135,Jawa Timur,Pamekasan,Pakong,Bajang,69352,18000,STD,reguler
+1785,Ninja Xpress,40135,Jawa Timur,Pamekasan,PALENGAAN,Palengaan Laok,69362,18000,STD,reguler
+1786,Ninja Xpress,40135,Jawa Timur,Pamekasan,Pamekasan,Bettet,69317,18000,STD,reguler
+1787,Ninja Xpress,40135,Jawa Timur,Pamekasan,Pasean,Batukerbuy,69356,18000,STD,reguler
+1788,Ninja Xpress,40135,Jawa Timur,Pamekasan,Pegantenan,Tlagah (Talagah),69361,18000,STD,reguler
+1789,Ninja Xpress,40135,Jawa Timur,Pamekasan,Proppo,Gro'Om,69363,18000,STD,reguler
+1790,Ninja Xpress,40135,Jawa Timur,Pamekasan,Tlanakan,Ambat,69371,18000,STD,reguler
+1791,Ninja Xpress,40135,Jawa Timur,Pamekasan,Larangan,Blumbungan,69383,18000,STD,reguler
+1792,Ninja Xpress,40135,Jawa Timur,Pamekasan,Waru,Bajur,69353,18000,STD,reguler
+1793,Ninja Xpress,40135,Jawa Timur,Pasuruan Kota,Bugul Kidul,Tapaan,67129,20000,STD,reguler
+1794,Ninja Xpress,40135,Jawa Timur,Pasuruan Kota,Gadingrejo,Randusari,67136,20000,STD,reguler
+1795,,40135,Jawa Timur,Pasuruan Kota,Panggungrejo,Tambaan,67133,,,reguler
+1796,Ninja Xpress,40135,Jawa Timur,Pasuruan Kota,Purworejo,Purworejo,67115,20000,STD,reguler
+1797,Ninja Xpress,40135,Jawa Timur,Ponorogo,Babadan,Babadan,63491,29000,STD,reguler
+1798,Ninja Xpress,40135,Jawa Timur,Ponorogo,Badegan,Badegan,63455,29000,STD,reguler
+1799,Ninja Xpress,40135,Jawa Timur,Ponorogo,Balong,Bajang,63461,29000,STD,reguler
+1800,Ninja Xpress,40135,Jawa Timur,Ponorogo,Bungkal,Bancar,63462,29000,STD,reguler
+1801,Ninja Xpress,40135,Jawa Timur,Ponorogo,Jambon,Blembem,63456,29000,STD,reguler
+1802,Ninja Xpress,40135,Jawa Timur,Ponorogo,Jenangan,Jenangan,63492,29000,STD,reguler
+1803,Ninja Xpress,40135,Jawa Timur,Ponorogo,Mlarak,Tugu (Tugurejo),63472,29000,STD,reguler
+1804,Ninja Xpress,40135,Jawa Timur,Ponorogo,Ngebel,Gondowido,63493,29000,STD,reguler
+1805,Ninja Xpress,40135,Jawa Timur,Ponorogo,Ngrayun,Ngrayun (Ngerayun),63464,29000,STD,reguler
+1806,Ninja Xpress,40135,Jawa Timur,Ponorogo,Ponorogo,Sinduro,63417,29000,STD,reguler
+1807,Ninja Xpress,40135,Jawa Timur,Ponorogo,Pudak,Bareng,63418,29000,STD,reguler
+1808,Ninja Xpress,40135,Jawa Timur,Ponorogo,Pulung,Banaran,63481,29000,STD,reguler
+1809,Ninja Xpress,40135,Jawa Timur,Ponorogo,Sambit,Nglewan (Ngelewan),63474,29000,STD,reguler
+1810,Ninja Xpress,40135,Jawa Timur,Ponorogo,Sampung,Gelangkulon,63454,29000,STD,reguler
+1811,Ninja Xpress,40135,Jawa Timur,Ponorogo,Sawoo,Bondrang,63475,29000,STD,reguler
+1812,Ninja Xpress,40135,Jawa Timur,Ponorogo,Siman,Beton,63471,29000,STD,reguler
+1813,Ninja Xpress,40135,Jawa Timur,Ponorogo,Slahung,Broto,63463,29000,STD,reguler
+1814,Ninja Xpress,40135,Jawa Timur,Ponorogo,Kauman,Bringin,63451,29000,STD,reguler
+1815,Ninja Xpress,40135,Jawa Timur,Ponorogo,Jetis,Coper,63473,29000,STD,reguler
+1816,Ninja Xpress,40135,Jawa Timur,Ponorogo,Sooko,Suru (Seru),63482,29000,STD,reguler
+1817,Ninja Xpress,40135,Jawa Timur,Ponorogo,Sukorejo,Carat,63453,29000,STD,reguler
+1818,Ninja Xpress,40135,Jawa Timur,Probolinggo Kota,Kanigaran,Curahgrinting,67212,20000,STD,reguler
+1819,Ninja Xpress,40135,Jawa Timur,Probolinggo Kota,Kedopok (Kedopak),Jrebeng Wetan,67239,20000,STD,reguler
+1820,Ninja Xpress,40135,Jawa Timur,Probolinggo Kota,Mayangan,Jati,67217,20000,STD,reguler
+1821,Ninja Xpress,40135,Jawa Timur,Probolinggo Kota,Wonoasih,Jrebeng Kidul,67233,20000,STD,reguler
+1822,Ninja Xpress,40135,Jawa Timur,Probolinggo Kota,Kademangan,Pohsangit Kidul,67226,20000,STD,reguler
+1823,Ninja Xpress,40135,Jawa Timur,Sampang,Banyuates,Asem Jaran,69263,27000,STD,reguler
+1824,Ninja Xpress,40135,Jawa Timur,Sampang,Camplong,Anggersek,69281,27000,STD,reguler
+1825,Ninja Xpress,40135,Jawa Timur,Sampang,Jrengik,Bancelok,69272,27000,STD,reguler
+1826,Ninja Xpress,40135,Jawa Timur,Sampang,Karang Penang,Bulmatet,69254,27000,STD,reguler
+1827,Ninja Xpress,40135,Jawa Timur,Sampang,Kedungdung,Banjar,69252,27000,STD,reguler
+1828,Ninja Xpress,40135,Jawa Timur,Sampang,Omben,Angsokah,69291,27000,STD,reguler
+1829,Ninja Xpress,40135,Jawa Timur,Sampang,Pangarengan,Gulbung,69271,27000,STD,reguler
+1830,Ninja Xpress,40135,Jawa Timur,Sampang,Robatal,Bapelle,69254,27000,STD,reguler
+1831,Ninja Xpress,40135,Jawa Timur,Sampang,Sokobanah,Bira Tengah,69262,27000,STD,reguler
+1832,Ninja Xpress,40135,Jawa Timur,Sampang,Sreseh,Bangsah,69273,27000,STD,reguler
+1833,Ninja Xpress,40135,Jawa Timur,Sampang,Tambelangan,Beringin (Bringin),69253,27000,STD,reguler
+1834,Ninja Xpress,40135,Jawa Timur,Sampang,Torjun,Dulang,69271,27000,STD,reguler
+1835,Ninja Xpress,40135,Jawa Timur,Sampang,Ketapang,Banyusokah,69261,27000,STD,reguler
+1836,Ninja Xpress,40135,Jawa Timur,Sampang,Sampang,Banyuanyar,69216,27000,STD,reguler
+1837,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Prambon,Bendotretek,61264,18000,STD,reguler
+1838,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Balongbendo,Bakungtemenggungan,61263,18000,STD,reguler
+1839,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Buduran,Banjarkemantren,61252,18000,STD,reguler
+1840,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Candi,Balongdowo,61271,18000,STD,reguler
+1841,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Jabon,Balongtani,61276,18000,STD,reguler
+1842,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Krembung,Krembung,61275,18000,STD,reguler
+1843,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Krian,Krajan Timur,61262,18000,STD,reguler
+1844,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Porong,Candipari,61274,18000,STD,reguler
+1845,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Sedati,Betro,61253,18000,STD,reguler
+1846,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Sidoarjo,Banjarbendo,61225,18000,STD,reguler
+1847,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Tanggulangin,Banjarasri,61272,18000,STD,reguler
+1848,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Tarik,Balongmacekan,61265,18000,STD,reguler
+1849,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Tulangan,Gelang,61273,18000,STD,reguler
+1850,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Wonoayu,Becirongengor,61261,18000,STD,reguler
+1851,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Gedangan,Bangah,61254,18000,STD,reguler
+1852,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Sukodono,Anggaswangi,61258,18000,STD,reguler
+1853,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Taman,Bebekan,61257,18000,STD,reguler
+1854,Ninja Xpress,40135,Jawa Timur,Sidoarjo,Waru,Berbek,61256,18000,STD,reguler
+1855,Ninja Xpress,40135,Jawa Timur,Situbondo,Asembagus,Asembagus,68373,29000,STD,reguler
+1856,Ninja Xpress,40135,Jawa Timur,Situbondo,Banyuglugur,Banyuglugur,68359,29000,STD,reguler
+1857,Ninja Xpress,40135,Jawa Timur,Situbondo,Besuki,Besuki,68356,29000,STD,reguler
+1858,Ninja Xpress,40135,Jawa Timur,Situbondo,Bungatan,Bungatan,68358,29000,STD,reguler
+1859,Ninja Xpress,40135,Jawa Timur,Situbondo,Jangkar,Agel,68372,29000,STD,reguler
+1860,Ninja Xpress,40135,Jawa Timur,Situbondo,Jatibanteng,Jatibanteng,68357,29000,STD,reguler
+1861,Ninja Xpress,40135,Jawa Timur,Situbondo,Kapongan,Gebangan,68362,29000,STD,reguler
+1862,Ninja Xpress,40135,Jawa Timur,Situbondo,Kendit,Balung,68352,29000,STD,reguler
+1863,Ninja Xpress,40135,Jawa Timur,Situbondo,Mangaran,Mangaran,68363,29000,STD,reguler
+1864,Ninja Xpress,40135,Jawa Timur,Situbondo,Mlandingan,Campoan,68353,29000,STD,reguler
+1865,Ninja Xpress,40135,Jawa Timur,Situbondo,Panarukan,Duwet,68351,29000,STD,reguler
+1866,Ninja Xpress,40135,Jawa Timur,Situbondo,Panji,Ardirejo,68321,29000,STD,reguler
+1867,Ninja Xpress,40135,Jawa Timur,Situbondo,Situbondo,Dawuhan,68311,29000,STD,reguler
+1868,Ninja Xpress,40135,Jawa Timur,Situbondo,Suboh,Buduan,68354,29000,STD,reguler
+1869,Ninja Xpress,40135,Jawa Timur,Situbondo,Sumbermalang,Baderan,68355,29000,STD,reguler
+1870,Ninja Xpress,40135,Jawa Timur,Situbondo,Arjasa,Arjasa,68371,29000,STD,reguler
+1871,Ninja Xpress,40135,Jawa Timur,Situbondo,Banyuputih,Sumberanyar,68374,29000,STD,reguler
+1872,Ninja Xpress,40135,Jawa Timur,Sumenep,Ambunten,Tambak Agung Ares,69455,27000,STD,reguler
+1873,Ninja Xpress,40135,Jawa Timur,Sumenep,Arjasa,Angkatan,69491,27000,STD,reguler
+1874,Ninja Xpress,40135,Jawa Timur,Sumenep,Batang Batang,Tamedung,69473,27000,STD,reguler
+1875,Ninja Xpress,40135,Jawa Timur,Sumenep,Batuan,Batuan,69451,27000,STD,reguler
+1876,Ninja Xpress,40135,Jawa Timur,Sumenep,Batuputih,Juruan Daya,69453,27000,STD,reguler
+1877,Ninja Xpress,40135,Jawa Timur,Sumenep,Bluto,Bluto,69466,27000,STD,reguler
+1878,Ninja Xpress,40135,Jawa Timur,Sumenep,Dasuk,Ellak Lao,69454,27000,STD,reguler
+1879,Ninja Xpress,40135,Jawa Timur,Sumenep,Dungkek,Bancamara,69474,27000,STD,reguler
+1880,Ninja Xpress,40135,Jawa Timur,Sumenep,Ganding,Bataal Barat,69462,27000,STD,reguler
+1881,Ninja Xpress,40135,Jawa Timur,Sumenep,Gapura,Palokloan (Paloloan),69472,27000,STD,reguler
+1882,,40135,Jawa Timur,Sumenep,Gayam,Gayam,69483,,,reguler
+1883,,40135,Jawa Timur,Sumenep,Gili Ginting (Giligenteng),Lombang,69482,,,reguler
+1884,Ninja Xpress,40135,Jawa Timur,Sumenep,Guluk Guluk,Guluk-Guluk,69463,27000,STD,reguler
+1885,Ninja Xpress,40135,Jawa Timur,Sumenep,Kalianget,Karang Anyar,69471,27000,STD,reguler
+1886,Ninja Xpress,40135,Jawa Timur,Sumenep,Kangayan,Batuputih,69491,27000,STD,reguler
+1887,Ninja Xpress,40135,Jawa Timur,Sumenep,Kota Sumenep,Bangkal,69417,27000,STD,reguler
+1888,Ninja Xpress,40135,Jawa Timur,Sumenep,Lenteng,Banaresep Barat,69461,27000,STD,reguler
+1889,Ninja Xpress,40135,Jawa Timur,Sumenep,Manding,Jabaan,69452,27000,STD,reguler
+1890,,40135,Jawa Timur,Sumenep,Masalembu,Masakambing,69492,,,reguler
+1891,,40135,Jawa Timur,Sumenep,Nonggunong,Nonggunong,69484,,,reguler
+1892,Ninja Xpress,40135,Jawa Timur,Sumenep,Pasongsongan,Campaka,69457,27000,STD,reguler
+1893,Ninja Xpress,40135,Jawa Timur,Sumenep,Pragaan,Jaddung,69465,27000,STD,reguler
+1894,Ninja Xpress,40135,Jawa Timur,Sumenep,Rubaru,Basoka,69456,27000,STD,reguler
+1895,Ninja Xpress,40135,Jawa Timur,Sumenep,Sapeken,Pagerungan Besar,69493,27000,STD,reguler
+1896,Ninja Xpress,40135,Jawa Timur,Sumenep,Saronggi,Tanah Merah,69467,27000,STD,reguler
+1897,Ninja Xpress,40135,Jawa Timur,Sumenep,Talango,Marengan Palasa,69481,27000,STD,reguler
+1898,,40135,Jawa Timur,Sumenep,Raas,Brakas,69485,,,reguler
+1899,Ninja Xpress,40135,Jawa Timur,Surabaya,Asemrowo,Greges,60183,18000,STD,reguler
+1900,Ninja Xpress,40135,Jawa Timur,Surabaya,Benowo,Romokalisari (Babat Jerawat),60192,18000,STD,reguler
+1901,Ninja Xpress,40135,Jawa Timur,Surabaya,Bubutan,Tembok Dukuh,60173,18000,STD,reguler
+1902,Ninja Xpress,40135,Jawa Timur,Surabaya,Bulak,Bulak,60124,18000,STD,reguler
+1903,Ninja Xpress,40135,Jawa Timur,Surabaya,Dukuh Pakis,Pradahkalikendal,60226,18000,STD,reguler
+1904,Ninja Xpress,40135,Jawa Timur,Surabaya,Gayungan,Ketintang,60231,18000,STD,reguler
+1905,Ninja Xpress,40135,Jawa Timur,Surabaya,Gubeng,Gubeng,60281,18000,STD,reguler
+1906,Ninja Xpress,40135,Jawa Timur,Surabaya,GUNUNG ANYAR,Rungkut Tengah,60293,18000,STD,reguler
+1907,Ninja Xpress,40135,Jawa Timur,Surabaya,Jambangan,Jambangan,60232,18000,STD,reguler
+1908,Ninja Xpress,40135,Jawa Timur,Surabaya,KARANG PILANG,Kedurus,60223,18000,STD,reguler
+1909,Ninja Xpress,40135,Jawa Timur,Surabaya,Kenjeran,Sidotopo/Sidoropo Wetan,60128,18000,STD,reguler
+1910,Ninja Xpress,40135,Jawa Timur,Surabaya,Krembangan,Perak Barat,60177,18000,STD,reguler
+1911,Ninja Xpress,40135,Jawa Timur,Surabaya,LAKARSANTRI,Lidah Wetan,60213,18000,STD,reguler
+1912,Ninja Xpress,40135,Jawa Timur,Surabaya,Mulyorejo,Manyar Sabrangan,60116,18000,STD,reguler
+1913,Ninja Xpress,40135,Jawa Timur,Surabaya,PABEAN CANTIAN,Bongkaran,60161,18000,STD,reguler
+1914,Ninja Xpress,40135,Jawa Timur,Surabaya,Pakal,Sumberrejo (Sombe Rejo),60192,18000,STD,reguler
+1915,Ninja Xpress,40135,Jawa Timur,Surabaya,Rungkut,Kali Rungkut,60293,18000,STD,reguler
+1916,Ninja Xpress,40135,Jawa Timur,Surabaya,Sambikerep,Sambikerep,60217,18000,STD,reguler
+1917,Ninja Xpress,40135,Jawa Timur,Surabaya,Semampir,Pegirian,60153,18000,STD,reguler
+1918,Ninja Xpress,40135,Jawa Timur,Surabaya,Simokerto,Simokerto,60143,18000,STD,reguler
+1919,Ninja Xpress,40135,Jawa Timur,Surabaya,Sukomanunggal,Sonokwijenan,60189,18000,STD,reguler
+1920,Ninja Xpress,40135,Jawa Timur,Surabaya,Tambaksari,Dukuh Setro,60138,18000,STD,reguler
+1921,Ninja Xpress,40135,Jawa Timur,Surabaya,Tandes,Tandes (Kidul - Lor - Gedang Asin),60187,18000,STD,reguler
+1922,Ninja Xpress,40135,Jawa Timur,Surabaya,Tenggilis Mejoyo,Tenggilis Mejoyo,60292,18000,STD,reguler
+1923,Ninja Xpress,40135,Jawa Timur,Surabaya,Wiyung,Balas Klumprik,60222,18000,STD,reguler
+1924,Ninja Xpress,40135,Jawa Timur,Surabaya,Wonocolo,Jemur Wonosari,60237,18000,STD,reguler
+1925,Ninja Xpress,40135,Jawa Timur,Surabaya,Wonokromo,Wonokromo,60243,18000,STD,reguler
+1926,Ninja Xpress,40135,Jawa Timur,Surabaya,Genteng,Peneleh,60274,18000,STD,reguler
+1927,Ninja Xpress,40135,Jawa Timur,Surabaya,Sawahan,Petemon,60252,18000,STD,reguler
+1928,Ninja Xpress,40135,Jawa Timur,Surabaya,Sukolilo,Ngenden Jangkungan,60118,18000,STD,reguler
+1929,Ninja Xpress,40135,Jawa Timur,Surabaya,Tegalsari,Tegalsari,60262,18000,STD,reguler
+1930,Ninja Xpress,40135,Jawa Timur,Trenggalek,Bendungan,Botoputih,66351,18000,STD,reguler
+1931,Ninja Xpress,40135,Jawa Timur,Trenggalek,Dongko,Cakul,66363,18000,STD,reguler
+1932,Ninja Xpress,40135,Jawa Timur,Trenggalek,Durenan,Baruharjo,66381,18000,STD,reguler
+1933,Ninja Xpress,40135,Jawa Timur,Trenggalek,Kampak,Bendoagung,66373,18000,STD,reguler
+1934,Ninja Xpress,40135,Jawa Timur,Trenggalek,Munjungan,Bangun,66365,18000,STD,reguler
+1935,Ninja Xpress,40135,Jawa Timur,Trenggalek,Panggul,Banjar,66364,18000,STD,reguler
+1936,Ninja Xpress,40135,Jawa Timur,Trenggalek,Pogalan,Bendorejo,66371,18000,STD,reguler
+1937,Ninja Xpress,40135,Jawa Timur,Trenggalek,Pule,Joho,66362,18000,STD,reguler
+1938,Ninja Xpress,40135,Jawa Timur,Trenggalek,Trenggalek,Dawuhan,66318,18000,STD,reguler
+1939,Ninja Xpress,40135,Jawa Timur,Trenggalek,Tugu,Banaran,66318,18000,STD,reguler
+1940,Ninja Xpress,40135,Jawa Timur,Trenggalek,Watulimo,Dukuh,66382,18000,STD,reguler
+1941,Ninja Xpress,40135,Jawa Timur,Trenggalek,Karangan,Suren Lor,66361,18000,STD,reguler
+1942,Ninja Xpress,40135,Jawa Timur,Trenggalek,Suruh,Gamping,66362,18000,STD,reguler
+1943,Ninja Xpress,40135,Jawa Timur,Trenggalek,Gandusari,Gandusari,66372,18000,STD,reguler
+1944,Ninja Xpress,40135,Jawa Timur,Tuban,Bancar,Bancar,62354,18000,STD,reguler
+1945,Ninja Xpress,40135,Jawa Timur,Tuban,Bangilan,Bangilan,62364,18000,STD,reguler
+1946,Ninja Xpress,40135,Jawa Timur,Tuban,Grabagan,Banyubang,62371,18000,STD,reguler
+1947,Ninja Xpress,40135,Jawa Timur,Tuban,Jatirogo,Bader,62362,18000,STD,reguler
+1948,Ninja Xpress,40135,Jawa Timur,Tuban,Jenu,Beji,62352,18000,STD,reguler
+1949,Ninja Xpress,40135,Jawa Timur,Tuban,Kenduruan,Jamprong,62363,18000,STD,reguler
+1950,Ninja Xpress,40135,Jawa Timur,Tuban,Kerek,Gaji,62356,18000,STD,reguler
+1951,Ninja Xpress,40135,Jawa Timur,Tuban,Merakurak,Bogorejo,62355,18000,STD,reguler
+1952,Ninja Xpress,40135,Jawa Timur,Tuban,Montong,Bringin,62357,18000,STD,reguler
+1953,Ninja Xpress,40135,Jawa Timur,Tuban,Palang,Cendoro,62391,18000,STD,reguler
+1954,Ninja Xpress,40135,Jawa Timur,Tuban,Parengan,Brangkal,62366,18000,STD,reguler
+1955,Ninja Xpress,40135,Jawa Timur,Tuban,Plumpang,Bandungrejo,62382,18000,STD,reguler
+1956,Ninja Xpress,40135,Jawa Timur,Tuban,Rengel,Banjaragung,62371,18000,STD,reguler
+1957,Ninja Xpress,40135,Jawa Timur,Tuban,Semanding,Bejagung,62381,18000,STD,reguler
+1958,Ninja Xpress,40135,Jawa Timur,Tuban,Senori,Banyuurip,62365,18000,STD,reguler
+1959,Ninja Xpress,40135,Jawa Timur,Tuban,Singgahan,Laju Lor,62361,18000,STD,reguler
+1960,Ninja Xpress,40135,Jawa Timur,Tuban,Soko,Bangunrejo,62372,18000,STD,reguler
+1961,Ninja Xpress,40135,Jawa Timur,Tuban,Tambakboyo,Belikanget,62353,18000,STD,reguler
+1962,Ninja Xpress,40135,Jawa Timur,Tuban,Tuban,Baturetno,62318,18000,STD,reguler
+1963,Ninja Xpress,40135,Jawa Timur,Tuban,Widang,Sumberejo,62383,18000,STD,reguler
+1964,Ninja Xpress,40135,Jawa Timur,Tulungagung,Boyolangu,Beji,66233,18000,STD,reguler
+1965,Ninja Xpress,40135,Jawa Timur,Tulungagung,Campur Darat,Ngentrong,66272,18000,STD,reguler
+1966,Ninja Xpress,40135,Jawa Timur,Tulungagung,Gondang,Bendo,66263,18000,STD,reguler
+1967,Ninja Xpress,40135,Jawa Timur,Tulungagung,Kalidawir,Banyuurip,66281,18000,STD,reguler
+1968,Ninja Xpress,40135,Jawa Timur,Tulungagung,KARANGREJO,Babadan,66253,18000,STD,reguler
+1969,Ninja Xpress,40135,Jawa Timur,Tulungagung,Kedungwaru,Bangoan,66229,18000,STD,reguler
+1970,Ninja Xpress,40135,Jawa Timur,Tulungagung,Ngantru,Banjarsari,66252,18000,STD,reguler
+1971,Ninja Xpress,40135,Jawa Timur,Tulungagung,Ngunut,Balesono,66292,18000,STD,reguler
+1972,Ninja Xpress,40135,Jawa Timur,Tulungagung,Pagerwojo,Gambiran,66262,18000,STD,reguler
+1973,Ninja Xpress,40135,Jawa Timur,Tulungagung,Pakel,Bangunjaya,66273,18000,STD,reguler
+1974,Ninja Xpress,40135,Jawa Timur,Tulungagung,Pucanglaban,Demuk,66284,18000,STD,reguler
+1975,Ninja Xpress,40135,Jawa Timur,Tulungagung,Rejotangan,Ariyojeding,66293,18000,STD,reguler
+1976,Ninja Xpress,40135,Jawa Timur,Tulungagung,Sendang,Dono,66254,18000,STD,reguler
+1977,Ninja Xpress,40135,Jawa Timur,Tulungagung,Sumbergempol,Bendiljati Kulon,66291,18000,STD,reguler
+1978,Ninja Xpress,40135,Jawa Timur,Tulungagung,Tanggung Gunung,Jengglungharjo,66283,18000,STD,reguler
+1979,Ninja Xpress,40135,Jawa Timur,Tulungagung,Tulungagung,Bago,66218,18000,STD,reguler
+1980,Ninja Xpress,40135,Jawa Timur,Tulungagung,Bandung,Bandung,66274,18000,STD,reguler
+1981,Ninja Xpress,40135,Jawa Timur,Tulungagung,Besuki,Besole,66275,18000,STD,reguler
+1982,Ninja Xpress,40135,Jawa Timur,Tulungagung,Kauman,Balerejo,66261,18000,STD,reguler
+1983,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Bakung,Bakung,66163,29000,STD,reguler
+1984,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Binangun,Birowo,66193,29000,STD,reguler
+1985,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Doko,Plumbangan,66186,29000,STD,reguler
+1986,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Garum,Tingal,66182,29000,STD,reguler
+1987,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Kanigoro,Satreyan,66171,29000,STD,reguler
+1988,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Nglegok,Penataran,66181,29000,STD,reguler
+1989,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Ponggok,Gembongan,66153,29000,STD,reguler
+1990,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,SANANKULON,Sumberjo,66151,29000,STD,reguler
+1991,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Selopuro,Mandesan,66184,29000,STD,reguler
+1992,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Selorejo,Olak Alen,66192,29000,STD,reguler
+1993,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Srengat,Karanggayam,66152,29000,STD,reguler
+1994,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Sutojayan,Sotojayan (Sutojayan),66172,29000,STD,reguler
+1995,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Udanawu,Sukorejo,66154,29000,STD,reguler
+1996,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Wlingi,Beru,66184,29000,STD,reguler
+1997,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Wonodadi,Kunir,66155,29000,STD,reguler
+1998,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Wonotirto,Ngadipuro,66173,29000,STD,reguler
+1999,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Kademangan,Rejowinangun,66161,29000,STD,reguler
+2000,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Gandusari,Semen,66187,29000,STD,reguler
+2001,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Kesamben,Sukoanyar,66191,29000,STD,reguler
+2002,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Panggungrejo,Panggung Asri,66174,29000,STD,reguler
+2003,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Talun,Jabung,66183,29000,STD,reguler
+2004,Ninja Xpress,40135,Jawa Timur,Blitar Kabupaten,Wates,Purworejo,66194,29000,STD,reguler
+2005,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Wates,Segaran,64174,26000,STD,reguler
+2006,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Badas,Badas,64221,26000,STD,reguler
+2007,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Banyakan,Banyakan,64157,26000,STD,reguler
+2008,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Gampengrejo,Gampeng (Gamping),64182,26000,STD,reguler
+2009,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Gurah,Sukorejo,64181,26000,STD,reguler
+2010,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Kandat,Purworejo,64173,26000,STD,reguler
+2011,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Kayen Kidul,Sukoharjo,64183,26000,STD,reguler
+2012,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Kepung,Kencong,64293,26000,STD,reguler
+2013,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Kras,Jabang,64172,26000,STD,reguler
+2014,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Kunjang,Balongjeruk (Balung Jeruk),64156,26000,STD,reguler
+2015,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Mojo,Ngadi,64162,26000,STD,reguler
+2016,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Ngadiluwih,Seketi,64171,26000,STD,reguler
+2017,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Ngancar,Ngancar,64291,26000,STD,reguler
+2018,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Ngasem,Sumberjo,64182,26000,STD,reguler
+2019,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Pagu,Semanding,64183,26000,STD,reguler
+2020,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Papar,Kwaron,64153,26000,STD,reguler
+2021,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Pare,Tulungrejo,64212,26000,STD,reguler
+2022,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Plemahan,Payaman,64155,26000,STD,reguler
+2023,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Plosoklaten,Sidomulyo,64175,26000,STD,reguler
+2024,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Puncu,Gadungan,64292,26000,STD,reguler
+2025,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Purwoasri,Merjoyo,64154,26000,STD,reguler
+2026,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Ringinrejo,Nambaan,64176,26000,STD,reguler
+2027,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Semen,Selopanggung,64161,26000,STD,reguler
+2028,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Tarokan,Bulusari,64152,26000,STD,reguler
+2029,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Grogol,Sumberjo,64151,26000,STD,reguler
+2030,Ninja Xpress,40135,Jawa Timur,Kediri Kabupaten,Kandangan,Medowo,64294,26000,STD,reguler
+2031,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Balerejo,Glonggong Lor,63152,29000,STD,reguler
+2032,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Dagangan,Banjarejo,63172,29000,STD,reguler
+2033,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Dolopo,Doho,63174,29000,STD,reguler
+2034,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Gemarang,Nampu,63156,29000,STD,reguler
+2035,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Jiwan,Samberejo,63161,29000,STD,reguler
+2036,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Kare,Kuwiran,63182,29000,STD,reguler
+2037,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Kebonsari,Kedondong,63173,29000,STD,reguler
+2038,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Madiun,Dimong,63151,29000,STD,reguler
+2039,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Mejayan,Pandeyan,63153,29000,STD,reguler
+2040,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Pilangkenceng,Kedung Banteng,63154,29000,STD,reguler
+2041,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Saradan,Bener,63155,29000,STD,reguler
+2042,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Wonoasri,Klitik,63157,29000,STD,reguler
+2043,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Wungu,Kresek,63181,29000,STD,reguler
+2044,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Geger,Jatisari,63171,29000,STD,reguler
+2045,Ninja Xpress,40135,Jawa Timur,Madiun Kabupaten,Sawahan,Sidomulyo,63162,29000,STD,reguler
+2046,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Bantur,Pringgodani,65179,29000,STD,reguler
+2047,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Bululawang,Gading,65171,29000,STD,reguler
+2048,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Dampit,Amadanom,65181,29000,STD,reguler
+2049,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Dau,Landungsari,65151,29000,STD,reguler
+2050,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Donomulyo,Kedungsalam,65167,29000,STD,reguler
+2051,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Gedangan,Sidurejo,65178,29000,STD,reguler
+2052,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Gondanglegi,Urek Urek,65174,29000,STD,reguler
+2053,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Jabung,Sukopuro,65155,29000,STD,reguler
+2054,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Kalipare,Patuk Rejo,65166,29000,STD,reguler
+2055,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Karangploso,Bonowarih,65152,29000,STD,reguler
+2056,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Kasembon,Wonoagung,65393,29000,STD,reguler
+2057,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Kepanjen,Penarukan,65163,29000,STD,reguler
+2058,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Kromengan,Jatikerto,65165,29000,STD,reguler
+2059,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Lawang,SumbernNgepoh,65216,29000,STD,reguler
+2060,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Ngajung (Ngajum),Ngajum,65164,29000,STD,reguler
+2061,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Ngantang,Jombok,65392,29000,STD,reguler
+2062,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Pagak,Sumberrejo,65168,29000,STD,reguler
+2063,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Pakisaji,Glanggang,65162,29000,STD,reguler
+2064,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Poncokusumo,Gubukklakah,65157,29000,STD,reguler
+2065,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Pujon,Ngabab,65391,29000,STD,reguler
+2066,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Singosari,Randuangung,65153,29000,STD,reguler
+2067,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Sumbermanjing Wetan,Tambak Asri,65176,29000,STD,reguler
+2068,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Sumberpucung,Ternyang,65165,29000,STD,reguler
+2069,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Tajinan,Tambakasri,65172,29000,STD,reguler
+2070,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Tirtoyudo,Jogomulyo,65182,29000,STD,reguler
+2071,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Tumpang,Duwet Krajan,65156,29000,STD,reguler
+2072,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Turen,Gedog Kulon,65175,29000,STD,reguler
+2073,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Wagir,Mendalanwangi,65158,29000,STD,reguler
+2074,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Wajak,Bambang,65173,29000,STD,reguler
+2075,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Ampelgading,Tamansari,65183,29000,STD,reguler
+2076,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Pagelaran,Brongkal,65174,29000,STD,reguler
+2077,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Pakis,Sumberkradenan,65154,29000,STD,reguler
+2078,Ninja Xpress,40135,Jawa Timur,Malang Kabupaten,Wonosari,Plaosan,65164,29000,STD,reguler
+2079,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Bangsal,Salen,61381,26000,STD,reguler
+2080,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Dawar Blandong,Suru,61354,26000,STD,reguler
+2081,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Dlanggu,Segunung,61371,26000,STD,reguler
+2082,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Gedeg,Gempolkrep,61351,26000,STD,reguler
+2083,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Jatirejo,Kumitir,61373,26000,STD,reguler
+2084,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Kemlagi,Tanjungan,61353,26000,STD,reguler
+2085,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Kutorejo,Karangdiyeng,61383,26000,STD,reguler
+2086,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Mojoanyar,Gayaman,61364,26000,STD,reguler
+2087,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Mojosari,Awang Awang,61382,26000,STD,reguler
+2088,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Pungging,Kedungmunggal,61384,26000,STD,reguler
+2089,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Puri,Kebonagung,61363,26000,STD,reguler
+2090,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Trawas,Seloliman,61375,26000,STD,reguler
+2091,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Trowulan,Kejagan,61362,26000,STD,reguler
+2092,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Jetis,Paringan,61352,26000,STD,reguler
+2093,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Sooko,Wringinrejo,61361,26000,STD,reguler
+2094,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Gondang,Jatidukuh,61372,26000,STD,reguler
+2095,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Ngoro,Purwojati,61385,26000,STD,reguler
+2096,Ninja Xpress,40135,Jawa Timur,Mojokerto Kabupaten,Pacet,Cepokolimo,61374,26000,STD,reguler
+2097,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Bangil,Dermo,67153,21000,STD,reguler
+2098,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Beji,Gajahbendo,67154,21000,STD,reguler
+2099,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Gondang Wetan,Bajangan,67174,21000,STD,reguler
+2100,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Grati,Cukur Gondang,67184,21000,STD,reguler
+2101,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Kejayan,Oro Oro Pule,67172,21000,STD,reguler
+2102,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Lekok,Balung Anyar,67186,21000,STD,reguler
+2103,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Nguling,Penunggul,67185,21000,STD,reguler
+2104,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Pandaan,Sumberejo,67156,21000,STD,reguler
+2105,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Pasrepan,Sibon,67175,21000,STD,reguler
+2106,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Pohjentrek,Susukan Rejo,67171,21000,STD,reguler
+2107,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Prigen,Jatiarjo,67157,21000,STD,reguler
+2108,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Purwodadi,Jatisari,67163,21000,STD,reguler
+2109,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Puspo,Jimbaran,67176,21000,STD,reguler
+2110,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Tosari,Sedaeng,67177,21000,STD,reguler
+2111,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Tutur,Pungging,67165,21000,STD,reguler
+2112,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Winongan,Sidepan,67182,21000,STD,reguler
+2113,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Wonorejo,Karangjati Anyar,67173,21000,STD,reguler
+2114,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Gempol,Carat,67155,21000,STD,reguler
+2115,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Kraton,Curahdukuh,67151,21000,STD,reguler
+2116,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Lumbang,Welulang,67183,21000,STD,reguler
+2117,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Purwosari,Purwosari,67162,21000,STD,reguler
+2118,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Rejoso,Patuguran,67181,21000,STD,reguler
+2119,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Rembang,Oroombo Wetan,67152,21000,STD,reguler
+2120,Ninja Xpress,40135,Jawa Timur,Pasuruan Kabupaten,Sukorejo,Candi Binangun,67161,21000,STD,reguler
+2121,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Bantaran,Kramat Agung (Kramatung),67261,29000,STD,reguler
+2122,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,BANYUANYAR,Tarokan,67275,29000,STD,reguler
+2123,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Besuk,Krampilan,67283,29000,STD,reguler
+2124,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Dringu,Mranggon Lawang,67271,29000,STD,reguler
+2125,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Gading,Bulupandak,67292,29000,STD,reguler
+2126,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Gending,Klaseman,67272,29000,STD,reguler
+2127,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,KOTAANYAR,Talkadang,67293,29000,STD,reguler
+2128,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Kraksaan,Kregenan (Keregenan),67282,29000,STD,reguler
+2129,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Krejengan,Dawuan,67284,29000,STD,reguler
+2130,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Krucil,Pandanlaras,67288,29000,STD,reguler
+2131,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Leces,Keprangan (Kerpangan),67273,29000,STD,reguler
+2132,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Lumbang,Tandongsentul (Tandon Sentul),67255,29000,STD,reguler
+2133,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Maron,Ganting Wetan,67276,29000,STD,reguler
+2134,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Paiton,Pondok Kelor,67291,29000,STD,reguler
+2135,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Pajarakan,Pajarakan Kulon,67281,29000,STD,reguler
+2136,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Pakuniran,Patemon Kulon,67292,29000,STD,reguler
+2137,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Sukapura,Wonokerto,67254,29000,STD,reguler
+2138,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Sumberasih,Muneng Kidul,67251,29000,STD,reguler
+2139,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,TEGALSIWALAN,Malasan Wetan,67274,29000,STD,reguler
+2140,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Tiris,Renjing (Rejing),67287,29000,STD,reguler
+2141,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Tongas,Sumberejo,67252,29000,STD,reguler
+2142,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Wonomerto,Pohsangit Lor,67253,29000,STD,reguler
+2143,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Kuripan,Wonoasri,67262,29000,STD,reguler
+2144,Ninja Xpress,40135,Jawa Timur,Probolinggo Kabupaten,Sumber,Rambaan,67263,29000,STD,reguler

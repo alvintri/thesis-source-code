@@ -1,0 +1,80 @@
+id,orderReceiptCode,originCityName,originKelurahan,originPostalCode,destinationPostalCode,destinationKelurahan,destinationKecamatan,destinationCity
+100005984545,1078-1719685958,Bandung Barat,Cilame,40552,40914,Karamatmulya,Soreang,Bandung
+100005985244,1343-1719754354,Jakarta Barat,Jelambar Baru,11460,17530,Sukaresmi,Cikarang Selatan,Bekasi
+100005985220,1780-1719753033,Tangerang,Babat,15820,40267,Sukapura,Dayeuhkolot,Bandung
+100005985354,1790-1719759738,Jakarta Selatan,Jagakarsa,12620,16425,Kukusan,Beji,Depok
+100005985198,1934-1719752019,Jakarta Barat,Jelambar Baru,11460,17330,Sukaragam,Serang Baru,Bekasi
+100005983571,2164-1719615537,Bogor,Padasuka,16610,15710,Cibadak,Cikupa,Tangerang
+100005985023,2465-1719739555,Jakarta Barat,Jelambar Baru,11460,40375,Bojongmalaka,Baleendah,Bandung
+100005984951,2477-1719733582,Jakarta Barat,Jelambar Baru,11460,16515,Limo,Limo,Depok
+100005985428,2498-1719765785,Jakarta Barat,Jelambar Baru,11460,15730,Bojong Loa,Cisoka,Tangerang
+100005985347,2692-1719759528,Jakarta Selatan,Jagakarsa,12620,17133,Kota Baru,Bekasi Barat,Bekasi
+100005983963,3065-1719643782,Tangerang,Babat,15820,16969,Bojong Kulur,Gunung Putri,Bogor
+100005985215,3137-1719752769,Pekalongan,Kauman,51127,90552,Bontoa,Mandai,Maros
+100005984906,3144-1719729880,Pekalongan,Kauman,51127,90552,Bontoa,Mandai,Maros
+100005983336,3245-1719576858,Bogor,Padasuka,16610,12510,Pejaten Barat,Pasar Minggu,Jakarta Selatan
+100005984463,3317-1719673543,Jakarta Barat,Jelambar Baru,11460,17121,Teluk Pucung,Bekasi Utara,Bekasi
+100005984615,3346-1719707902,Bandung,Sukaluyu,40123,80362,Benoa,Kuta Selatan,Badung
+100005984781,3535-1719721905,Banyuwangi,Panderejo,68415,68121,Sumbersari,Sumber Sari,Jember
+100005983834,3575-1719637526,Jakarta Timur,Cakung Barat,13910,40292,Cipamokolan,Rancasari,Bandung
+100005985183,3842-1719751247,Tangerang Selatan,Bambu Apus,15415,16962,Tlajung Udik,Gunung Putri,Bogor
+100005985112,4154-1719746324,Tangerang,Sudimara Timur,15151,17610,Bahagia,Babelan,Bekasi
+100005984908,4291-1719730066,Bogor,Taman Sari,16350,11630,Srengseng,Kembangan,Jakarta Barat
+100005982216,4404-1719506137,Banyuwangi,Panderejo,68415,60263,Wonorejo,Tegalsari,Surabaya
+100005984989,4499-1719736716,Jakarta Timur,Pulo Gebang,13950,15820,Serdang Wetan,Legok,Tangerang
+100005985551,4522-1719796807,Tasikmalaya,Cintaraja,46417,30151,Suka Bangun,Sukarami,Palembang
+100005984679,4696-1719714681,Jakarta Barat,Jelambar Baru,11460,17630,Sukarukun,Sukatani,Bekasi
+100005984102,5080-1719646242,Jakarta Barat,Pegadungan,11830,40552,Cilame,Ngamprah,Bandung Barat
+100005984754,5084-1719719999,Jakarta Pusat,Sumur Batu,10640,16157,Ciparigi,Bogor Utara - Kota,Bogor
+100005985578,5206-1719798752,Tasikmalaya,Cintaraja,46417,74353,Sebabi,Telawang,Kotawaringin Timur
+100005984854,5320-1719726484,Tangerang Selatan,Bambu Apus,15415,16432,Depok Jaya,Pancoran Mas,Depok
+100005984666,5757-1719712915,Bandung,Sindangpanon,40377,40267,Mengger,Bandung Kidul,Bandung
+100005985312,5862-1719757990,Jakarta Barat,Jelambar Baru,11460,17142,Marga Mulya,Bekasi Utara,Bekasi
+100005984665,5899-1719712794,Tasikmalaya,Cintaraja,46417,31668,Trikarya,Purwodadi,Musi Rawas
+100005983811,5984-1719635911,Jakarta Utara,Papanggo,14340,40124,Cikutra,Cibeunying Kidul,Bandung
+100005985202,6104-1719752356,Tangerang,Babat,15820,40621,Cileunyi Kulon,Cileunyi,Bandung
+100005984846,6133-1719725624,Jakarta Barat,Cengkareng Barat,11730,15810,Curug Kulon,Curug,Tangerang
+100005984210,6180-1719654532,Tangerang,Babat,15820,16154,Tanah Baru,Bogor Utara - Kota,Bogor
+100005984870,6396-1719728371,Tangerang Selatan,Bambu Apus,15415,40614,Cipadung,Cibiru,Bandung
+100005984923,6408-1719732068,Jakarta Barat,Jelambar Baru,11460,40552,Margajaya,Ngamprah,Bandung Barat
+100005983474,6591-1719584625,Depok,Baktijaya,16418,16962,Tlajung Udik,Gunung Putri,Bogor
+100005982204,6602-1719505196,Banyuwangi,Panderejo,68415,60192,Sumberrejo (Sombe Rejo),Pakal,Surabaya
+100005983219,6607-1719569001,Bogor,Ciomas,16610,40111,Braga,Sumur Bandung,Bandung
+100005985206,6614-1719752504,Bandung Barat,Cilame,40552,40195,Sindanglaya,Cimeunyan,Bandung
+100005984928,6743-1719732318,Banyuwangi,Panderejo,68415,20216,Sukaramai I,Medan Area,Medan
+100005983815,7102-1719636305,Jakarta Timur,Cakung Barat,13910,40534,Melong,Cimahi Selatan,Cimahi
+100005984577,7158-1719701730,Tangerang,Babat,15820,16912,Nanggewer Mekar,Cibinong,Bogor
+100005982785,7179-1719557662,Banyuwangi,Panderejo,68415,30128,Ario Kemuning,Kemuning,Palembang
+100005985414,7239-1719763223,Jakarta Timur,Pulo Gebang,13950,40381,Ciparay,Ciparay,Bandung
+100005984853,7246-1719726484,Jakarta Barat,Cengkareng Barat,11730,16432,Depok Jaya,Pancoran Mas,Depok
+100005984821,7312-1719723530,Jakarta Barat,Jelambar Baru,11460,17134,Bintara,Bekasi Barat,Bekasi
+100005984155,7602-1719650240,Tangerang,Babat,15820,17530,Sukasejati,Cikarang Selatan,Bekasi
+100005985271,7652-1719755834,Tangerang,Poris Plawad Utara,15141,41314,Palumbonsari,Karawang Timur,Karawang
+100005984442,7682-1719671636,Jakarta Barat,Jelambar Baru,11460,40195,Jatihandap,Mandalajati,Bandung
+100005985114,7698-1719746460,Jakarta Pusat,Kampung Bali,10250,15720,Pasir Nangka,Tigaraksa,Tangerang
+100005984647,7741-1719710201,Jakarta Barat,Jelambar Baru,11460,15414,Sarua (Serua),Ciputat,Tangerang Selatan
+100005985176,7816-1719750829,Jakarta Selatan,Pondok Pinang,12310,17610,Bahagia,Babelan,Bekasi
+100005984602,7835-1719705533,Tangerang,Babat,15820,40227,Sukamenak,Margahayu,Bandung
+100005985336,7976-1719759132,Jakarta Barat,Pegadungan,11830,16620,Cicadas,Ciampea,Bogor
+100005984170,7993-1719651627,Bandung Barat,Cilame,40552,40191,Cigadung,Cibeunying Kaler,Bandung
+100005985041,8115-1719740897,Pekalongan,Kauman,51127,56412,Sedayu,Muntilan,Magelang
+100005984822,8142-1719723530,Jakarta Barat,Jelambar Baru,11460,16432,Rangkapanjaya Baru,Pancoran Mas,Depok
+100005985180,8183-1719751201,Jakarta Selatan,Jagakarsa,12620,16425,Kukusan,Beji,Depok
+100005984166,8268-1719651249,Bekasi,Jatisampurna,17433,13460,Malaka Sari,Duren Sawit,Jakarta Timur
+100005984358,8309-1719665688,Bandung,Sukaluyu,40123,80362,Benoa,Kuta Selatan,Badung
+100005983812,8415-1719635970,Jakarta Timur,Cakung Barat,13910,40534,Melong,Cimahi Selatan,Cimahi
+100005985279,8516-1719756272,Jakarta Barat,Jelambar Baru,11460,16512,Grogol,Limo,Depok
+100005984348,8645-1719665212,Tangerang,Babat,15820,45151,Buyut,Gunung Jati (Cirebon Utara),Cirebon
+100005984004,8666-1719644496,Bandung Barat,Cilame,40552,40125,Sukapada,Cibeunying Kidul,Bandung
+100005984613,8675-1719707688,Tangerang,Babat,15820,13930,Jatinegara,Cakung,Jakarta Timur
+100005985294,9019-1719757408,Jakarta Selatan,Pondok Pinang,12310,40151,Sarijadi,Sukasari,Bandung
+100005985754,9067-1719806943,Pekalongan,Kauman,51127,35132,Jagabaya Iii,Way Halim,Bandar Lampung
+100005984359,9378-1719665791,Jakarta Barat,Jelambar Baru,11460,40123,Sukaluyu,Cibeunying Kaler,Bandung
+100005984100,9504-1719646066,Jakarta Barat,Jelambar Baru,11460,40624,Cinunuk,Cileunyi,Bandung
+100005985120,9593-1719747176,Bandung Barat,Cilame,40552,40184,Maleber (Maleer),Andir,Bandung
+100005984341,9666-1719664847,Tangerang,Babat,15820,40511,Cipageran,Cimahi Utara,Cimahi
+100005985424,9728-1719765057,Banyuwangi,Panderejo,68415,68121,Sumbersari,Sumber Sari,Jember
+100005984863,9841-1719727576,Jakarta Pusat,Sumur Batu,10640,17510,Jatimulya,Tambun Selatan,Bekasi
+100005984260,9847-1719658614,Jakarta Barat,Pegadungan,11830,16920,Waringin Jaya,Bojonggede,Bogor
+100005985195,9901-1719751738,Jakarta Selatan,Jagakarsa,12620,16962,Tlajung Udik,Gunung Putri,Bogor
+100005984366,9907-1719666474,Bogor,Bagoang,16670,17412,Jatibening Baru,Pondok Gede,Bekasi

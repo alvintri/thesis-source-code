@@ -1,0 +1,155 @@
+No.,Nama Logistic,Kode Pos Asal,Kode Pos Tujuan,Nama Kota,Nama Provinsi,Ongkir,Rate Code,Rate Type
+1,J&T Express,20146,33214,Kabupaten Bangka,Bangka Belitung,56000,EZ,reguler
+2,J&T Express,20146,33312,Kabupaten Bangka Barat,Bangka Belitung,49000,EZ,reguler
+3,J&T Express,20146,33783,Kabupaten Bangka Selatan,Bangka Belitung,49000,EZ,reguler
+4,J&T Express,20146,33684,Kabupaten Bangka Tengah,Bangka Belitung,54000,EZ,reguler
+5,J&T Express,20146,33411,Kabupaten Belitung,Bangka Belitung,41000,EZ,reguler
+6,J&T Express,20146,33511,Kabupaten Belitung Timur,Bangka Belitung,49000,EZ,reguler
+7,J&T Express,20146,33123,Kota Pangkal Pinang,Bangka Belitung,44000,EZ,reguler
+8,J&T Express,20146,38118,Kota Bengkulu,Bengkulu,40000,EZ,reguler
+9,J&T Express,20146,38571,Kabupaten Bengkulu Selatan,Bengkulu,52000,EZ,reguler
+10,J&T Express,20146,38375,Kabupaten Bengkulu Tengah,Bengkulu,52000,EZ,reguler
+11,J&T Express,20146,38612,Kabupaten Bengkulu Utara,Bengkulu,60000,EZ,reguler
+12,J&T Express,20146,38956,Kabupaten Kaur,Bengkulu,52000,EZ,reguler
+13,J&T Express,20146,39112,Kabupaten Kepahiang,Bengkulu,47000,EZ,reguler
+14,J&T Express,20146,39265,Kabupaten Lebong,Bengkulu,52000,EZ,reguler
+15,J&T Express,20146,38711,Kabupaten Muko Muko,Bengkulu,60000,EZ,reguler
+16,J&T Express,20146,39115,Kabupaten Rejang Lebong,Bengkulu,47000,EZ,reguler
+17,J&T Express,20146,38878,Kabupaten Seluma,Bengkulu,52000,EZ,reguler
+18,J&T Express,20146,36611,Kabupaten Batang Hari,Jambi,52000,EZ,reguler
+19,J&T Express,20146,37211,Kabupaten Bungo,Jambi,52000,EZ,reguler
+20,J&T Express,20146,36128,Kota Jambi,Jambi,42000,EZ,reguler
+21,J&T Express,20146,37162,Kabupaten Kerinci,Jambi,52000,EZ,reguler
+22,J&T Express,20146,37311,Kabupaten Merangin,Jambi,52000,EZ,reguler
+23,J&T Express,20146,36364,Kabupaten Muaro Jambi,Jambi,52000,EZ,reguler
+24,J&T Express,20146,37481,Kabupaten Sarolangun,Jambi,47000,EZ,reguler
+25,J&T Express,20146,37111,Kota Sungaipenuh,Jambi,52000,EZ,reguler
+26,J&T Express,20146,36514,Kabupaten Tanjung Jabung Barat,Jambi,52000,EZ,reguler
+27,J&T Express,20146,36514,Kabupaten Tanjung Jabung Timur,Jambi,52000,EZ,reguler
+28,J&T Express,20146,37571,Kabupaten Tebo,Jambi,52000,EZ,reguler
+29,J&T Express,20146,29427,Kota Batam,Kepulauan Riau,27000,EZ,reguler
+30,J&T Express,20146,29111,Kabupaten Bintan,Kepulauan Riau,42000,EZ,reguler
+31,J&T Express,20146,29662,Kabupaten Karimun,Kepulauan Riau,34000,EZ,reguler
+32,J&T Express,20146,29792,Kabupaten Kepulauan Anambas,Kepulauan Riau,46000,EZ,reguler
+33,J&T Express,20146,29875,Kabupaten Lingga,Kepulauan Riau,40000,EZ,reguler
+34,J&T Express,20146,29783,Kabupaten Natuna,Kepulauan Riau,40000,EZ,reguler
+35,J&T Express,20146,29111,Kota Tanjung Pinang,Kepulauan Riau,42000,EZ,reguler
+36,J&T Express,20146,35111,Kota Bandar Lampung,Lampung,27000,EZ,reguler
+37,J&T Express,20146,34811,Kabupaten Lampung Barat,Lampung,41000,EZ,reguler
+38,J&T Express,20146,35592,Kabupaten Lampung Selatan,Lampung,41000,EZ,reguler
+39,J&T Express,20146,34157,Kabupaten Lampung Tengah,Lampung,41000,EZ,reguler
+40,J&T Express,20146,34194,Kabupaten Lampung Timur,Lampung,41000,EZ,reguler
+41,J&T Express,20146,34511,Kabupaten Lampung Utara,Lampung,41000,EZ,reguler
+42,J&T Express,20146,34684,Kabupaten Mesuji,Lampung,41000,EZ,reguler
+43,J&T Express,20146,34111,Kota Metro,Lampung,36000,EZ,reguler
+44,J&T Express,20146,35367,Kabupaten Pesawaran,Lampung,41000,EZ,reguler
+45,J&T Express,20146,34877,Kabupaten Pesisir Barat,Lampung,41000,EZ,reguler
+46,J&T Express,20146,35376,Kabupaten Pringsewu,Lampung,36000,EZ,reguler
+47,J&T Express,20146,35611,Kabupaten Tanggamus,Lampung,41000,EZ,reguler
+48,J&T Express,20146,34611,Kabupaten Tulang Bawang,Lampung,41000,EZ,reguler
+49,J&T Express,20146,34388,Kabupaten Tulang Bawang Barat,Lampung,41000,EZ,reguler
+50,J&T Express,20146,34764,Kabupaten Way Kanan,Lampung,41000,EZ,reguler
+51,J&T Express,20146,23681,Kabupaten Aceh Barat,Aceh,27000,EZ,reguler
+52,J&T Express,20146,23764,Kabupaten Aceh Barat Daya,Aceh,27000,EZ,reguler
+53,J&T Express,20146,24382,Kabupaten Aceh Besar,Aceh,27000,EZ,reguler
+54,J&T Express,20146,23654,Kabupaten Aceh Jaya,Aceh,27000,EZ,reguler
+55,J&T Express,20146,23711,Kabupaten Aceh Selatan,Aceh,27000,EZ,reguler
+56,J&T Express,20146,24786,Kabupaten Aceh Singkil,Aceh,23000,EZ,reguler
+57,J&T Express,20146,24476,Kabupaten Aceh Tamiang,Aceh,27000,EZ,reguler
+58,J&T Express,20146,24511,Kabupaten Aceh Tengah,Aceh,27000,EZ,reguler
+59,J&T Express,20146,24651,Kabupaten Aceh Tenggara,Aceh,27000,EZ,reguler
+60,J&T Express,20146,24413,Kabupaten Aceh Timur,Aceh,23000,EZ,reguler
+61,J&T Express,20146,24311,Kabupaten Aceh Utara,Aceh,23000,EZ,reguler
+62,J&T Express,20146,23242,Kota Banda Aceh,Aceh,18000,EZ,reguler
+63,J&T Express,20146,24581,Kabupaten Bener Meriah,Aceh,27000,EZ,reguler
+64,J&T Express,20146,24261,Kabupaten Bireuen,Aceh,27000,EZ,reguler
+65,J&T Express,20146,24653,Kabupaten Gayo Lues,Aceh,27000,EZ,reguler
+66,J&T Express,20146,24416,Kota Langsa,Aceh,23000,EZ,reguler
+67,J&T Express,20146,24352,Kota Lhokseumawe,Aceh,27000,EZ,reguler
+68,J&T Express,20146,23671,Kabupaten Nagan Raya,Aceh,27000,EZ,reguler
+69,J&T Express,20146,24111,Kabupaten Pidie,Aceh,27000,EZ,reguler
+70,J&T Express,20146,24184,Kabupaten Pidie Jaya,Aceh,27000,EZ,reguler
+71,J&T Express,20146,23511,Kota Sabang,Aceh,28000,EZ,reguler
+72,J&T Express,20146,23891,Kabupaten Simeulue,Aceh,52000,EZ,reguler
+73,J&T Express,20146,24782,Kota Subulussalam,Aceh,23000,EZ,reguler
+74,J&T Express,20146,28711,Kabupaten Bengkalis,Riau,28000,EZ,reguler
+75,J&T Express,20146,28811,Kota Dumai,Riau,28000,EZ,reguler
+76,J&T Express,20146,29211,Kabupaten Indragiri Hilir,Riau,22000,EZ,reguler
+77,J&T Express,20146,29319,Kabupaten Indragiri Hulu,Riau,22000,EZ,reguler
+78,J&T Express,20146,28411,Kabupaten Kampar,Riau,28000,EZ,reguler
+79,J&T Express,20146,28755,Kabupaten Kepulauan Meranti,Riau,33000,EZ,reguler
+80,J&T Express,20146,29511,Kabupaten Kuantan Singingi,Riau,28000,EZ,reguler
+81,J&T Express,20146,28111,Kota Pekanbaru,Riau,17000,EZ,reguler
+82,J&T Express,20146,28383,Kabupaten Pelalawan,Riau,28000,EZ,reguler
+83,J&T Express,20146,28911,Kabupaten Rokan Hilir,Riau,28000,EZ,reguler
+84,,20146,28557,Kabupaten Rokan Hulu,Riau,,,reguler
+85,J&T Express,20146,28763,Kabupaten Siak,Riau,28000,EZ,reguler
+86,J&T Express,20146,26164,Kabupaten Agam,Sumatera Barat,28000,EZ,reguler
+87,J&T Express,20146,26115,Kota Bukittinggi,Sumatera Barat,20000,EZ,reguler
+88,J&T Express,20146,27678,Kabupaten Dharmasraya,Sumatera Barat,28000,EZ,reguler
+89,J&T Express,20146,25392,Kabupaten Kepulauan Mentawai,Sumatera Barat,28000,EZ,reguler
+90,J&T Express,20146,26257,Kabupaten Lima Puluh Koto/Kota,Sumatera Barat,28000,EZ,reguler
+91,J&T Express,20146,25111,Kota Padang,Sumatera Barat,18000,EZ,reguler
+92,J&T Express,20146,27111,Kota Padang Panjang,Sumatera Barat,28000,EZ,reguler
+93,J&T Express,20146,25511,Kabupaten Padang Pariaman,Sumatera Barat,23000,EZ,reguler
+94,J&T Express,20146,25582,Kota Pariaman,Sumatera Barat,28000,EZ,reguler
+95,J&T Express,20146,26311,Kabupaten Pasaman,Sumatera Barat,28000,EZ,reguler
+96,J&T Express,20146,26566,Kabupaten Pasaman Barat,Sumatera Barat,28000,EZ,reguler
+97,J&T Express,20146,26211,Kota Payakumbuh,Sumatera Barat,23000,EZ,reguler
+98,J&T Express,20146,25673,Kabupaten Pesisir Selatan,Sumatera Barat,28000,EZ,reguler
+99,J&T Express,20146,27411,Kota Sawah Lunto,Sumatera Barat,28000,EZ,reguler
+100,J&T Express,20146,27511,Kabupaten Sijunjung,Sumatera Barat,28000,EZ,reguler
+101,J&T Express,20146,27383,Kabupaten Solok,Sumatera Barat,28000,EZ,reguler
+102,J&T Express,20146,27381,Kota Solok,Sumatera Barat,28000,EZ,reguler
+103,J&T Express,20146,27681,Kabupaten Solok Selatan,Sumatera Barat,28000,EZ,reguler
+104,J&T Express,20146,27211,Kabupaten Tanah Datar,Sumatera Barat,28000,EZ,reguler
+105,J&T Express,20146,30911,Kabupaten Banyuasin,Sumatera Selatan,45000,EZ,reguler
+106,J&T Express,20146,31511,Kabupaten Empat Lawang,Sumatera Selatan,40000,EZ,reguler
+107,J&T Express,20146,31411,Kabupaten Lahat,Sumatera Selatan,40000,EZ,reguler
+108,J&T Express,20146,31611,Kota Lubuk Linggau,Sumatera Selatan,40000,EZ,reguler
+109,J&T Express,20146,31311,Kabupaten Muara Enim,Sumatera Selatan,23000,EZ,reguler
+110,J&T Express,20146,30711,Kabupaten Musi Banyuasin,Sumatera Selatan,45000,EZ,reguler
+111,J&T Express,20146,31661,Kabupaten Musi Rawas,Sumatera Selatan,45000,EZ,reguler
+112,J&T Express,20146,30611,Kabupaten Ogan Ilir,Sumatera Selatan,40000,EZ,reguler
+113,J&T Express,20146,30655,Kabupaten Ogan Komering Ilir,Sumatera Selatan,45000,EZ,reguler
+114,J&T Express,20146,32156,Kabupaten Ogan Komering Ulu,Sumatera Selatan,45000,EZ,reguler
+115,J&T Express,20146,32274,Kabupaten Ogan Komering Ulu Selatan,Sumatera Selatan,45000,EZ,reguler
+116,J&T Express,20146,32184,Kabupaten Ogan Komering Ulu Timur,Sumatera Selatan,45000,EZ,reguler
+117,J&T Express,20146,31512,Kota Pagar Alam,Sumatera Selatan,40000,EZ,reguler
+118,J&T Express,20146,30111,Kota Palembang,Sumatera Selatan,33000,EZ,reguler
+119,J&T Express,20146,31111,Kota Prabumulih,Sumatera Selatan,40000,EZ,reguler
+120,J&T Express,20146,31214,Kabupaten Penukal Abab Lematang Ilir,Sumatera Selatan,45000,EZ,reguler
+121,J&T Express,20146,31654,Kabupaten Musi Rawas Utara,Sumatera Selatan,45000,EZ,reguler
+122,J&T Express,20146,21211,Kabupaten Asahan,Sumatera Utara,18000,EZ,reguler
+123,J&T Express,20146,21255,Kabupaten Batu Bara,Sumatera Utara,18000,EZ,reguler
+124,J&T Express,20146,20711,Kota Binjai,Sumatera Utara,12000,EZ,reguler
+125,J&T Express,20146,22211,Kabupaten Dairi,Sumatera Utara,12000,EZ,reguler
+126,J&T Express,20146,20511,Kabupaten Deli Serdang,Sumatera Utara,15000,EZ,reguler
+127,J&T Express,20146,22811,Kota Gunungsitoli,Sumatera Utara,18000,EZ,reguler
+128,J&T Express,20146,22411,Kabupaten Humbang Hasundutan,Sumatera Utara,18000,EZ,reguler
+129,J&T Express,20146,22111,Kabupaten Karo,Sumatera Utara,12000,EZ,reguler
+130,J&T Express,20146,21411,Kabupaten Labuhan Batu,Sumatera Utara,18000,EZ,reguler
+131,J&T Express,20146,21464,Kabupaten Labuhan Batu Selatan,Sumatera Utara,18000,EZ,reguler
+132,J&T Express,20146,21455,Kabupaten Labuhan Batu Utara,Sumatera Utara,18000,EZ,reguler
+133,J&T Express,20146,20811,Kabupaten Langkat,Sumatera Utara,15000,EZ,reguler
+134,J&T Express,20146,22911,Kabupaten Mandailing Natal,Sumatera Utara,18000,EZ,reguler
+135,J&T Express,20146,20111,Kota Medan,Sumatera Utara,7000,EZ,reguler
+136,J&T Express,20146,22876,Kabupaten Nias,Sumatera Utara,34000,EZ,reguler
+137,J&T Express,20146,22863,Kabupaten Nias Barat,Sumatera Utara,34000,EZ,reguler
+138,J&T Express,20146,22874,Kabupaten Nias Selatan,Sumatera Utara,34000,EZ,reguler
+139,J&T Express,20146,22861,Kabupaten Nias Utara,Sumatera Utara,34000,EZ,reguler
+140,J&T Express,20146,22711,Kabupaten Padang Lawas,Sumatera Utara,18000,EZ,reguler
+141,J&T Express,20146,22756,Kabupaten Padang Lawas Utara,Sumatera Utara,18000,EZ,reguler
+142,J&T Express,20146,22727,Kota Padang Sidempuan,Sumatera Utara,18000,EZ,reguler
+143,J&T Express,20146,22271,Kabupaten Pakpak Bharat,Sumatera Utara,15000,EZ,reguler
+144,J&T Express,20146,21111,Kota Pematang Siantar,Sumatera Utara,12000,EZ,reguler
+145,J&T Express,20146,22392,Kabupaten Samosir,Sumatera Utara,18000,EZ,reguler
+146,J&T Express,20146,20995,Kabupaten Serdang Bedagai,Sumatera Utara,15000,EZ,reguler
+147,J&T Express,20146,22511,Kota Sibolga,Sumatera Utara,18000,EZ,reguler
+148,J&T Express,20146,21161,Kabupaten Simalungun,Sumatera Utara,18000,EZ,reguler
+149,J&T Express,20146,21311,Kota Tanjung Balai,Sumatera Utara,18000,EZ,reguler
+150,J&T Express,20146,22742,Kabupaten Tapanuli Selatan,Sumatera Utara,18000,EZ,reguler
+151,J&T Express,20146,22611,Kabupaten Tapanuli Tengah,Sumatera Utara,18000,EZ,reguler
+152,J&T Express,20146,22411,Kabupaten Tapanuli Utara,Sumatera Utara,18000,EZ,reguler
+153,J&T Express,20146,20611,Kota Tebing Tinggi,Sumatera Utara,15000,EZ,reguler
+154,J&T Express,20146,22311,Kabupaten Toba Samosir,Sumatera Utara,18000,EZ,reguler

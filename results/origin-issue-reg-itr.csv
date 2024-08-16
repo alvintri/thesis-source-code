@@ -1,0 +1,5 @@
+No.,Nama Logistic,Order Receipt Code,Kode Pos Asal,Kode Pos Tujuan,Ongkir Normal,Rate Code,Rate Type,Is Flat Rate
+1,JNE,itr_6870-1719274823,16610,17412,9000,REG23,reguler,
+2,JNE,itr_1696-1717290978,40552,40286,5000,REG23,reguler,
+3,JNE,itr_6029-1719724549,40552,40115,5000,REG23,reguler,
+4,JNE,itr_8969-1719759432,16132,12630,9000,REG23,reguler,
