@@ -6,27 +6,29 @@ const csv = require('csv-parser');
 require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
+let logisticCode = "JNE"
 const courierType = 'reguler'
 const rateCode = 'REG23'
+const customRateKey = "bDZ1XzeBAvJ0XpZwE1De"
 
 //PATH URL
 const originDestinationFilePath = `./results/shortest-origin/origin-issue-reg-itr.csv`;
-const resultsCsvPath = `./results/origin-issue-reg-itr.csv`;
+const resultsCsvPath = `./results/ekiwi/test.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcyMDQzMjc5MH0.yVH7ITPwJg5epai73vh62V90HFhJKpm0sgYNDF1lFtw'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcyNDM4MjU3M30.N_dEDzGGGGiayjJ70MH8ZhCXUDtW0xmi_s1hTueAGAA'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
 const requestBodyTemplate = {
-    "customRateKey" : "bDZ1XzeBAvJ0XpZwE1De",
+    "customRateKey" : customRateKey,
     "destinationLatitude": 0,
     "destinationLongitude": 0,
     "isCod": false,
     "isUseInsurance": false,
     "itemPrice": 500145,
     "logisticCode": [
-      "JNE"
+      logisticCode
     ],
     "originLatitude": 0,
     "originLongitude": 0,
