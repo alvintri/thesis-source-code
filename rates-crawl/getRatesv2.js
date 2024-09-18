@@ -6,27 +6,27 @@ const csv = require('csv-parser');
 require('dotenv').config(); // Load environment variables from .env file
 
 //Config file Path URL
-const warehouseType = process.env.WAREHOUSE_TYPE;
-const numberOfData = process.env.NUMBER_OF_DATA;
 const courierType = process.env.COURIER_TYPE;
 
 //PATH URL
-const originDestinationFilePath = `./results/shortest-origin/warehouse-${warehouseType}/originDestination-${numberOfData}.csv`;
-const resultsCsvPath = `./results/rates-${courierType}/warehouse-${warehouseType}/result-data-${numberOfData}.csv`;
+const originDestinationFilePath = `./results/wh-bandung/origin-dest.csv`;
+const resultsCsvPath = `./results/wh-bandung/result-data-01.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcxNTQxNjI1OH0.azx_yvZa97NAsqw5s0631URlTnZftxJK-ucnsFqWouw'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcyNDgxNzQ3MH0.A8lsLXMM_aoBiDCa8sFgXYawH6xb0qwA3BKKQAEit-c'
 const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
 
 // Define the request body template
 const requestBodyTemplate = {
+    "customRateKeys" : ["bDZ1XzeBAvJ0XpZwE1De"
+    ],
     "destinationLatitude": 0,
     "destinationLongitude": 0,
     "isCod": false,
     "isUseInsurance": false,
-    "itemPrice": 500145,
+    "itemPrice": 10000,
     "logisticCode": [
-      "JNE"
+      "JNE","IDX","JNT"
     ],
     "originLatitude": 0,
     "originLongitude": 0,
@@ -34,8 +34,9 @@ const requestBodyTemplate = {
     "destinationPostalCode": "40191",
     "packageTypeId": 1,
     "serviceType": [  
+      "reguler"
     ],
-    "shipmentType": 1,
+    "shipmentType": 2,
     "weight": 1000,
     "width": 5,
     "height" : 2,
@@ -44,9 +45,11 @@ const requestBodyTemplate = {
 
 
 async function createRequestBody(data) {
+  console.log(JSON.stringify(data))
   const requestBody = requestBodyTemplate ;
   requestBody.originPostalCode = `${data.originPostalCode}`;
   requestBody.destinationPostalCode =`${data.destinationPostalCode}`;
+  requestBody.weight = parseInt(data.totalWeight);
   return requestBody;
 }
 
@@ -61,9 +64,12 @@ const csvWriter = createObjectCsvWriter({
     { id: 'logisticName', title: 'Nama Logistic' },
     { id: 'originPostalCode', title: 'Kode Pos Asal' },
     { id: 'destinationPostalCode', title: 'Kode Pos Tujuan' },
+    { id: 'orderReceiptCode', title: 'Order Receipt Code' },
     { id: 'price', title: 'Ongkir' },
     { id: 'rateCode', title: 'Rate Code' },
     { id: 'rateType', title: 'Rate Type' },
+    { id: 'isFlatRate', title: 'Flat Rate' },
+    { id: 'weight', title: 'Total Weight' },
   ]
 });
 
@@ -99,7 +105,9 @@ function makeRequestAndExtractPrice(requestBody) {
             newRates = {
               logisticName: respDataReg[key].logisticName,
               price: respDataReg[key].price,
-              rateCode: respDataReg[key].rateCode
+              rateCode: respDataReg[key].rateCode,
+              isFlatRate: respDataReg[key].isFlatRate,
+              weight : respDataReg[key].weight
             };
           }
         }
@@ -112,6 +120,7 @@ function makeRequestAndExtractPrice(requestBody) {
 async function loopRequests() {
   const prices = [];
   const data = await readCSVFile(originDestinationFilePath);
+  console.log(JSON.stringify(data))
 
   for (let key=0; key<=data.length; key++) {
     try {
@@ -119,12 +128,15 @@ async function loopRequests() {
       const minimumPrice = await makeRequestAndExtractPrice(requestBody);
       prices.push({
         id : key+1,
-        originPostalCode : requestBody.originPostalCode,
-        destinationPostalCode : requestBody.destinationPostalCode,
+        originPostalCode : data[key].originPostalCode,
+        destinationPostalCode : data[key].destinationPostalCode,
+        orderReceiptCode : data[key].orderReceiptCode,
         logisticName: minimumPrice.logisticName,
         price: minimumPrice.price,
         rateCode: minimumPrice.rateCode,
-        rateType : courierType
+        rateType : courierType,
+        isFlatRate : minimumPrice.isFlatRate,
+        weight : minimumPrice.weight
       });
     } catch (err) {
       console.error('Error:', err);
