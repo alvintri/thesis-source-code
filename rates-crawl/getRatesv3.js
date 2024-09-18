@@ -16,8 +16,8 @@ const originDestinationFilePath = `./results/shortest-origin/origin-issue-reg-it
 const resultsCsvPath = `./results/ekiwi/test.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcyNDM4MjU3M30.N_dEDzGGGGiayjJ70MH8ZhCXUDtW0xmi_s1hTueAGAA'
-const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
+const token = ''
+const baseUrl = 'http://evm-3pl-client-gateway/';
 
 // Define the request body template
 const requestBodyTemplate = {

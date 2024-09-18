@@ -13,12 +13,12 @@ const originDestinationFilePath = `./results/wh-bandung/origin-dest.csv`;
 const resultsCsvPath = `./results/wh-bandung/result-data-01.csv`;
 
 //CONFIG
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6IjdiOWQwMDJjLTA3MjgtNDNmYy05MGUyLTc4NzFmODlmNTM1YSIsImV4cGlyZXNJbiI6MTcyNDgxNzQ3MH0.A8lsLXMM_aoBiDCa8sFgXYawH6xb0qwA3BKKQAEit-c'
-const baseUrl = 'http://evm-3pl-client-gateway.prod.internal/';
+const token = ''
+const baseUrl = 'http://evm-3pl-client-gateway/';
 
 // Define the request body template
 const requestBodyTemplate = {
-    "customRateKeys" : ["bDZ1XzeBAvJ0XpZwE1De"
+    "customRateKeys" : [""
     ],
     "destinationLatitude": 0,
     "destinationLongitude": 0,
